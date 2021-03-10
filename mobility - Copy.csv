@@ -1,0 +1,2293 @@
+mobility_key,metro_area,subregion,province,retail_and_recreation,grocery_and_pharmacy,parks,transit_stations,workplaces,residential
+1,National Capital Region,Ottawa Division,Ontario,13,6,68,3,1,-2
+2,National Capital Region,Ottawa Division,Ontario,30,26,128,3,4,-4
+3,National Capital Region,Ottawa Division,Ontario,-30,-53,52,-40,-62,14
+4,National Capital Region,Ottawa Division,Ontario,-5,9,-8,-6,-2,1
+5,National Capital Region,Ottawa Division,Ontario,0,6,-8,-8,1,0
+6,National Capital Region,Ottawa Division,Ontario,6,4,0,-8,1,0
+7,National Capital Region,Ottawa Division,Ontario,-1,0,9,-9,-8,2
+8,National Capital Region,Ottawa Division,Ontario,17,11,54,5,4,-2
+9,National Capital Region,Ottawa Division,Ontario,18,17,38,4,6,-2
+10,National Capital Region,Ottawa Division,Ontario,4,5,13,-6,2,0
+11,National Capital Region,Ottawa Division,Ontario,1,10,2,-6,3,-1
+12,National Capital Region,Ottawa Division,Ontario,-5,6,-14,-2,1,1
+13,National Capital Region,Ottawa Division,Ontario,-25,-25,-29,-22,-31,13
+14,National Capital Region,Ottawa Division,Ontario,-2,3,-12,2,-3,2
+15,National Capital Region,Ottawa Division,Ontario,13,13,-8,4,7,-2
+16,National Capital Region,Ottawa Division,Ontario,17,22,17,3,9,-2
+17,National Capital Region,Ottawa Division,Ontario,2,6,-7,-5,4,0
+18,National Capital Region,Ottawa Division,Ontario,0,5,-10,-2,4,0
+19,National Capital Region,Ottawa Division,Ontario,3,9,-9,-2,5,0
+20,National Capital Region,Ottawa Division,Ontario,9,8,-5,-4,-1,0
+21,National Capital Region,Ottawa Division,Ontario,-3,-2,-10,-1,5,1
+22,National Capital Region,Ottawa Division,Ontario,18,12,16,5,6,-3
+23,National Capital Region,Ottawa Division,Ontario,16,20,30,0,6,-2
+24,National Capital Region,Ottawa Division,Ontario,4,8,11,-8,3,0
+25,National Capital Region,Ottawa Division,Ontario,-2,4,-9,-8,3,1
+26,National Capital Region,Ottawa Division,Ontario,2,12,-7,-5,3,0
+27,National Capital Region,Ottawa Division,Ontario,8,35,-3,-8,0,1
+28,National Capital Region,Ottawa Division,Ontario,-8,41,-22,-18,-6,5
+29,National Capital Region,Ottawa Division,Ontario,-9,24,3,-17,-2,3
+30,National Capital Region,Ottawa Division,Ontario,-13,14,10,-25,-6,3
+31,National Capital Region,Ottawa Division,Ontario,-25,17,-23,-52,-48,17
+32,National Capital Region,Ottawa Division,Ontario,-43,-5,-35,-59,-59,22
+33,National Capital Region,Ottawa Division,Ontario,-46,-9,-23,-61,-61,23
+34,National Capital Region,Ottawa Division,Ontario,-47,-11,-20,-64,-64,24
+35,National Capital Region,Ottawa Division,Ontario,-54,-19,-35,-64,-64,26
+36,National Capital Region,Ottawa Division,Ontario,-55,-24,-9,-54,-39,13
+37,National Capital Region,Ottawa Division,Ontario,-53,-24,21,-58,-39,10
+38,National Capital Region,Ottawa Division,Ontario,-55,-27,-53,-74,-68,26
+39,National Capital Region,Ottawa Division,Ontario,-56,-23,-30,-73,-70,27
+40,National Capital Region,Ottawa Division,Ontario,-62,-33,-39,-74,-72,29
+41,National Capital Region,Ottawa Division,Ontario,-61,-33,-47,-76,-73,30
+42,National Capital Region,Ottawa Division,Ontario,-61,-28,-3,-71,-71,29
+43,National Capital Region,Ottawa Division,Ontario,-62,-34,-13,-66,-49,14
+44,National Capital Region,Ottawa Division,Ontario,-66,-44,-61,-76,-48,14
+45,National Capital Region,Ottawa Division,Ontario,-61,-34,-50,-77,-74,28
+46,National Capital Region,Ottawa Division,Ontario,-56,-25,-18,-72,-74,27
+47,National Capital Region,Ottawa Division,Ontario,-58,-31,-28,-72,-73,28
+48,National Capital Region,Ottawa Division,Ontario,-58,-30,-25,-74,-74,29
+49,National Capital Region,Ottawa Division,Ontario,-63,-33,-44,-75,-73,31
+50,National Capital Region,Ottawa Division,Ontario,-60,-34,12,-59,-48,14
+51,National Capital Region,Ottawa Division,Ontario,-63,-38,-21,-70,-48,13
+52,National Capital Region,Ottawa Division,Ontario,-59,-31,-11,-74,-74,27
+53,National Capital Region,Ottawa Division,Ontario,-60,-28,-28,-75,-74,28
+54,National Capital Region,Ottawa Division,Ontario,-59,-24,-45,-75,-74,29
+55,National Capital Region,Ottawa Division,Ontario,-53,-6,-53,-77,-75,29
+56,National Capital Region,Ottawa Division,Ontario,-86,-80,-54,-85,-89,38
+57,National Capital Region,Ottawa Division,Ontario,-56,-14,-18,-63,-48,14
+58,National Capital Region,Ottawa Division,Ontario,-83,-79,-15,-72,-58,14
+59,National Capital Region,Ottawa Division,Ontario,-64,-36,-64,-83,-80,31
+60,National Capital Region,Ottawa Division,Ontario,-59,-23,-40,-77,-74,29
+61,National Capital Region,Ottawa Division,Ontario,-59,-27,-48,-76,-74,29
+62,National Capital Region,Ottawa Division,Ontario,-59,-27,-39,-76,-74,30
+63,National Capital Region,Ottawa Division,Ontario,-62,-30,-33,-74,-72,31
+64,National Capital Region,Ottawa Division,Ontario,-61,-32,7,-59,-43,14
+65,National Capital Region,Ottawa Division,Ontario,-65,-42,-50,-74,-46,14
+66,National Capital Region,Ottawa Division,Ontario,-58,-29,-16,-74,-73,27
+67,National Capital Region,Ottawa Division,Ontario,-62,-36,-59,-78,-74,30
+68,National Capital Region,Ottawa Division,Ontario,-60,-31,-53,-77,-73,30
+69,National Capital Region,Ottawa Division,Ontario,-56,-23,-22,-73,-73,29
+70,National Capital Region,Ottawa Division,Ontario,-63,-29,-29,-73,-71,30
+71,National Capital Region,Ottawa Division,Ontario,-59,-28,31,-56,-41,13
+72,National Capital Region,Ottawa Division,Ontario,-59,-31,-10,-66,-41,12
+73,National Capital Region,Ottawa Division,Ontario,-57,-26,-16,-73,-72,27
+74,National Capital Region,Ottawa Division,Ontario,-55,-23,-1,-70,-72,27
+75,National Capital Region,Ottawa Division,Ontario,-56,-27,-31,-73,-71,28
+76,National Capital Region,Ottawa Division,Ontario,-57,-28,-59,-77,-72,30
+77,National Capital Region,Ottawa Division,Ontario,-57,-22,-14,-70,-70,29
+78,National Capital Region,Ottawa Division,Ontario,-55,-26,30,-56,-37,12
+79,National Capital Region,Ottawa Division,Ontario,-51,-24,53,-59,-35,10
+80,National Capital Region,Ottawa Division,Ontario,-54,-25,-27,-74,-71,27
+81,National Capital Region,Ottawa Division,Ontario,-53,-22,-12,-71,-71,27
+82,National Capital Region,Ottawa Division,Ontario,-53,-21,-5,-70,-70,27
+83,National Capital Region,Ottawa Division,Ontario,-53,-20,-10,-72,-70,28
+84,National Capital Region,Ottawa Division,Ontario,-58,-22,-27,-72,-68,29
+85,National Capital Region,Ottawa Division,Ontario,-53,-17,-34,-67,-36,14
+86,National Capital Region,Ottawa Division,Ontario,-43,-12,46,-61,-27,9
+87,National Capital Region,Ottawa Division,Ontario,-53,-25,-2,-73,-69,26
+88,National Capital Region,Ottawa Division,Ontario,-52,-22,-13,-73,-69,27
+89,National Capital Region,Ottawa Division,Ontario,-49,-19,15,-69,-68,26
+90,National Capital Region,Ottawa Division,Ontario,-48,-17,12,-69,-69,26
+91,National Capital Region,Ottawa Division,Ontario,-55,-23,-29,-72,-68,29
+92,National Capital Region,Ottawa Division,Ontario,-48,-18,68,-52,-30,10
+93,National Capital Region,Ottawa Division,Ontario,-37,-7,121,-55,-24,8
+94,National Capital Region,Ottawa Division,Ontario,-67,-62,93,-76,-85,27
+95,National Capital Region,Ottawa Division,Ontario,-40,-4,17,-69,-67,24
+96,National Capital Region,Ottawa Division,Ontario,-39,-7,43,-66,-66,24
+97,National Capital Region,Ottawa Division,Ontario,-39,-9,50,-67,-67,24
+98,National Capital Region,Ottawa Division,Ontario,-45,-14,55,-66,-63,24
+99,National Capital Region,Ottawa Division,Ontario,-40,-13,117,-48,-21,8
+100,National Capital Region,Ottawa Division,Ontario,-35,-14,145,-52,-19,6
+101,National Capital Region,Ottawa Division,Ontario,-41,-16,20,-69,-67,23
+102,National Capital Region,Ottawa Division,Ontario,-42,-17,16,-69,-66,24
+103,National Capital Region,Ottawa Division,Ontario,-40,-13,23,-67,-65,24
+104,National Capital Region,Ottawa Division,Ontario,-39,-11,9,-68,-65,24
+105,National Capital Region,Ottawa Division,Ontario,-44,-15,14,-65,-62,25
+106,National Capital Region,Ottawa Division,Ontario,-41,-16,38,-52,-16,10
+107,National Capital Region,Ottawa Division,Ontario,-34,-9,86,-55,-12,6
+108,National Capital Region,Ottawa Division,Ontario,-37,-13,32,-67,-64,22
+109,National Capital Region,Ottawa Division,Ontario,-41,-17,-5,-70,-64,24
+110,National Capital Region,Ottawa Division,Ontario,-40,-12,17,-67,-63,23
+111,National Capital Region,Ottawa Division,Ontario,-35,-9,73,-64,-62,22
+112,National Capital Region,Ottawa Division,Ontario,-42,-14,99,-62,-60,22
+113,National Capital Region,Ottawa Division,Ontario,-38,-13,85,-52,-13,8
+114,National Capital Region,Ottawa Division,Ontario,-30,-9,184,-52,-7,4
+115,National Capital Region,Ottawa Division,Ontario,-34,-11,64,-65,-62,21
+116,National Capital Region,Ottawa Division,Ontario,-37,-13,38,-67,-62,22
+117,National Capital Region,Ottawa Division,Ontario,-36,-11,20,-66,-62,23
+118,National Capital Region,Ottawa Division,Ontario,-33,-8,57,-65,-61,22
+119,National Capital Region,Ottawa Division,Ontario,-37,-11,48,-62,-58,21
+120,National Capital Region,Ottawa Division,Ontario,-32,-13,99,-47,-6,6
+121,National Capital Region,Ottawa Division,Ontario,-24,-9,195,-48,-1,3
+122,National Capital Region,Ottawa Division,Ontario,-26,-6,84,-63,-61,19
+123,National Capital Region,Ottawa Division,Ontario,-28,-7,83,-63,-60,20
+124,National Capital Region,Ottawa Division,Ontario,-29,-6,76,-61,-60,20
+125,National Capital Region,Ottawa Division,Ontario,-27,-5,81,-62,-60,20
+126,National Capital Region,Ottawa Division,Ontario,-34,-8,81,-59,-57,19
+127,National Capital Region,Ottawa Division,Ontario,-30,-8,130,-44,-2,3
+128,National Capital Region,Ottawa Division,Ontario,-23,-8,150,-52,5,0
+129,National Capital Region,Ottawa Division,Ontario,-30,-14,30,-65,-62,20
+130,National Capital Region,Ottawa Division,Ontario,-30,-10,34,-64,-61,21
+131,National Capital Region,Ottawa Division,Ontario,-23,-2,50,-60,-59,20
+132,National Capital Region,Ottawa Division,Ontario,-25,-6,72,-61,-59,20
+133,National Capital Region,Ottawa Division,Ontario,-33,-10,85,-58,-56,18
+134,National Capital Region,Ottawa Division,Ontario,-31,-14,67,-47,-8,6
+135,National Capital Region,Ottawa Division,Ontario,-24,-9,131,-48,4,2
+136,National Capital Region,Ottawa Division,Ontario,-21,1,62,-61,-59,18
+137,National Capital Region,Ottawa Division,Ontario,-11,28,71,-59,-58,16
+138,National Capital Region,Ottawa Division,Ontario,-60,-57,194,-68,-79,19
+139,National Capital Region,Ottawa Division,Ontario,-26,-1,22,-62,-62,19
+140,National Capital Region,Ottawa Division,Ontario,-31,-4,84,-57,-58,17
+141,National Capital Region,Ottawa Division,Ontario,-29,-10,157,-39,-3,3
+142,National Capital Region,Ottawa Division,Ontario,-22,-5,177,-42,1,0
+143,National Capital Region,Ottawa Division,Ontario,-22,-1,87,-59,-60,17
+144,National Capital Region,Ottawa Division,Ontario,-26,-6,62,-60,-60,19
+145,National Capital Region,Ottawa Division,Ontario,-25,-3,56,-59,-58,19
+146,National Capital Region,Ottawa Division,Ontario,-25,-2,48,-60,-58,19
+147,National Capital Region,Ottawa Division,Ontario,-32,-8,57,-59,-56,18
+148,National Capital Region,Ottawa Division,Ontario,-29,-9,36,-44,-7,6
+149,National Capital Region,Ottawa Division,Ontario,-21,-3,150,-44,1,2
+150,National Capital Region,Ottawa Division,Ontario,-23,-4,75,-58,-59,17
+151,National Capital Region,Ottawa Division,Ontario,-24,-5,78,-59,-59,18
+152,National Capital Region,Ottawa Division,Ontario,-23,-4,78,-58,-57,17
+153,National Capital Region,Ottawa Division,Ontario,-23,-1,43,-60,-58,19
+154,National Capital Region,Ottawa Division,Ontario,-28,-5,92,-55,-55,16
+155,National Capital Region,Ottawa Division,Ontario,-26,-8,164,-38,0,2
+156,National Capital Region,Ottawa Division,Ontario,-22,-7,104,-46,-1,1
+157,National Capital Region,Ottawa Division,Ontario,-20,-1,81,-59,-58,17
+158,National Capital Region,Ottawa Division,Ontario,-22,-4,92,-59,-57,17
+159,National Capital Region,Ottawa Division,Ontario,-25,-5,20,-61,-57,19
+160,National Capital Region,Ottawa Division,Ontario,-20,-1,80,-58,-57,18
+161,National Capital Region,Ottawa Division,Ontario,-28,-5,103,-56,-54,16
+162,National Capital Region,Ottawa Division,Ontario,-25,-9,176,-39,-1,2
+163,National Capital Region,Ottawa Division,Ontario,-19,-5,153,-44,1,0
+164,National Capital Region,Ottawa Division,Ontario,-22,-3,39,-62,-60,18
+165,National Capital Region,Ottawa Division,Ontario,-22,-2,88,-60,-58,17
+166,National Capital Region,Ottawa Division,Ontario,-23,-4,30,-59,-58,18
+167,National Capital Region,Ottawa Division,Ontario,-19,2,54,-57,-58,17
+168,National Capital Region,Ottawa Division,Ontario,-25,0,107,-51,-56,14
+169,National Capital Region,Ottawa Division,Ontario,-26,-9,181,-32,-2,0
+170,National Capital Region,Ottawa Division,Ontario,-25,-11,2,-46,-7,3
+171,National Capital Region,Ottawa Division,Ontario,-35,-24,137,-67,-77,17
+172,National Capital Region,Ottawa Division,Ontario,-27,-8,-21,-62,-61,19
+173,National Capital Region,Ottawa Division,Ontario,-20,1,59,-60,-58,17
+174,National Capital Region,Ottawa Division,Ontario,-16,0,107,-59,-57,16
+175,National Capital Region,Ottawa Division,Ontario,-26,-7,100,-57,-55,15
+176,National Capital Region,Ottawa Division,Ontario,-23,-10,186,-38,0,1
+177,National Capital Region,Ottawa Division,Ontario,-20,-6,83,-47,-1,1
+178,National Capital Region,Ottawa Division,Ontario,-20,-6,55,-63,-59,17
+179,National Capital Region,Ottawa Division,Ontario,-24,-8,33,-62,-58,18
+180,National Capital Region,Ottawa Division,Ontario,-19,-3,89,-58,-57,16
+181,National Capital Region,Ottawa Division,Ontario,-18,-3,91,-59,-57,16
+182,National Capital Region,Ottawa Division,Ontario,-26,-6,104,-56,-55,15
+183,National Capital Region,Ottawa Division,Ontario,-22,-9,212,-36,-1,0
+184,National Capital Region,Ottawa Division,Ontario,-20,-10,94,-46,-1,0
+185,National Capital Region,Ottawa Division,Ontario,-20,-7,40,-61,-60,17
+186,National Capital Region,Ottawa Division,Ontario,-20,-6,63,-60,-57,17
+187,National Capital Region,Ottawa Division,Ontario,-19,-4,76,-57,-56,16
+188,National Capital Region,Ottawa Division,Ontario,-18,-2,38,-61,-57,16
+189,National Capital Region,Ottawa Division,Ontario,-26,-6,72,-58,-54,15
+190,National Capital Region,Ottawa Division,Ontario,-21,-9,20,-36,0,0
+191,National Capital Region,Ottawa Division,Ontario,-16,-3,20,-44,2,0
+192,National Capital Region,Ottawa Division,Ontario,-20,-5,49,-63,-59,16
+193,National Capital Region,Ottawa Division,Ontario,-20,-5,59,-61,-57,16
+194,National Capital Region,Ottawa Division,Ontario,-19,-3,69,-59,-56,15
+195,National Capital Region,Ottawa Division,Ontario,-18,-4,18,-61,-57,17
+196,National Capital Region,Ottawa Division,Ontario,-24,-7,91,-56,-53,14
+197,National Capital Region,Ottawa Division,Ontario,-23,-8,15,-47,-8,5
+198,National Capital Region,Ottawa Division,Ontario,-9,2,20,-40,4,-1
+199,National Capital Region,Ottawa Division,Ontario,-14,-2,91,-59,-58,14
+200,National Capital Region,Ottawa Division,Ontario,-18,-4,47,-59,-57,16
+201,National Capital Region,Ottawa Division,Ontario,-22,-6,8,-62,-57,17
+202,National Capital Region,Ottawa Division,Ontario,-13,2,77,-56,-56,15
+203,National Capital Region,Ottawa Division,Ontario,-22,-5,61,-54,-53,14
+204,National Capital Region,Ottawa Division,Ontario,-18,-5,20,-40,-4,1
+205,National Capital Region,Ottawa Division,Ontario,-3,9,20,-39,4,-2
+206,National Capital Region,Ottawa Division,Ontario,-57,-55,29,-77,-84,21
+207,National Capital Region,Ottawa Division,Ontario,-17,6,13,-58,-58,16
+208,National Capital Region,Ottawa Division,Ontario,-24,-7,2,-61,-57,18
+209,National Capital Region,Ottawa Division,Ontario,-18,-1,21,-58,-56,17
+210,National Capital Region,Ottawa Division,Ontario,-24,-9,78,-53,-52,15
+211,National Capital Region,Ottawa Division,Ontario,-15,-3,175,-36,0,2
+212,National Capital Region,Ottawa Division,Ontario,-17,-3,37,-46,-2,4
+213,National Capital Region,Ottawa Division,Ontario,-19,-6,57,-59,-55,16
+214,National Capital Region,Ottawa Division,Ontario,-21,-8,24,-59,-53,17
+215,National Capital Region,Ottawa Division,Ontario,-22,-9,58,-59,-54,16
+216,National Capital Region,Ottawa Division,Ontario,-19,-4,42,-58,-54,17
+217,National Capital Region,Ottawa Division,Ontario,-26,-11,42,-56,-50,16
+218,National Capital Region,Ottawa Division,Ontario,-18,-4,113,-42,-1,3
+219,National Capital Region,Ottawa Division,Ontario,-13,1,131,-46,3,1
+220,National Capital Region,Ottawa Division,Ontario,-22,-8,51,-61,-57,16
+221,National Capital Region,Ottawa Division,Ontario,-25,-8,32,-60,-54,17
+222,National Capital Region,Ottawa Division,Ontario,-26,-9,41,-62,-53,17
+223,National Capital Region,Ottawa Division,Ontario,-25,-7,9,-62,-53,18
+224,National Capital Region,Ottawa Division,Ontario,-29,-10,39,-58,-49,16
+225,National Capital Region,Ottawa Division,Ontario,-21,-6,131,-46,0,3
+226,National Capital Region,Ottawa Division,Ontario,-17,-1,117,-47,4,1
+227,National Capital Region,Ottawa Division,Ontario,-25,-8,47,-63,-55,17
+228,National Capital Region,Ottawa Division,Ontario,-28,-9,-6,-64,-54,18
+229,National Capital Region,Ottawa Division,Ontario,-27,-6,-14,-65,-54,19
+230,National Capital Region,Ottawa Division,Ontario,-23,-2,9,-61,-52,18
+231,National Capital Region,Ottawa Division,Ontario,-33,-12,-8,-62,-49,19
+232,National Capital Region,Ottawa Division,Ontario,-22,-3,78,-47,-3,5
+233,National Capital Region,Ottawa Division,Ontario,-20,0,50,-53,-1,4
+234,National Capital Region,Ottawa Division,Ontario,-27,-7,6,-65,-56,18
+235,National Capital Region,Ottawa Division,Ontario,-28,-6,-4,-64,-53,18
+236,National Capital Region,Ottawa Division,Ontario,-32,-9,-26,-68,-53,19
+237,National Capital Region,Ottawa Division,Ontario,-24,3,5,-61,-52,18
+238,National Capital Region,Ottawa Division,Ontario,-29,0,19,-57,-50,17
+239,National Capital Region,Ottawa Division,Ontario,-29,1,89,-49,-4,6
+240,National Capital Region,Ottawa Division,Ontario,-27,4,96,-51,0,3
+241,National Capital Region,Ottawa Division,Ontario,-70,-62,42,-81,-84,24
+242,National Capital Region,Ottawa Division,Ontario,-34,-7,-28,-65,-55,20
+243,National Capital Region,Ottawa Division,Ontario,-31,-6,23,-63,-53,19
+244,National Capital Region,Ottawa Division,Ontario,-33,-9,-25,-64,-54,21
+245,National Capital Region,Ottawa Division,Ontario,-35,-8,-3,-61,-50,20
+246,National Capital Region,Ottawa Division,Ontario,-25,-2,107,-46,-7,6
+247,National Capital Region,Ottawa Division,Ontario,-25,-1,55,-52,-6,6
+248,National Capital Region,Ottawa Division,Ontario,-34,-12,-19,-66,-57,20
+249,National Capital Region,Ottawa Division,Ontario,-31,-7,0,-63,-54,19
+250,National Capital Region,Ottawa Division,Ontario,-36,-13,-25,-67,-54,21
+251,National Capital Region,Ottawa Division,Ontario,-30,-4,0,-61,-53,19
+252,National Capital Region,Ottawa Division,Ontario,-30,-8,76,-56,-48,17
+253,National Capital Region,Ottawa Division,Ontario,-27,-1,38,-49,-8,7
+254,National Capital Region,Ottawa Division,Ontario,-23,1,60,-51,-4,5
+255,National Capital Region,Ottawa Division,Ontario,-35,-13,-31,-66,-56,20
+256,National Capital Region,Ottawa Division,Ontario,-31,-5,-15,-63,-53,19
+257,National Capital Region,Ottawa Division,Ontario,-31,-6,-9,-63,-52,19
+258,National Capital Region,Ottawa Division,Ontario,-28,-2,-21,-63,-52,19
+259,National Capital Region,Ottawa Division,Ontario,-32,-3,-2,-59,-48,19
+260,National Capital Region,Ottawa Division,Ontario,-26,3,51,-47,-6,6
+261,National Capital Region,Ottawa Division,Ontario,-29,-3,-21,-56,-9,6
+262,National Capital Region,Ottawa Division,Ontario,-35,-12,-29,-67,-55,19
+263,National Capital Region,Ottawa Division,Ontario,-36,-15,-36,-66,-53,20
+264,National Capital Region,Ottawa Division,Ontario,-35,-12,-14,-67,-52,20
+265,National Capital Region,Ottawa Division,Ontario,-29,-7,10,-62,-51,19
+266,National Capital Region,Ottawa Division,Ontario,-33,-11,21,-59,-48,19
+267,National Capital Region,Ottawa Division,Ontario,-20,-3,114,-47,-2,5
+268,National Capital Region,Ottawa Division,Ontario,-15,1,143,-49,2,3
+269,National Capital Region,Ottawa Division,Ontario,-27,-8,34,-64,-53,18
+270,National Capital Region,Ottawa Division,Ontario,-25,-6,20,-60,-50,18
+271,National Capital Region,Ottawa Division,Ontario,-26,-9,-2,-65,-56,20
+272,National Capital Region,Ottawa Division,Ontario,-26,-3,-14,-62,-50,19
+273,National Capital Region,Ottawa Division,Ontario,-30,-10,-12,-60,-48,20
+274,National Capital Region,Ottawa Division,Ontario,-20,-1,37,-48,-4,6
+275,National Capital Region,Ottawa Division,Ontario,-26,-8,-30,-56,-6,7
+276,National Capital Region,Ottawa Division,Ontario,-31,-12,-24,-66,-54,19
+277,National Capital Region,Ottawa Division,Ontario,-31,-12,-31,-65,-50,20
+278,National Capital Region,Ottawa Division,Ontario,-32,-12,-30,-67,-51,20
+279,National Capital Region,Ottawa Division,Ontario,-27,-6,-18,-64,-50,19
+280,National Capital Region,Ottawa Division,Ontario,-29,-8,9,-61,-47,19
+281,National Capital Region,Ottawa Division,Ontario,-19,1,24,-53,-3,7
+282,National Capital Region,Ottawa Division,Ontario,-22,-1,-9,-57,-4,7
+283,National Capital Region,Ottawa Division,Ontario,-33,-18,-26,-66,-54,20
+284,National Capital Region,Ottawa Division,Ontario,-29,-10,-33,-66,-50,19
+285,National Capital Region,Ottawa Division,Ontario,-39,-22,-36,-68,-52,21
+286,National Capital Region,Ottawa Division,Ontario,-25,-5,-37,-65,-50,20
+287,National Capital Region,Ottawa Division,Ontario,-25,-5,-21,-59,-46,19
+288,National Capital Region,Ottawa Division,Ontario,-16,4,7,-48,-1,7
+289,National Capital Region,Ottawa Division,Ontario,-14,6,40,-51,1,5
+290,National Capital Region,Ottawa Division,Ontario,-28,-11,-38,-67,-53,19
+291,National Capital Region,Ottawa Division,Ontario,-28,-4,-39,-66,-50,19
+292,National Capital Region,Ottawa Division,Ontario,-31,-8,-31,-68,-50,20
+293,National Capital Region,Ottawa Division,Ontario,-26,-2,-29,-64,-49,19
+294,National Capital Region,Ottawa Division,Ontario,-32,-9,-28,-63,-46,20
+295,National Capital Region,Ottawa Division,Ontario,-20,2,-6,-53,-3,7
+296,National Capital Region,Ottawa Division,Ontario,-19,3,10,-57,0,6
+297,National Capital Region,Ottawa Division,Ontario,-28,-7,-21,-67,-53,19
+298,National Capital Region,Ottawa Division,Ontario,-29,-8,-31,-67,-49,19
+299,National Capital Region,Ottawa Division,Ontario,-34,-11,-28,-68,-50,20
+300,National Capital Region,Ottawa Division,Ontario,-25,0,-29,-64,-49,19
+301,National Capital Region,Ottawa Division,Ontario,-27,-1,-14,-62,-45,19
+302,National Capital Region,Ottawa Division,Ontario,-27,-3,-25,-55,-6,9
+303,National Capital Region,Ottawa Division,Ontario,-20,2,-9,-58,-1,6
+304,National Capital Region,Ottawa Division,Ontario,-27,-4,-26,-68,-53,19
+305,National Capital Region,Ottawa Division,Ontario,-28,-6,-43,-67,-50,19
+306,National Capital Region,Ottawa Division,Ontario,-30,-8,-45,-69,-50,20
+307,National Capital Region,Ottawa Division,Ontario,-22,4,-36,-65,-49,19
+308,National Capital Region,Ottawa Division,Ontario,-28,-3,-24,-62,-45,19
+309,National Capital Region,Ottawa Division,Ontario,-20,5,-2,-50,-2,7
+310,National Capital Region,Ottawa Division,Ontario,-21,2,5,-55,2,6
+311,National Capital Region,Ottawa Division,Ontario,-8,25,-14,-65,-59,18
+312,National Capital Region,Ottawa Division,Ontario,-9,30,-33,-65,-57,18
+313,National Capital Region,Ottawa Division,Ontario,-9,40,-31,-66,-57,18
+314,National Capital Region,Ottawa Division,Ontario,-26,28,-47,-70,-67,20
+315,National Capital Region,Ottawa Division,Ontario,-88,-83,-49,-87,-85,28
+316,National Capital Region,Ottawa Division,Ontario,-68,-50,-23,-74,-37,13
+317,National Capital Region,Ottawa Division,Ontario,-53,-26,15,-69,-19,9
+318,National Capital Region,Ottawa Division,Ontario,-53,-23,-28,-81,-78,27
+319,National Capital Region,Ottawa Division,Ontario,-47,-10,-30,-77,-69,25
+320,National Capital Region,Ottawa Division,Ontario,-46,-3,-26,-77,-69,26
+321,National Capital Region,Ottawa Division,Ontario,-38,14,-16,-76,-71,25
+322,National Capital Region,Ottawa Division,Ontario,-83,-77,-7,-86,-86,33
+323,National Capital Region,Ottawa Division,Ontario,-54,-23,49,-65,-26,13
+324,National Capital Region,Ottawa Division,Ontario,-48,-15,29,-65,-16,10
+325,National Capital Region,Ottawa Division,Ontario,-47,-15,-24,-75,-62,23
+326,National Capital Region,Ottawa Division,Ontario,-49,-17,-33,-73,-61,24
+327,National Capital Region,Ottawa Division,Ontario,-50,-18,-33,-75,-60,24
+328,National Capital Region,Ottawa Division,Ontario,-49,-15,-36,-74,-60,25
+329,National Capital Region,Ottawa Division,Ontario,-52,-20,-27,-73,-57,25
+330,National Capital Region,Ottawa Division,Ontario,-50,-13,25,-67,-20,12
+331,National Capital Region,Ottawa Division,Ontario,-48,-14,25,-68,-17,9
+332,National Capital Region,Ottawa Division,Ontario,-51,-20,-26,-76,-62,24
+333,National Capital Region,Ottawa Division,Ontario,-50,-16,-33,-75,-60,24
+334,National Capital Region,Ottawa Division,Ontario,-50,-16,-43,-75,-61,24
+335,National Capital Region,Ottawa Division,Ontario,-57,-26,-46,-77,-64,26
+336,National Capital Region,Ottawa Division,Ontario,-56,-20,-36,-76,-61,27
+337,National Capital Region,Ottawa Division,Ontario,-66,-41,-6,-72,-33,15
+338,National Capital Region,Ottawa Division,Ontario,-53,-21,12,-71,-25,11
+339,National Capital Region,Ottawa Division,Ontario,-55,-27,-35,-78,-65,25
+340,National Capital Region,Ottawa Division,Ontario,-56,-27,-44,-77,-64,25
+341,National Capital Region,Ottawa Division,Ontario,-56,-26,-44,-78,-63,26
+342,National Capital Region,Ottawa Division,Ontario,-57,-30,-44,-76,-64,26
+343,National Capital Region,Ottawa Division,Ontario,-54,-21,-28,-75,-60,27
+344,National Capital Region,Ottawa Division,Ontario,-54,-19,-18,-72,-27,13
+345,National Capital Region,Ottawa Division,Ontario,-53,-21,-14,-74,-25,11
+346,National Capital Region,Ottawa Division,Ontario,-55,-28,-37,-77,-65,25
+347,National Capital Region,Ottawa Division,Ontario,-56,-27,-41,-77,-63,25
+348,National Capital Region,Ottawa Division,Ontario,-55,-25,-32,-76,-63,25
+349,National Capital Region,Ottawa Division,Ontario,-53,-22,-47,-76,-63,26
+350,National Capital Region,Ottawa Division,Ontario,-55,-23,-43,-76,-60,27
+351,National Capital Region,Ottawa Division,Ontario,-51,-15,3,-71,-25,13
+352,National Capital Region,Ottawa Division,Ontario,-49,-15,18,-72,-22,10
+353,National Capital Region,Ottawa Division,Ontario,-51,-20,-24,-76,-60,23
+354,National Capital Region,Ottawa Division,Ontario,-53,-22,-33,-75,-59,23
+355,National Capital Region,Ottawa Division,Ontario,-52,-20,-22,-76,-58,23
+356,National Capital Region,Ottawa Division,Ontario,-48,-15,-10,-74,-58,23
+357,National Capital Region,Ottawa Division,Ontario,-55,-25,-26,-75,-55,25
+358,National Capital Region,Ottawa Division,Ontario,-49,-13,38,-71,-23,12
+359,National Capital Region,Ottawa Division,Ontario,-50,-17,32,-73,-21,10
+360,National Capital Region,Ottawa Division,Ontario,-52,-24,-25,-77,-60,22
+361,National Capital Region,Ottawa Division,Ontario,-52,-21,-28,-75,-57,23
+362,National Capital Region,Ottawa Division,Ontario,-52,-19,-25,-76,-57,23
+363,National Capital Region,Ottawa Division,Ontario,-48,-13,-35,-74,-57,24
+364,National Capital Region,Ottawa Division,Ontario,-52,-16,-39,-75,-55,25
+365,National Capital Region,Ottawa Division,Ontario,-48,-4,-4,-70,-22,12
+366,National Capital Region,Ottawa Division,Ontario,-37,6,77,-68,-13,8
+367,National Capital Region,Ottawa Division,Ontario,-73,-61,12,-85,-83,29
+368,National Capital Region,Ottawa Division,Ontario,-47,-21,-52,-72,-59,23
+369,National Capital Region,Ottawa Division,Ontario,-36,-7,-28,-70,-53,20
+370,National Capital Region,Ottawa Division,Ontario,-34,-9,-30,-69,-53,21
+371,National Capital Region,Ottawa Division,Ontario,-40,-16,-27,-68,-49,21
+372,National Capital Region,Ottawa Division,Ontario,-26,-3,46,-57,-8,8
+373,National Capital Region,Ottawa Division,Ontario,-25,-2,62,-60,-5,6
+374,National Capital Region,Ottawa Division,Ontario,-43,-22,-34,-73,-55,21
+375,National Capital Region,Ottawa Division,Ontario,-38,-13,-40,-71,-53,21
+376,National Capital Region,Ottawa Division,Ontario,-42,-21,-42,-72,-53,21
+377,National Capital Region,Ottawa Division,Ontario,-35,-11,-35,-69,-52,21
+378,National Capital Region,Ottawa Division,Ontario,-35,-8,-17,-66,-48,20
+379,National Capital Region,Ottawa Division,Ontario,-35,-15,-10,-61,-10,9
+380,National Capital Region,Ottawa Division,Ontario,-21,1,28,-58,-3,6
+381,National Capital Region,Ottawa Division,Ontario,-35,-14,-39,-71,-55,20
+382,National Capital Region,Ottawa Division,Ontario,-37,-16,-47,-72,-53,21
+383,Greater Toronto Area,Regional Municipality of Durham,Ontario,4,6,18,6,2,-1
+384,Greater Toronto Area,Regional Municipality of Durham,Ontario,15,13,29,1,-2,-3
+385,Greater Toronto Area,Regional Municipality of Durham,Ontario,-24,-42,52,-47,-75,17
+386,Greater Toronto Area,Regional Municipality of Durham,Ontario,0,12,-1,0,-2,1
+387,Greater Toronto Area,Regional Municipality of Durham,Ontario,2,6,-1,-4,3,0
+388,Greater Toronto Area,Regional Municipality of Durham,Ontario,4,7,4,-1,2,-1
+389,Greater Toronto Area,Regional Municipality of Durham,Ontario,1,-3,-4,-2,-6,1
+390,Greater Toronto Area,Regional Municipality of Durham,Ontario,9,8,43,18,9,-2
+391,Greater Toronto Area,Regional Municipality of Durham,Ontario,11,3,48,9,6,-2
+392,Greater Toronto Area,Regional Municipality of Durham,Ontario,3,2,19,-3,1,0
+393,Greater Toronto Area,Regional Municipality of Durham,Ontario,2,7,4,2,2,-1
+394,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,-4,-11,-8,-3,3
+395,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,-12,-19,-11,-10,5
+396,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,-9,-16,-2,-3,3
+397,Greater Toronto Area,Regional Municipality of Durham,Ontario,8,9,21,7,9,-1
+398,Greater Toronto Area,Regional Municipality of Durham,Ontario,12,7,23,1,6,-1
+399,Greater Toronto Area,Regional Municipality of Durham,Ontario,2,4,0,-4,3,0
+400,Greater Toronto Area,Regional Municipality of Durham,Ontario,1,0,-7,-3,4,0
+401,Greater Toronto Area,Regional Municipality of Durham,Ontario,5,4,0,-3,5,-1
+402,Greater Toronto Area,Regional Municipality of Durham,Ontario,5,6,19,-1,2,0
+403,Greater Toronto Area,Regional Municipality of Durham,Ontario,-2,-3,-1,-2,4,0
+404,Greater Toronto Area,Regional Municipality of Durham,Ontario,10,8,45,7,9,-2
+405,Greater Toronto Area,Regional Municipality of Durham,Ontario,11,5,79,5,4,-1
+406,Greater Toronto Area,Regional Municipality of Durham,Ontario,5,6,46,-3,3,0
+407,Greater Toronto Area,Regional Municipality of Durham,Ontario,1,3,-2,-6,2,1
+408,Greater Toronto Area,Regional Municipality of Durham,Ontario,5,10,4,-5,3,0
+409,Greater Toronto Area,Regional Municipality of Durham,Ontario,9,41,30,-9,2,0
+410,Greater Toronto Area,Regional Municipality of Durham,Ontario,-3,46,10,-25,-13,5
+411,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,27,38,-16,1,3
+412,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,11,65,-20,-6,4
+413,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,30,32,-43,-31,11
+414,Greater Toronto Area,Regional Municipality of Durham,Ontario,-27,14,16,-52,-39,14
+415,Greater Toronto Area,Regional Municipality of Durham,Ontario,-32,2,19,-56,-43,17
+416,Greater Toronto Area,Regional Municipality of Durham,Ontario,-34,6,29,-57,-47,18
+417,Greater Toronto Area,Regional Municipality of Durham,Ontario,-44,-5,0,-60,-49,21
+418,Greater Toronto Area,Regional Municipality of Durham,Ontario,-48,-9,54,-47,-32,12
+419,Greater Toronto Area,Regional Municipality of Durham,Ontario,-50,-24,28,-51,-36,11
+420,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-11,-32,-68,-55,22
+421,Greater Toronto Area,Regional Municipality of Durham,Ontario,-47,-11,3,-66,-57,22
+422,Greater Toronto Area,Regional Municipality of Durham,Ontario,-53,-24,9,-68,-60,24
+423,Greater Toronto Area,Regional Municipality of Durham,Ontario,-54,-18,-2,-70,-61,25
+424,Greater Toronto Area,Regional Municipality of Durham,Ontario,-54,-20,23,-67,-60,25
+425,Greater Toronto Area,Regional Municipality of Durham,Ontario,-60,-26,-8,-59,-44,16
+426,Greater Toronto Area,Regional Municipality of Durham,Ontario,-59,-37,-2,-63,-44,13
+427,Greater Toronto Area,Regional Municipality of Durham,Ontario,-54,-29,-37,-74,-62,25
+428,Greater Toronto Area,Regional Municipality of Durham,Ontario,-49,-19,-20,-69,-63,24
+429,Greater Toronto Area,Regional Municipality of Durham,Ontario,-47,-21,3,-68,-62,24
+430,Greater Toronto Area,Regional Municipality of Durham,Ontario,-49,-19,10,-69,-62,25
+431,Greater Toronto Area,Regional Municipality of Durham,Ontario,-53,-24,-28,-71,-62,27
+432,Greater Toronto Area,Regional Municipality of Durham,Ontario,-55,-25,-4,-57,-44,15
+433,Greater Toronto Area,Regional Municipality of Durham,Ontario,-58,-35,3,-61,-44,13
+434,Greater Toronto Area,Regional Municipality of Durham,Ontario,-52,-24,-1,-70,-63,24
+435,Greater Toronto Area,Regional Municipality of Durham,Ontario,-50,-18,-13,-69,-63,24
+436,Greater Toronto Area,Regional Municipality of Durham,Ontario,-47,-10,-5,-68,-63,24
+437,Greater Toronto Area,Regional Municipality of Durham,Ontario,-38,13,-13,-68,-64,24
+438,Greater Toronto Area,Regional Municipality of Durham,Ontario,-81,-71,-40,-81,-86,35
+439,Greater Toronto Area,Regional Municipality of Durham,Ontario,-50,-9,6,-55,-46,15
+440,Greater Toronto Area,Regional Municipality of Durham,Ontario,-81,-76,-26,-63,-54,15
+441,Greater Toronto Area,Regional Municipality of Durham,Ontario,-54,-25,-42,-75,-69,27
+442,Greater Toronto Area,Regional Municipality of Durham,Ontario,-48,-15,-23,-69,-62,25
+443,Greater Toronto Area,Regional Municipality of Durham,Ontario,-49,-20,-33,-71,-62,25
+444,Greater Toronto Area,Regional Municipality of Durham,Ontario,-49,-14,-25,-70,-62,26
+445,Greater Toronto Area,Regional Municipality of Durham,Ontario,-52,-22,-26,-70,-62,27
+446,Greater Toronto Area,Regional Municipality of Durham,Ontario,-53,-22,10,-53,-41,15
+447,Greater Toronto Area,Regional Municipality of Durham,Ontario,-58,-36,-29,-61,-42,14
+448,Greater Toronto Area,Regional Municipality of Durham,Ontario,-47,-20,-5,-68,-61,24
+449,Greater Toronto Area,Regional Municipality of Durham,Ontario,-49,-22,-36,-71,-62,25
+450,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-17,-21,-69,-61,24
+451,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-13,-16,-67,-61,25
+452,Greater Toronto Area,Regional Municipality of Durham,Ontario,-51,-22,-23,-68,-61,26
+453,Greater Toronto Area,Regional Municipality of Durham,Ontario,-50,-19,45,-46,-40,14
+454,Greater Toronto Area,Regional Municipality of Durham,Ontario,-55,-33,-36,-60,-41,13
+455,Greater Toronto Area,Regional Municipality of Durham,Ontario,-44,-15,24,-64,-61,23
+456,Greater Toronto Area,Regional Municipality of Durham,Ontario,-44,-15,-12,-65,-61,24
+457,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-17,-33,-69,-61,24
+458,Greater Toronto Area,Regional Municipality of Durham,Ontario,-47,-9,-22,-66,-61,25
+459,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-12,9,-62,-59,24
+460,Greater Toronto Area,Regional Municipality of Durham,Ontario,-49,-17,15,-47,-39,14
+461,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-22,68,-40,-34,10
+462,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-11,-2,-64,-59,23
+463,Greater Toronto Area,Regional Municipality of Durham,Ontario,-41,-7,4,-62,-59,22
+464,Greater Toronto Area,Regional Municipality of Durham,Ontario,-40,-9,8,-62,-58,22
+465,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-7,-7,-65,-59,24
+466,Greater Toronto Area,Regional Municipality of Durham,Ontario,-45,-8,-10,-62,-57,24
+467,Greater Toronto Area,Regional Municipality of Durham,Ontario,-44,-4,-10,-49,-34,14
+468,Greater Toronto Area,Regional Municipality of Durham,Ontario,-37,-13,-5,-45,-30,10
+469,Greater Toronto Area,Regional Municipality of Durham,Ontario,-44,-16,-15,-66,-57,23
+470,Greater Toronto Area,Regional Municipality of Durham,Ontario,-41,-10,-10,-63,-56,22
+471,Greater Toronto Area,Regional Municipality of Durham,Ontario,-35,-8,26,-61,-56,21
+472,Greater Toronto Area,Regional Municipality of Durham,Ontario,-38,-5,-5,-64,-57,23
+473,Greater Toronto Area,Regional Municipality of Durham,Ontario,-41,-9,-9,-61,-57,24
+474,Greater Toronto Area,Regional Municipality of Durham,Ontario,-37,-8,107,-34,-30,10
+475,Greater Toronto Area,Regional Municipality of Durham,Ontario,-34,-10,47,-45,-28,9
+476,Greater Toronto Area,Regional Municipality of Durham,Ontario,-67,-58,-20,-74,-84,30
+477,Greater Toronto Area,Regional Municipality of Durham,Ontario,-27,6,22,-57,-54,20
+478,Greater Toronto Area,Regional Municipality of Durham,Ontario,-23,1,61,-55,-53,19
+479,Greater Toronto Area,Regional Municipality of Durham,Ontario,-25,3,60,-56,-53,19
+480,Greater Toronto Area,Regional Municipality of Durham,Ontario,-30,-6,44,-54,-51,19
+481,Greater Toronto Area,Regional Municipality of Durham,Ontario,-30,-5,110,-32,-22,9
+482,Greater Toronto Area,Regional Municipality of Durham,Ontario,-27,-16,83,-33,-21,7
+483,Greater Toronto Area,Regional Municipality of Durham,Ontario,-22,-5,53,-55,-54,18
+484,Greater Toronto Area,Regional Municipality of Durham,Ontario,-23,-6,43,-55,-51,18
+485,Greater Toronto Area,Regional Municipality of Durham,Ontario,-22,-5,42,-54,-51,18
+486,Greater Toronto Area,Regional Municipality of Durham,Ontario,-27,-6,-6,-57,-52,20
+487,Greater Toronto Area,Regional Municipality of Durham,Ontario,-30,-9,-7,-54,-50,20
+488,Greater Toronto Area,Regional Municipality of Durham,Ontario,-30,-8,66,-28,-13,9
+489,Greater Toronto Area,Regional Municipality of Durham,Ontario,-24,-13,77,-29,-13,7
+490,Greater Toronto Area,Regional Municipality of Durham,Ontario,-21,-5,60,-52,-50,17
+491,Greater Toronto Area,Regional Municipality of Durham,Ontario,-24,-7,31,-53,-49,18
+492,Greater Toronto Area,Regional Municipality of Durham,Ontario,-23,-5,41,-54,-48,18
+493,Greater Toronto Area,Regional Municipality of Durham,Ontario,-22,0,70,-52,-48,17
+494,Greater Toronto Area,Regional Municipality of Durham,Ontario,-27,-7,42,-55,-48,18
+495,Greater Toronto Area,Regional Municipality of Durham,Ontario,-24,-6,130,-29,-12,7
+496,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,-12,143,-30,-13,5
+497,Greater Toronto Area,Regional Municipality of Durham,Ontario,-17,-5,78,-53,-49,16
+498,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,-3,66,-54,-48,16
+499,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,-2,35,-55,-48,18
+500,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,5,66,-51,-47,17
+501,Greater Toronto Area,Regional Municipality of Durham,Ontario,-25,-3,48,-51,-46,16
+502,Greater Toronto Area,Regional Municipality of Durham,Ontario,-24,-3,126,-29,-8,6
+503,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,-9,141,-25,-8,4
+504,Greater Toronto Area,Regional Municipality of Durham,Ontario,-17,0,72,-50,-47,15
+505,Greater Toronto Area,Regional Municipality of Durham,Ontario,-17,3,76,-51,-47,15
+506,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,3,76,-51,-46,16
+507,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,8,79,-52,-47,15
+508,Greater Toronto Area,Regional Municipality of Durham,Ontario,-18,4,64,-44,-45,14
+509,Greater Toronto Area,Regional Municipality of Durham,Ontario,-18,8,147,-15,-3,4
+510,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-3,129,-17,-2,2
+511,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-1,48,-49,-49,15
+512,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,1,15,-50,-48,16
+513,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,5,43,-46,-45,15
+514,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,11,80,-45,-45,14
+515,Greater Toronto Area,Regional Municipality of Durham,Ontario,-18,2,78,-41,-45,13
+516,Greater Toronto Area,Regional Municipality of Durham,Ontario,-21,1,112,-15,-7,5
+517,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-7,164,-11,-1,2
+518,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,6,90,-47,-47,13
+519,Greater Toronto Area,Regional Municipality of Durham,Ontario,8,32,85,-43,-46,11
+520,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-42,237,-58,-73,19
+521,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,14,75,-49,-49,14
+522,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,3,78,-48,-50,14
+523,Greater Toronto Area,Regional Municipality of Durham,Ontario,-18,-3,166,-20,-7,4
+524,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,-11,152,-16,-6,1
+525,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,4,90,-50,-47,13
+526,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,4,81,-48,-47,14
+527,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,3,64,-51,-45,14
+528,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,9,72,-50,-45,14
+529,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-4,58,-48,-45,13
+530,Greater Toronto Area,Regional Municipality of Durham,Ontario,-20,-4,59,-29,-7,6
+531,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,-11,124,-22,-5,2
+532,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,0,80,-50,-47,13
+533,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,2,89,-48,-46,13
+534,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,1,81,-50,-44,13
+535,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,6,24,-54,-46,15
+536,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-1,88,-44,-44,12
+537,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-5,178,-17,-5,2
+538,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,-15,75,-25,-10,3
+539,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,2,94,-48,-45,12
+540,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,1,84,-48,-45,13
+541,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,-2,25,-52,-45,14
+542,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,7,84,-50,-44,13
+543,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,0,89,-47,-43,12
+544,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-4,182,-21,-3,2
+545,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,-9,161,-23,-5,0
+546,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,-1,58,-53,-48,13
+547,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,4,90,-50,-45,13
+548,Greater Toronto Area,Regional Municipality of Durham,Ontario,-5,5,69,-51,-45,13
+549,Greater Toronto Area,Regional Municipality of Durham,Ontario,-4,14,95,-49,-46,12
+550,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,8,99,-42,-46,10
+551,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,-2,189,-19,-6,0
+552,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-8,36,-27,-13,3
+553,Greater Toronto Area,Regional Municipality of Durham,Ontario,-21,-21,131,-56,-75,18
+554,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,5,15,-50,-48,14
+555,Greater Toronto Area,Regional Municipality of Durham,Ontario,-2,6,91,-49,-45,12
+556,Greater Toronto Area,Regional Municipality of Durham,Ontario,-5,8,105,-47,-45,11
+557,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,0,86,-44,-44,11
+558,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-2,200,-17,-5,1
+559,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,-8,151,-19,-7,0
+560,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,1,87,-50,-46,12
+561,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,3,69,-50,-45,12
+562,Greater Toronto Area,Regional Municipality of Durham,Ontario,-3,3,92,-50,-44,11
+563,Greater Toronto Area,Regional Municipality of Durham,Ontario,-5,9,94,-49,-44,11
+564,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,1,85,-45,-44,10
+565,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,-3,183,-21,-5,0
+566,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,-9,85,-21,-7,1
+567,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,-3,24,-53,-47,12
+568,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,2,24,-50,-44,12
+569,Greater Toronto Area,Regional Municipality of Durham,Ontario,-5,2,24,-50,-43,11
+570,Greater Toronto Area,Regional Municipality of Durham,Ontario,-3,10,24,-46,-43,11
+571,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,-2,24,-42,-43,10
+572,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-2,24,-15,-5,1
+573,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,-7,24,-11,-5,-1
+574,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,1,24,-50,-45,11
+575,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,3,24,-49,-44,11
+576,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,2,24,-48,-42,11
+577,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,9,24,-47,-43,12
+578,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,1,24,-40,-41,10
+579,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,1,24,-12,-5,2
+580,Greater Toronto Area,Regional Municipality of Durham,Ontario,-5,-3,24,-7,-2,-1
+581,Greater Toronto Area,Regional Municipality of Durham,Ontario,-3,4,24,-44,-44,11
+582,Greater Toronto Area,Regional Municipality of Durham,Ontario,-4,5,24,-44,-44,11
+583,Greater Toronto Area,Regional Municipality of Durham,Ontario,-5,4,24,-52,-42,12
+584,Greater Toronto Area,Regional Municipality of Durham,Ontario,-4,6,24,-48,-43,10
+585,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,3,24,-42,-43,9
+586,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,0,24,-14,-7,0
+587,Greater Toronto Area,Regional Municipality of Durham,Ontario,-1,1,24,-13,-6,-2
+588,Greater Toronto Area,Regional Municipality of Durham,Ontario,-45,-44,24,-63,-81,20
+589,Greater Toronto Area,Regional Municipality of Durham,Ontario,-2,15,24,-48,-45,12
+590,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,2,24,-52,-41,12
+591,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,7,24,-50,-42,12
+592,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,-1,56,-45,-39,10
+593,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,3,144,-14,-1,2
+594,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,1,62,-18,-5,3
+595,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,2,67,-52,-39,11
+596,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,2,54,-51,-40,12
+597,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,-3,58,-51,-38,11
+598,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,1,62,-49,-39,11
+599,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,-4,38,-42,-37,10
+600,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,1,110,-16,-2,3
+601,Greater Toronto Area,Regional Municipality of Durham,Ontario,-5,0,101,-14,-3,2
+602,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,-2,55,-52,-40,12
+603,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,1,45,-51,-40,12
+604,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,1,49,-53,-36,12
+605,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,1,42,-52,-37,12
+606,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,-3,44,-47,-35,11
+607,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,2,131,-22,1,2
+608,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,-2,105,-20,-1,2
+609,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,0,52,-53,-37,12
+610,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,3,24,-51,-39,12
+611,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,-1,-9,-53,-37,13
+612,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,7,24,-52,-36,12
+613,Greater Toronto Area,Regional Municipality of Durham,Ontario,-17,-1,12,-50,-34,12
+614,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,2,94,-25,-2,4
+615,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-2,-4,-28,-7,5
+616,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,1,36,-55,-37,12
+617,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,4,23,-54,-39,12
+618,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,3,-5,-58,-36,13
+619,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,13,20,-54,-36,12
+620,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,11,33,-47,-35,11
+621,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,9,94,-28,-3,4
+622,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,5,74,-31,-6,3
+623,Greater Toronto Area,Regional Municipality of Durham,Ontario,-58,-52,61,-75,-81,23
+624,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,5,35,-53,-39,12
+625,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,1,32,-57,-35,13
+626,Greater Toronto Area,Regional Municipality of Durham,Ontario,-18,-2,-29,-58,-37,15
+627,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,0,17,-51,-33,12
+628,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,4,101,-26,0,5
+629,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,-3,31,-31,-6,5
+630,Greater Toronto Area,Regional Municipality of Durham,Ontario,-18,-4,-14,-59,-37,14
+631,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,2,16,-55,-38,13
+632,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,0,-2,-59,-35,14
+633,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,4,5,-56,-35,14
+634,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-3,49,-51,-32,12
+635,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,4,53,-31,-1,5
+636,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,-1,31,-30,-4,5
+637,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,0,-1,-59,-37,13
+638,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-2,-23,-58,-37,14
+639,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,4,11,-57,-33,13
+640,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,5,-9,-55,-34,13
+641,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,3,-11,-51,-32,13
+642,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,11,45,-27,0,5
+643,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-5,-31,-34,-8,6
+644,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-3,-19,-59,-36,14
+645,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,-1,-15,-56,-37,14
+646,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-3,16,-56,-33,13
+647,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,1,18,-55,-34,13
+648,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,-4,19,-54,-31,13
+649,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,2,114,-30,0,5
+650,Greater Toronto Area,Regional Municipality of Durham,Ontario,-5,-1,104,-31,-3,4
+651,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,-1,35,-61,-34,13
+652,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,0,36,-57,-36,12
+653,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,2,17,-57,-36,14
+654,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,3,10,-58,-34,13
+655,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-3,-14,-54,-35,14
+656,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,6,50,-30,-1,6
+657,Greater Toronto Area,Regional Municipality of Durham,Ontario,-18,-11,-38,-40,-10,7
+658,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,-4,-20,-62,-36,14
+659,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,-6,-20,-59,-37,14
+660,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,-1,-22,-61,-34,14
+661,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,3,-5,-59,-34,14
+662,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,1,12,-53,-33,14
+663,Greater Toronto Area,Regional Municipality of Durham,Ontario,-8,11,13,-31,-1,6
+664,Greater Toronto Area,Regional Municipality of Durham,Ontario,-21,-12,-38,-40,-9,8
+665,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-2,-19,-61,-36,15
+666,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,0,-23,-60,-37,15
+667,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,-3,-31,-61,-35,15
+668,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,7,-15,-57,-36,15
+669,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,1,-15,-51,-35,15
+670,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,9,41,-28,-2,7
+671,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,2,34,-34,-6,6
+672,Greater Toronto Area,Regional Municipality of Durham,Ontario,-16,-4,-39,-63,-37,16
+673,Greater Toronto Area,Regional Municipality of Durham,Ontario,-18,-1,-36,-63,-39,16
+674,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,3,-20,-62,-34,15
+675,Greater Toronto Area,Regional Municipality of Durham,Ontario,-13,6,-14,-60,-35,15
+676,Greater Toronto Area,Regional Municipality of Durham,Ontario,-22,-5,-37,-59,-34,17
+677,Greater Toronto Area,Regional Municipality of Durham,Ontario,-12,9,6,-34,-5,8
+678,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,2,5,-40,-7,7
+679,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,0,-19,-63,-36,15
+680,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,2,-20,-60,-36,15
+681,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,-5,-33,-63,-36,16
+682,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,10,-17,-60,-35,15
+683,Greater Toronto Area,Regional Municipality of Durham,Ontario,-14,3,-9,-54,-33,15
+684,Greater Toronto Area,Regional Municipality of Durham,Ontario,-15,7,-15,-32,-5,9
+685,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,5,-2,-35,-8,7
+686,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,9,-19,-61,-37,15
+687,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,9,-24,-59,-37,15
+688,Greater Toronto Area,Regional Municipality of Durham,Ontario,-9,5,-37,-61,-35,16
+689,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,20,-20,-56,-35,15
+690,Greater Toronto Area,Regional Municipality of Durham,Ontario,-11,11,-17,-53,-34,15
+691,Greater Toronto Area,Regional Municipality of Durham,Ontario,-10,15,7,-26,-3,8
+692,Greater Toronto Area,Regional Municipality of Durham,Ontario,-6,9,-13,-31,-6,7
+693,Greater Toronto Area,Regional Municipality of Durham,Ontario,7,37,-4,-55,-44,15
+694,Greater Toronto Area,Regional Municipality of Durham,Ontario,11,44,-7,-53,-47,15
+695,Greater Toronto Area,Regional Municipality of Durham,Ontario,18,60,-5,-53,-46,15
+696,Greater Toronto Area,Regional Municipality of Durham,Ontario,-7,51,-29,-62,-63,20
+697,Greater Toronto Area,Regional Municipality of Durham,Ontario,-88,-79,-44,-88,-86,29
+698,Greater Toronto Area,Regional Municipality of Durham,Ontario,-63,-48,-13,-67,-43,14
+699,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-29,-5,-60,-26,11
+700,Greater Toronto Area,Regional Municipality of Durham,Ontario,-39,-14,-21,-78,-73,27
+701,Greater Toronto Area,Regional Municipality of Durham,Ontario,-31,-3,-2,-73,-61,23
+702,Greater Toronto Area,Regional Municipality of Durham,Ontario,-30,5,-40,-74,-59,24
+703,Greater Toronto Area,Regional Municipality of Durham,Ontario,-23,26,0,-73,-64,23
+704,Greater Toronto Area,Regional Municipality of Durham,Ontario,-77,-73,-13,-88,-85,33
+705,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-18,24,-62,-28,14
+706,Greater Toronto Area,Regional Municipality of Durham,Ontario,-45,-23,-18,-62,-23,12
+707,Greater Toronto Area,Regional Municipality of Durham,Ontario,-38,-12,-21,-73,-46,20
+708,Greater Toronto Area,Regional Municipality of Durham,Ontario,-39,-12,-31,-72,-47,20
+709,Greater Toronto Area,Regional Municipality of Durham,Ontario,-40,-15,-32,-73,-45,20
+710,Greater Toronto Area,Regional Municipality of Durham,Ontario,-40,-9,-17,-71,-45,20
+711,Greater Toronto Area,Regional Municipality of Durham,Ontario,-42,-16,-27,-70,-44,21
+712,Greater Toronto Area,Regional Municipality of Durham,Ontario,-40,-7,37,-60,-17,12
+713,Greater Toronto Area,Regional Municipality of Durham,Ontario,-42,-17,7,-62,-19,11
+714,Greater Toronto Area,Regional Municipality of Durham,Ontario,-42,-16,-26,-73,-45,20
+715,Greater Toronto Area,Regional Municipality of Durham,Ontario,-40,-11,-32,-72,-47,20
+716,Greater Toronto Area,Regional Municipality of Durham,Ontario,-38,-7,-30,-74,-45,19
+717,Greater Toronto Area,Regional Municipality of Durham,Ontario,-50,-20,-27,-77,-49,21
+718,Greater Toronto Area,Regional Municipality of Durham,Ontario,-50,-24,-37,-77,-48,23
+719,Greater Toronto Area,Regional Municipality of Durham,Ontario,-48,-16,36,-70,-23,14
+720,Greater Toronto Area,Regional Municipality of Durham,Ontario,-48,-22,0,-72,-23,12
+721,Greater Toronto Area,Regional Municipality of Durham,Ontario,-47,-23,-25,-77,-49,20
+722,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-20,-31,-76,-50,21
+723,Greater Toronto Area,Regional Municipality of Durham,Ontario,-45,-22,-37,-76,-48,21
+724,Greater Toronto Area,Regional Municipality of Durham,Ontario,-44,-15,-28,-75,-48,21
+725,Greater Toronto Area,Regional Municipality of Durham,Ontario,-45,-19,-37,-74,-47,22
+726,Greater Toronto Area,Regional Municipality of Durham,Ontario,-45,-12,2,-67,-21,13
+727,Greater Toronto Area,Regional Municipality of Durham,Ontario,-46,-23,-4,-68,-23,11
+728,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-19,-10,-76,-48,20
+729,Greater Toronto Area,Regional Municipality of Durham,Ontario,-54,-33,-47,-78,-51,22
+730,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-17,-30,-77,-47,21
+731,Greater Toronto Area,Regional Municipality of Durham,Ontario,-45,-16,-40,-78,-48,21
+732,Greater Toronto Area,Regional Municipality of Durham,Ontario,-44,-19,-44,-77,-46,22
+733,Greater Toronto Area,Regional Municipality of Durham,Ontario,-41,-9,25,-70,-18,12
+734,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-19,-7,-73,-21,11
+735,Greater Toronto Area,Regional Municipality of Durham,Ontario,-42,-18,-25,-78,-47,20
+736,Greater Toronto Area,Regional Municipality of Durham,Ontario,-42,-19,-32,-77,-48,20
+737,Greater Toronto Area,Regional Municipality of Durham,Ontario,-41,-17,-28,-76,-45,20
+738,Greater Toronto Area,Regional Municipality of Durham,Ontario,-39,-10,1,-74,-46,20
+739,Greater Toronto Area,Regional Municipality of Durham,Ontario,-47,-24,-49,-76,-46,22
+740,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-9,-9,-67,-17,12
+741,Greater Toronto Area,Regional Municipality of Durham,Ontario,-43,-17,2,-69,-20,10
+742,Greater Toronto Area,Regional Municipality of Durham,Ontario,-44,-19,-28,-76,-44,19
+743,Greater Toronto Area,Regional Municipality of Durham,Ontario,-42,-16,-25,-73,-44,19
+744,Greater Toronto Area,Regional Municipality of Durham,Ontario,-39,-11,-30,-75,-41,19
+745,Greater Toronto Area,Regional Municipality of Durham,Ontario,-37,-5,-32,-73,-41,19
+746,Greater Toronto Area,Regional Municipality of Durham,Ontario,-38,-7,-45,-73,-42,20
+747,Greater Toronto Area,Regional Municipality of Durham,Ontario,-38,4,-31,-66,-18,12
+748,Greater Toronto Area,Regional Municipality of Durham,Ontario,-29,3,26,-65,-16,9
+749,Greater Toronto Area,Regional Municipality of Durham,Ontario,-65,-49,5,-84,-80,28
+750,Greater Toronto Area,Regional Municipality of Durham,Ontario,-34,-14,-51,-71,-48,20
+751,Greater Toronto Area,Regional Municipality of Durham,Ontario,-23,0,-41,-70,-39,17
+752,Greater Toronto Area,Regional Municipality of Durham,Ontario,-27,-5,-44,-69,-40,18
+753,Greater Toronto Area,Regional Municipality of Durham,Ontario,-31,-15,-45,-68,-38,18
+754,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,2,29,-47,-9,9
+755,Greater Toronto Area,Regional Municipality of Durham,Ontario,-20,-6,19,-52,-12,8
+756,Greater Toronto Area,Regional Municipality of Durham,Ontario,-37,-23,-53,-71,-43,19
+757,Greater Toronto Area,Regional Municipality of Durham,Ontario,-25,-7,-41,-69,-41,17
+758,Greater Toronto Area,Regional Municipality of Durham,Ontario,-23,-7,-37,-69,-38,17
+759,Greater Toronto Area,Regional Municipality of Durham,Ontario,-22,-3,-24,-68,-39,17
+760,Greater Toronto Area,Regional Municipality of Durham,Ontario,-24,-4,-23,-65,-37,16
+761,Greater Toronto Area,Regional Municipality of Durham,Ontario,-19,-1,14,-50,-8,9
+762,Greater Toronto Area,Regional Municipality of Durham,Ontario,-21,-11,-28,-54,-10,8
+763,Greater Toronto Area,Regional Municipality of Durham,Ontario,-29,-15,-48,-71,-40,17
+764,Greater Toronto Area,Regional Municipality of Durham,Ontario,-25,-10,-39,-69,-41,16
+765,Greater Toronto Area,Regional Municipality of Halton,Ontario,-2,0,3,6,0,-1
+766,Greater Toronto Area,Regional Municipality of Halton,Ontario,13,11,28,13,-4,-3
+767,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,-53,128,-58,-80,18
+768,Greater Toronto Area,Regional Municipality of Halton,Ontario,-1,15,-10,8,1,1
+769,Greater Toronto Area,Regional Municipality of Halton,Ontario,2,4,-8,0,1,0
+770,Greater Toronto Area,Regional Municipality of Halton,Ontario,2,1,-7,1,3,0
+771,Greater Toronto Area,Regional Municipality of Halton,Ontario,3,-4,8,5,-8,1
+772,Greater Toronto Area,Regional Municipality of Halton,Ontario,6,5,66,19,8,-2
+773,Greater Toronto Area,Regional Municipality of Halton,Ontario,9,4,87,20,6,-2
+774,Greater Toronto Area,Regional Municipality of Halton,Ontario,1,3,27,3,3,0
+775,Greater Toronto Area,Regional Municipality of Halton,Ontario,-2,8,-3,5,4,-1
+776,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,-6,-23,-9,-5,4
+777,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,-8,-17,-8,-2,3
+778,Greater Toronto Area,Regional Municipality of Halton,Ontario,-7,-5,-13,-8,2,1
+779,Greater Toronto Area,Regional Municipality of Halton,Ontario,1,6,12,-6,9,-1
+780,Greater Toronto Area,Regional Municipality of Halton,Ontario,8,8,32,4,6,-1
+781,Greater Toronto Area,Regional Municipality of Halton,Ontario,0,5,-10,-6,4,0
+782,Greater Toronto Area,Regional Municipality of Halton,Ontario,-3,4,-11,1,5,0
+783,Greater Toronto Area,Regional Municipality of Halton,Ontario,3,5,4,-4,3,0
+784,Greater Toronto Area,Regional Municipality of Halton,Ontario,4,6,38,-3,1,0
+785,Greater Toronto Area,Regional Municipality of Halton,Ontario,-4,-5,-7,-7,4,0
+786,Greater Toronto Area,Regional Municipality of Halton,Ontario,7,7,79,1,9,-2
+787,Greater Toronto Area,Regional Municipality of Halton,Ontario,10,9,157,7,6,-1
+788,Greater Toronto Area,Regional Municipality of Halton,Ontario,2,5,73,-4,3,0
+789,Greater Toronto Area,Regional Municipality of Halton,Ontario,-2,6,5,-8,3,1
+790,Greater Toronto Area,Regional Municipality of Halton,Ontario,4,9,2,-10,1,1
+791,Greater Toronto Area,Regional Municipality of Halton,Ontario,2,39,3,-12,1,1
+792,Greater Toronto Area,Regional Municipality of Halton,Ontario,-7,41,-15,-26,-5,4
+793,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,16,21,-29,1,5
+794,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,5,77,-29,-9,5
+795,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,22,31,-50,-36,13
+796,Greater Toronto Area,Regional Municipality of Halton,Ontario,-35,10,25,-61,-44,17
+797,Greater Toronto Area,Regional Municipality of Halton,Ontario,-41,-5,20,-64,-50,21
+798,Greater Toronto Area,Regional Municipality of Halton,Ontario,-46,-8,33,-64,-53,22
+799,Greater Toronto Area,Regional Municipality of Halton,Ontario,-52,-17,3,-69,-55,24
+800,Greater Toronto Area,Regional Municipality of Halton,Ontario,-58,-20,84,-59,-36,14
+801,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-32,15,-63,-41,12
+802,Greater Toronto Area,Regional Municipality of Halton,Ontario,-55,-20,-44,-76,-61,26
+803,Greater Toronto Area,Regional Municipality of Halton,Ontario,-58,-21,4,-77,-62,26
+804,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-29,30,-75,-66,28
+805,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-27,18,-76,-66,29
+806,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-28,32,-75,-66,28
+807,Greater Toronto Area,Regional Municipality of Halton,Ontario,-69,-33,-31,-73,-49,18
+808,Greater Toronto Area,Regional Municipality of Halton,Ontario,-65,-38,11,-67,-49,14
+809,Greater Toronto Area,Regional Municipality of Halton,Ontario,-62,-33,-18,-78,-68,28
+810,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-28,-27,-78,-67,28
+811,Greater Toronto Area,Regional Municipality of Halton,Ontario,-58,-29,33,-75,-67,28
+812,Greater Toronto Area,Regional Municipality of Halton,Ontario,-59,-27,37,-76,-67,28
+813,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-30,-11,-75,-66,29
+814,Greater Toronto Area,Regional Municipality of Halton,Ontario,-64,-33,7,-64,-48,17
+815,Greater Toronto Area,Regional Municipality of Halton,Ontario,-67,-39,14,-64,-50,14
+816,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-30,16,-76,-68,27
+817,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-25,-15,-78,-68,28
+818,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-19,14,-76,-68,28
+819,Greater Toronto Area,Regional Municipality of Halton,Ontario,-50,0,-28,-75,-68,28
+820,Greater Toronto Area,Regional Municipality of Halton,Ontario,-84,-76,-25,-87,-89,38
+821,Greater Toronto Area,Regional Municipality of Halton,Ontario,-62,-16,-9,-66,-50,17
+822,Greater Toronto Area,Regional Municipality of Halton,Ontario,-85,-78,-15,-68,-59,15
+823,Greater Toronto Area,Regional Municipality of Halton,Ontario,-64,-28,-52,-81,-72,30
+824,Greater Toronto Area,Regional Municipality of Halton,Ontario,-60,-20,-29,-78,-67,28
+825,Greater Toronto Area,Regional Municipality of Halton,Ontario,-59,-25,-33,-78,-68,29
+826,Greater Toronto Area,Regional Municipality of Halton,Ontario,-60,-24,-33,-77,-67,29
+827,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-29,-34,-75,-67,30
+828,Greater Toronto Area,Regional Municipality of Halton,Ontario,-65,-30,-3,-63,-43,17
+829,Greater Toronto Area,Regional Municipality of Halton,Ontario,-67,-42,-40,-68,-45,14
+830,Greater Toronto Area,Regional Municipality of Halton,Ontario,-59,-26,4,-75,-66,27
+831,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-27,-45,-79,-66,28
+832,Greater Toronto Area,Regional Municipality of Halton,Ontario,-58,-25,-24,-77,-66,29
+833,Greater Toronto Area,Regional Municipality of Halton,Ontario,-59,-23,-34,-75,-66,29
+834,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-26,-22,-76,-65,29
+835,Greater Toronto Area,Regional Municipality of Halton,Ontario,-62,-26,42,-60,-41,16
+836,Greater Toronto Area,Regional Municipality of Halton,Ontario,-67,-39,-59,-68,-45,14
+837,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-22,38,-74,-66,26
+838,Greater Toronto Area,Regional Municipality of Halton,Ontario,-58,-18,2,-74,-66,27
+839,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-22,-31,-76,-66,29
+840,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-19,-21,-74,-65,29
+841,Greater Toronto Area,Regional Municipality of Halton,Ontario,-55,-19,22,-69,-64,27
+842,Greater Toronto Area,Regional Municipality of Halton,Ontario,-61,-25,-3,-58,-40,16
+843,Greater Toronto Area,Regional Municipality of Halton,Ontario,-56,-26,67,-50,-36,11
+844,Greater Toronto Area,Regional Municipality of Halton,Ontario,-55,-19,8,-73,-64,26
+845,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-15,5,-71,-64,26
+846,Greater Toronto Area,Regional Municipality of Halton,Ontario,-52,-17,25,-71,-64,27
+847,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-15,6,-71,-63,27
+848,Greater Toronto Area,Regional Municipality of Halton,Ontario,-56,-16,-26,-72,-62,28
+849,Greater Toronto Area,Regional Municipality of Halton,Ontario,-56,-11,-37,-60,-34,16
+850,Greater Toronto Area,Regional Municipality of Halton,Ontario,-50,-15,-18,-53,-32,11
+851,Greater Toronto Area,Regional Municipality of Halton,Ontario,-56,-25,-26,-74,-64,26
+852,Greater Toronto Area,Regional Municipality of Halton,Ontario,-52,-16,4,-71,-62,26
+853,Greater Toronto Area,Regional Municipality of Halton,Ontario,-47,-13,45,-69,-62,26
+854,Greater Toronto Area,Regional Municipality of Halton,Ontario,-51,-16,-27,-73,-62,27
+855,Greater Toronto Area,Regional Municipality of Halton,Ontario,-50,-14,-7,-71,-62,27
+856,Greater Toronto Area,Regional Municipality of Halton,Ontario,-51,-15,115,-51,-30,12
+857,Greater Toronto Area,Regional Municipality of Halton,Ontario,-50,-15,-9,-60,-32,11
+858,Greater Toronto Area,Regional Municipality of Halton,Ontario,-77,-67,-45,-87,-88,34
+859,Greater Toronto Area,Regional Municipality of Halton,Ontario,-44,-1,9,-68,-60,24
+860,Greater Toronto Area,Regional Municipality of Halton,Ontario,-39,-5,70,-65,-60,24
+861,Greater Toronto Area,Regional Municipality of Halton,Ontario,-40,-8,88,-64,-59,24
+862,Greater Toronto Area,Regional Municipality of Halton,Ontario,-42,-11,77,-62,-57,23
+863,Greater Toronto Area,Regional Municipality of Halton,Ontario,-43,-9,162,-43,-20,11
+864,Greater Toronto Area,Regional Municipality of Halton,Ontario,-40,-16,120,-41,-22,8
+865,Greater Toronto Area,Regional Municipality of Halton,Ontario,-36,-9,72,-66,-60,22
+866,Greater Toronto Area,Regional Municipality of Halton,Ontario,-36,-5,88,-65,-57,22
+867,Greater Toronto Area,Regional Municipality of Halton,Ontario,-33,-4,77,-66,-58,23
+868,Greater Toronto Area,Regional Municipality of Halton,Ontario,-39,-9,6,-66,-57,24
+869,Greater Toronto Area,Regional Municipality of Halton,Ontario,-40,-11,20,-64,-55,24
+870,Greater Toronto Area,Regional Municipality of Halton,Ontario,-39,-8,125,-38,-14,11
+871,Greater Toronto Area,Regional Municipality of Halton,Ontario,-35,-11,120,-38,-12,8
+872,Greater Toronto Area,Regional Municipality of Halton,Ontario,-32,-3,124,-63,-55,21
+873,Greater Toronto Area,Regional Municipality of Halton,Ontario,-35,-4,92,-64,-55,22
+874,Greater Toronto Area,Regional Municipality of Halton,Ontario,-33,-5,78,-65,-56,23
+875,Greater Toronto Area,Regional Municipality of Halton,Ontario,-32,-3,125,-62,-55,21
+876,Greater Toronto Area,Regional Municipality of Halton,Ontario,-36,-10,70,-63,-54,22
+877,Greater Toronto Area,Regional Municipality of Halton,Ontario,-34,-7,210,-40,-12,9
+878,Greater Toronto Area,Regional Municipality of Halton,Ontario,-30,-10,180,-35,-11,6
+879,Greater Toronto Area,Regional Municipality of Halton,Ontario,-28,-5,132,-64,-54,20
+880,Greater Toronto Area,Regional Municipality of Halton,Ontario,-31,-5,115,-65,-54,20
+881,Greater Toronto Area,Regional Municipality of Halton,Ontario,-30,-7,61,-67,-54,22
+882,Greater Toronto Area,Regional Municipality of Halton,Ontario,-30,-5,133,-65,-53,21
+883,Greater Toronto Area,Regional Municipality of Halton,Ontario,-31,-6,123,-63,-52,20
+884,Greater Toronto Area,Regional Municipality of Halton,Ontario,-31,-5,235,-38,-6,8
+885,Greater Toronto Area,Regional Municipality of Halton,Ontario,-29,-12,197,-41,-6,5
+886,Greater Toronto Area,Regional Municipality of Halton,Ontario,-27,-4,147,-65,-54,19
+887,Greater Toronto Area,Regional Municipality of Halton,Ontario,-27,-1,159,-63,-52,19
+888,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,-3,141,-63,-53,20
+889,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,2,153,-61,-52,20
+890,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,-1,130,-58,-51,18
+891,Greater Toronto Area,Regional Municipality of Halton,Ontario,-26,4,222,-34,-2,6
+892,Greater Toronto Area,Regional Municipality of Halton,Ontario,-24,-6,172,-29,0,3
+893,Greater Toronto Area,Regional Municipality of Halton,Ontario,-24,-6,96,-63,-55,19
+894,Greater Toronto Area,Regional Municipality of Halton,Ontario,-27,-3,77,-62,-54,20
+895,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,2,135,-61,-52,19
+896,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,2,156,-58,-52,19
+897,Greater Toronto Area,Regional Municipality of Halton,Ontario,-24,-4,162,-56,-50,17
+898,Greater Toronto Area,Regional Municipality of Halton,Ontario,-28,-5,196,-37,-7,7
+899,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,-9,221,-31,2,3
+900,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,2,167,-61,-54,17
+901,Greater Toronto Area,Regional Municipality of Halton,Ontario,-7,28,179,-57,-52,15
+902,Greater Toronto Area,Regional Municipality of Halton,Ontario,-48,-47,442,-72,-77,22
+903,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,4,143,-57,-55,18
+904,Greater Toronto Area,Regional Municipality of Halton,Ontario,-23,-2,162,-58,-56,17
+905,Greater Toronto Area,Regional Municipality of Halton,Ontario,-29,-6,259,-34,-5,5
+906,Greater Toronto Area,Regional Municipality of Halton,Ontario,-26,-13,202,-27,-4,2
+907,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,-1,159,-58,-54,17
+908,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,1,161,-59,-53,17
+909,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,1,124,-61,-53,18
+910,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,2,141,-60,-52,18
+911,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,-6,112,-58,-51,17
+912,Greater Toronto Area,Regional Municipality of Halton,Ontario,-28,-4,137,-39,-6,7
+913,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,-9,241,-30,-2,3
+914,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,-3,169,-60,-53,17
+915,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,0,194,-59,-52,17
+916,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,0,175,-62,-51,17
+917,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,1,69,-63,-51,19
+918,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,0,183,-57,-49,15
+919,Greater Toronto Area,Regional Municipality of Halton,Ontario,-26,-4,274,-34,-2,4
+920,Greater Toronto Area,Regional Municipality of Halton,Ontario,-30,-15,119,-35,-8,4
+921,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,2,190,-59,-51,16
+922,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,1,186,-60,-50,16
+923,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,-5,56,-63,-52,19
+924,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,3,182,-57,-49,16
+925,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,0,195,-56,-49,14
+926,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,-4,301,-31,-1,3
+927,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,-9,212,-30,-2,2
+928,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,-1,136,-62,-53,17
+929,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,1,189,-59,-51,16
+930,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,3,168,-59,-52,17
+931,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,6,183,-55,-51,15
+932,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,3,213,-51,-52,13
+933,Greater Toronto Area,Regional Municipality of Halton,Ontario,-24,-6,281,-24,-5,2
+934,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,-9,79,-32,-11,4
+935,Greater Toronto Area,Regional Municipality of Halton,Ontario,-32,-27,248,-73,-80,21
+936,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,-2,46,-59,-52,17
+937,Greater Toronto Area,Regional Municipality of Halton,Ontario,-10,2,206,-59,-52,15
+938,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,2,213,-60,-51,15
+939,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,-4,192,-57,-50,14
+940,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,-6,308,-30,-3,2
+941,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,-12,224,-35,-3,1
+942,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,-3,171,-62,-52,15
+943,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,1,178,-60,-51,16
+944,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,1,195,-61,-51,16
+945,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,2,207,-60,-50,15
+946,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,-1,197,-56,-49,13
+947,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,-4,303,-30,-3,2
+948,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,-9,159,-34,-6,2
+949,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,-5,70,-63,-53,16
+950,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,1,70,-61,-50,15
+951,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,0,70,-60,-51,15
+952,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,2,70,-57,-50,14
+953,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,-4,70,-53,-49,13
+954,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,-3,70,-25,-2,2
+955,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,-10,70,-52,-3,0
+956,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,-2,70,-59,-52,15
+957,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,1,70,-57,-50,14
+958,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,-2,70,-58,-51,16
+959,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,2,70,-54,-49,15
+960,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,-1,70,-47,-48,14
+961,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,0,70,-17,-5,3
+962,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,-5,70,-52,-2,0
+963,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,3,70,-53,-50,14
+964,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,2,70,-51,-49,14
+965,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,0,70,-56,-50,15
+966,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,3,70,-52,-49,13
+967,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,3,70,-49,-49,12
+968,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,0,70,-22,-7,2
+969,Greater Toronto Area,Regional Municipality of Halton,Ontario,-7,2,70,-52,-4,-1
+970,Greater Toronto Area,Regional Municipality of Halton,Ontario,-51,-51,70,-64,-85,22
+971,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,12,70,-55,-50,15
+972,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,1,70,-55,-49,15
+973,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,1,70,-50,-48,15
+974,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,-1,137,-45,-45,13
+975,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,1,254,-12,0,3
+976,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,-4,129,-22,-5,3
+977,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,0,146,-52,-45,15
+978,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,-1,137,-53,-44,15
+979,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,-5,141,-51,-46,15
+980,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,-1,127,-52,-45,15
+981,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,-2,109,-48,-42,13
+982,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,2,217,-19,-1,4
+983,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,-1,174,-17,-2,3
+984,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,0,126,-57,-46,15
+985,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,0,136,-56,-45,15
+986,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,-2,137,-55,-45,15
+987,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,1,114,-55,-44,16
+988,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,1,134,-48,-41,13
+989,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,5,275,-24,2,3
+990,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,3,202,-21,0,2
+991,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,2,117,-56,-44,15
+992,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,4,98,-55,-43,15
+993,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,0,44,-56,-45,17
+994,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,4,76,-56,-42,16
+995,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,-1,38,-55,-41,16
+996,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,6,188,-27,-1,5
+997,Greater Toronto Area,Regional Municipality of Halton,Ontario,-24,0,-6,-32,-8,6
+998,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,4,113,-56,-43,15
+999,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,4,116,-55,-43,15
+1000,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,4,63,-57,-44,17
+1001,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,9,86,-55,-42,16
+1002,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,13,123,-50,-41,14
+1003,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,12,215,-29,-4,5
+1004,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,9,126,-24,-6,3
+1005,Greater Toronto Area,Regional Municipality of Halton,Ontario,-59,-54,259,-78,-85,25
+1006,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,8,133,-55,-43,15
+1007,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,4,107,-55,-44,17
+1008,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,-2,-1,-58,-43,19
+1009,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,3,97,-51,-40,16
+1010,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,10,246,-23,-2,6
+1011,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,0,82,-28,-8,6
+1012,Greater Toronto Area,Regional Municipality of Halton,Ontario,-24,-1,12,-59,-43,18
+1013,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,2,86,-55,-42,16
+1014,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,0,53,-56,-44,18
+1015,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,1,39,-55,-42,18
+1016,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,-1,153,-50,-40,15
+1017,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,7,139,-26,-2,7
+1018,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,1,65,-25,-6,6
+1019,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,2,42,-55,-42,17
+1020,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,1,27,-56,-42,17
+1021,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,4,74,-56,-43,17
+1022,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,4,26,-56,-41,17
+1023,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,4,16,-54,-40,16
+1024,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,10,120,-24,-1,7
+1025,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,-2,-13,-32,-10,7
+1026,Greater Toronto Area,Regional Municipality of Halton,Ontario,-23,-1,18,-57,-42,17
+1027,Greater Toronto Area,Regional Municipality of Halton,Ontario,-23,-4,32,-57,-42,17
+1028,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,-6,91,-56,-42,17
+1029,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,-1,74,-55,-40,17
+1030,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,-2,108,-52,-38,16
+1031,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,1,255,-26,-1,5
+1032,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,1,209,-23,-4,4
+1033,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,0,119,-56,-41,16
+1034,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,2,145,-56,-41,16
+1035,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,3,77,-57,-44,17
+1036,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,3,56,-55,-41,17
+1037,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,0,32,-52,-40,17
+1038,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,8,117,-29,-2,8
+1039,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,-10,-41,-38,-13,8
+1040,Greater Toronto Area,Regional Municipality of Halton,Ontario,-26,-2,6,-60,-43,18
+1041,Greater Toronto Area,Regional Municipality of Halton,Ontario,-26,-3,6,-59,-43,18
+1042,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,-2,7,-58,-44,19
+1043,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,2,38,-57,-41,18
+1044,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,3,80,-50,-40,17
+1045,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,10,62,-28,-4,8
+1046,Greater Toronto Area,Regional Municipality of Halton,Ontario,-35,-14,-43,-37,-16,10
+1047,Greater Toronto Area,Regional Municipality of Halton,Ontario,-23,2,-2,-58,-44,19
+1048,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,2,3,-57,-43,18
+1049,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,0,-11,-56,-44,20
+1050,Greater Toronto Area,Regional Municipality of Halton,Ontario,-13,6,19,-53,-42,18
+1051,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,6,24,-49,-45,18
+1052,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,14,116,-19,-5,9
+1053,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,6,97,-20,-10,7
+1054,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,0,-32,-59,-45,19
+1055,Greater Toronto Area,Regional Municipality of Halton,Ontario,-31,-8,-1,-59,-46,20
+1056,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,3,8,-54,-44,19
+1057,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,6,17,-54,-41,19
+1058,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,2,1,-48,-40,19
+1059,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,13,70,-15,-5,9
+1060,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,6,41,-11,-12,8
+1061,Greater Toronto Area,Regional Municipality of Halton,Ontario,-20,4,16,-55,-43,18
+1062,Greater Toronto Area,Regional Municipality of Halton,Ontario,-21,3,25,-56,-42,18
+1063,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,2,1,-54,-43,19
+1064,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,8,39,-53,-42,18
+1065,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,9,60,-47,-41,18
+1066,Greater Toronto Area,Regional Municipality of Halton,Ontario,-19,8,0,-21,-8,11
+1067,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,10,40,-16,-11,8
+1068,Greater Toronto Area,Regional Municipality of Halton,Ontario,-17,9,15,-54,-44,18
+1069,Greater Toronto Area,Regional Municipality of Halton,Ontario,-16,12,14,-53,-43,18
+1070,Greater Toronto Area,Regional Municipality of Halton,Ontario,-15,6,-9,-56,-45,20
+1071,Greater Toronto Area,Regional Municipality of Halton,Ontario,-11,13,5,-51,-43,19
+1072,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,13,26,-47,-41,18
+1073,Greater Toronto Area,Regional Municipality of Halton,Ontario,-12,20,49,-15,-7,10
+1074,Greater Toronto Area,Regional Municipality of Halton,Ontario,-8,16,32,-8,-11,8
+1075,Greater Toronto Area,Regional Municipality of Halton,Ontario,3,40,51,-50,-52,18
+1076,Greater Toronto Area,Regional Municipality of Halton,Ontario,5,46,45,-50,-52,18
+1077,Greater Toronto Area,Regional Municipality of Halton,Ontario,15,63,71,-47,-54,18
+1078,Greater Toronto Area,Regional Municipality of Halton,Ontario,-14,46,3,-57,-68,24
+1079,Greater Toronto Area,Regional Municipality of Halton,Ontario,-87,-79,25,-85,-89,32
+1080,Greater Toronto Area,Regional Municipality of Halton,Ontario,-69,-48,52,-64,-47,16
+1081,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-21,63,-53,-29,11
+1082,Greater Toronto Area,Regional Municipality of Halton,Ontario,-49,-8,43,-77,-77,29
+1083,Greater Toronto Area,Regional Municipality of Halton,Ontario,-42,2,94,-71,-66,25
+1084,Greater Toronto Area,Regional Municipality of Halton,Ontario,-40,8,-11,-72,-67,27
+1085,Greater Toronto Area,Regional Municipality of Halton,Ontario,-35,26,86,-73,-70,26
+1086,Greater Toronto Area,Regional Municipality of Halton,Ontario,-82,-76,56,-87,-89,35
+1087,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-16,77,-61,-31,15
+1088,Greater Toronto Area,Regional Municipality of Halton,Ontario,-56,-20,28,-59,-27,12
+1089,Greater Toronto Area,Regional Municipality of Halton,Ontario,-49,-8,14,-70,-53,23
+1090,Greater Toronto Area,Regional Municipality of Halton,Ontario,-49,-9,7,-70,-53,23
+1091,Greater Toronto Area,Regional Municipality of Halton,Ontario,-48,-12,15,-72,-54,24
+1092,Greater Toronto Area,Regional Municipality of Halton,Ontario,-49,-10,31,-70,-53,24
+1093,Greater Toronto Area,Regional Municipality of Halton,Ontario,-49,-13,10,-70,-51,24
+1094,Greater Toronto Area,Regional Municipality of Halton,Ontario,-50,-6,135,-56,-18,13
+1095,Greater Toronto Area,Regional Municipality of Halton,Ontario,-53,-12,56,-56,-24,11
+1096,Greater Toronto Area,Regional Municipality of Halton,Ontario,-52,-14,3,-70,-52,23
+1097,Greater Toronto Area,Regional Municipality of Halton,Ontario,-51,-12,-5,-71,-53,23
+1098,Greater Toronto Area,Regional Municipality of Halton,Ontario,-48,-8,3,-71,-54,23
+1099,Greater Toronto Area,Regional Municipality of Halton,Ontario,-58,-23,2,-74,-56,25
+1100,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-23,-20,-75,-55,26
+1101,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-13,111,-64,-24,15
+1102,Greater Toronto Area,Regional Municipality of Halton,Ontario,-59,-23,37,-67,-29,12
+1103,Greater Toronto Area,Regional Municipality of Halton,Ontario,-56,-21,6,-74,-56,24
+1104,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-20,1,-75,-57,24
+1105,Greater Toronto Area,Regional Municipality of Halton,Ontario,-55,-22,-11,-74,-57,26
+1106,Greater Toronto Area,Regional Municipality of Halton,Ontario,-53,-15,8,-72,-56,25
+1107,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-18,-12,-72,-54,25
+1108,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-9,70,-63,-22,14
+1109,Greater Toronto Area,Regional Municipality of Halton,Ontario,-57,-18,42,-63,-26,12
+1110,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-15,32,-74,-55,23
+1111,Greater Toronto Area,Regional Municipality of Halton,Ontario,-65,-38,-14,-76,-59,26
+1112,Greater Toronto Area,Regional Municipality of Halton,Ontario,-51,-15,16,-73,-56,25
+1113,Greater Toronto Area,Regional Municipality of Halton,Ontario,-52,-15,-8,-73,-55,25
+1114,Greater Toronto Area,Regional Municipality of Halton,Ontario,-53,-17,-9,-72,-53,25
+1115,Greater Toronto Area,Regional Municipality of Halton,Ontario,-51,-6,108,-62,-19,14
+1116,Greater Toronto Area,Regional Municipality of Halton,Ontario,-56,-17,15,-65,-24,12
+1117,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-16,-6,-76,-55,24
+1118,Greater Toronto Area,Regional Municipality of Halton,Ontario,-53,-17,10,-74,-55,24
+1119,Greater Toronto Area,Regional Municipality of Halton,Ontario,-51,-17,36,-75,-55,24
+1120,Greater Toronto Area,Regional Municipality of Halton,Ontario,-50,-13,48,-73,-54,24
+1121,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-21,-20,-72,-54,25
+1122,Greater Toronto Area,Regional Municipality of Halton,Ontario,-53,-7,37,-66,-17,14
+1123,Greater Toronto Area,Regional Municipality of Halton,Ontario,-54,-13,18,-62,-22,11
+1124,Greater Toronto Area,Regional Municipality of Halton,Ontario,-55,-19,2,-74,-51,22
+1125,Greater Toronto Area,Regional Municipality of Halton,Ontario,-52,-14,16,-72,-51,22
+1126,Greater Toronto Area,Regional Municipality of Halton,Ontario,-50,-13,1,-73,-51,23
+1127,Greater Toronto Area,Regional Municipality of Halton,Ontario,-47,-7,14,-71,-49,23
+1128,Greater Toronto Area,Regional Municipality of Halton,Ontario,-51,-14,-16,-71,-50,24
+1129,Greater Toronto Area,Regional Municipality of Halton,Ontario,-55,-5,12,-62,-22,15
+1130,Greater Toronto Area,Regional Municipality of Halton,Ontario,-39,14,97,-55,-17,9
+1131,Greater Toronto Area,Regional Municipality of Halton,Ontario,-71,-55,106,-85,-84,31
+1132,Greater Toronto Area,Regional Municipality of Halton,Ontario,-48,-15,-23,-71,-60,26
+1133,Greater Toronto Area,Regional Municipality of Halton,Ontario,-28,8,2,-64,-48,21
+1134,Greater Toronto Area,Regional Municipality of Halton,Ontario,-37,-4,-8,-64,-47,22
+1135,Greater Toronto Area,Regional Municipality of Halton,Ontario,-35,-4,-3,-61,-46,22
+1136,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,19,99,-30,-8,11
+1137,Greater Toronto Area,Regional Municipality of Halton,Ontario,-22,10,83,-29,-13,8
+1138,Greater Toronto Area,Regional Municipality of Halton,Ontario,-37,-8,-13,-66,-49,21
+1139,Greater Toronto Area,Regional Municipality of Halton,Ontario,-30,-2,7,-64,-47,20
+1140,Greater Toronto Area,Regional Municipality of Halton,Ontario,-26,-6,20,-65,-48,21
+1141,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,-2,31,-65,-46,21
+1142,Greater Toronto Area,Regional Municipality of Halton,Ontario,-25,-1,33,-61,-44,19
+1143,Greater Toronto Area,Regional Municipality of Halton,Ontario,-18,9,106,-38,-8,10
+1144,Greater Toronto Area,Regional Municipality of Halton,Ontario,-23,-2,12,-41,-13,9
+1145,Greater Toronto Area,Regional Municipality of Halton,Ontario,-32,-10,-7,-67,-47,20
+1146,Greater Toronto Area,Regional Municipality of Halton,Ontario,-29,-5,17,-66,-47,20
+1147,Greater Toronto Area,Regional Municipality of Peel,Ontario,0,4,4,0,1,-1
+1148,Greater Toronto Area,Regional Municipality of Peel,Ontario,13,15,23,-3,-4,-4
+1149,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-34,31,-33,-76,20
+1150,Greater Toronto Area,Regional Municipality of Peel,Ontario,-1,17,0,2,1,1
+1151,Greater Toronto Area,Regional Municipality of Peel,Ontario,1,8,-2,-2,1,0
+1152,Greater Toronto Area,Regional Municipality of Peel,Ontario,3,8,2,-1,2,0
+1153,Greater Toronto Area,Regional Municipality of Peel,Ontario,1,1,2,-2,-8,2
+1154,Greater Toronto Area,Regional Municipality of Peel,Ontario,6,9,30,4,9,-2
+1155,Greater Toronto Area,Regional Municipality of Peel,Ontario,8,8,48,2,4,-2
+1156,Greater Toronto Area,Regional Municipality of Peel,Ontario,1,6,15,-1,2,0
+1157,Greater Toronto Area,Regional Municipality of Peel,Ontario,-1,10,8,1,3,0
+1158,Greater Toronto Area,Regional Municipality of Peel,Ontario,-13,-8,-14,-6,-5,4
+1159,Greater Toronto Area,Regional Municipality of Peel,Ontario,-10,-7,-11,-5,-4,4
+1160,Greater Toronto Area,Regional Municipality of Peel,Ontario,-6,-6,-3,-2,0,1
+1161,Greater Toronto Area,Regional Municipality of Peel,Ontario,4,7,12,5,9,-1
+1162,Greater Toronto Area,Regional Municipality of Peel,Ontario,7,11,24,1,5,-1
+1163,Greater Toronto Area,Regional Municipality of Peel,Ontario,1,5,3,-2,3,0
+1164,Greater Toronto Area,Regional Municipality of Peel,Ontario,-2,5,-3,-2,5,0
+1165,Greater Toronto Area,Regional Municipality of Peel,Ontario,3,7,4,-4,3,0
+1166,Greater Toronto Area,Regional Municipality of Peel,Ontario,4,10,20,-2,2,0
+1167,Greater Toronto Area,Regional Municipality of Peel,Ontario,-5,-3,-2,-7,3,1
+1168,Greater Toronto Area,Regional Municipality of Peel,Ontario,6,10,40,-4,9,-1
+1169,Greater Toronto Area,Regional Municipality of Peel,Ontario,8,9,100,-5,5,-2
+1170,Greater Toronto Area,Regional Municipality of Peel,Ontario,2,5,48,-7,2,1
+1171,Greater Toronto Area,Regional Municipality of Peel,Ontario,-2,6,6,-8,3,1
+1172,Greater Toronto Area,Regional Municipality of Peel,Ontario,2,10,5,-10,1,1
+1173,Greater Toronto Area,Regional Municipality of Peel,Ontario,4,40,8,-12,2,1
+1174,Greater Toronto Area,Regional Municipality of Peel,Ontario,-3,50,5,-20,-5,3
+1175,Greater Toronto Area,Regional Municipality of Peel,Ontario,-14,26,6,-23,-1,4
+1176,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,7,39,-29,-7,3
+1177,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,24,2,-39,-30,12
+1178,Greater Toronto Area,Regional Municipality of Peel,Ontario,-30,15,-4,-43,-37,15
+1179,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,0,-3,-48,-43,17
+1180,Greater Toronto Area,Regional Municipality of Peel,Ontario,-38,2,0,-51,-45,19
+1181,Greater Toronto Area,Regional Municipality of Peel,Ontario,-45,-12,-16,-55,-48,22
+1182,Greater Toronto Area,Regional Municipality of Peel,Ontario,-51,-18,5,-52,-32,14
+1183,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-30,-17,-60,-37,11
+1184,Greater Toronto Area,Regional Municipality of Peel,Ontario,-50,-14,-40,-67,-54,24
+1185,Greater Toronto Area,Regional Municipality of Peel,Ontario,-51,-12,-18,-67,-56,24
+1186,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-26,-1,-71,-61,26
+1187,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-24,-16,-71,-61,27
+1188,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-26,2,-72,-61,27
+1189,Greater Toronto Area,Regional Municipality of Peel,Ontario,-64,-35,-38,-73,-48,18
+1190,Greater Toronto Area,Regional Municipality of Peel,Ontario,-63,-39,-11,-77,-47,13
+1191,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-29,-34,-76,-62,27
+1192,Greater Toronto Area,Regional Municipality of Peel,Ontario,-56,-23,-37,-74,-62,26
+1193,Greater Toronto Area,Regional Municipality of Peel,Ontario,-54,-24,-3,-74,-63,26
+1194,Greater Toronto Area,Regional Municipality of Peel,Ontario,-55,-22,-10,-74,-62,27
+1195,Greater Toronto Area,Regional Municipality of Peel,Ontario,-58,-26,-33,-74,-62,29
+1196,Greater Toronto Area,Regional Municipality of Peel,Ontario,-63,-32,-30,-72,-48,18
+1197,Greater Toronto Area,Regional Municipality of Peel,Ontario,-64,-36,-15,-76,-47,13
+1198,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-25,-18,-76,-63,27
+1199,Greater Toronto Area,Regional Municipality of Peel,Ontario,-58,-20,-33,-74,-63,27
+1200,Greater Toronto Area,Regional Municipality of Peel,Ontario,-54,-16,-12,-74,-64,27
+1201,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,3,-28,-73,-64,26
+1202,Greater Toronto Area,Regional Municipality of Peel,Ontario,-82,-73,-51,-87,-88,40
+1203,Greater Toronto Area,Regional Municipality of Peel,Ontario,-60,-23,-29,-73,-52,18
+1204,Greater Toronto Area,Regional Municipality of Peel,Ontario,-80,-71,-32,-82,-55,15
+1205,Greater Toronto Area,Regional Municipality of Peel,Ontario,-59,-26,-46,-78,-67,29
+1206,Greater Toronto Area,Regional Municipality of Peel,Ontario,-55,-18,-40,-74,-62,27
+1207,Greater Toronto Area,Regional Municipality of Peel,Ontario,-56,-23,-38,-75,-63,28
+1208,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-22,-38,-74,-63,28
+1209,Greater Toronto Area,Regional Municipality of Peel,Ontario,-58,-28,-35,-74,-63,29
+1210,Greater Toronto Area,Regional Municipality of Peel,Ontario,-61,-31,-22,-71,-45,17
+1211,Greater Toronto Area,Regional Municipality of Peel,Ontario,-65,-41,-41,-78,-45,14
+1212,Greater Toronto Area,Regional Municipality of Peel,Ontario,-55,-23,-17,-74,-61,26
+1213,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-27,-48,-75,-61,27
+1214,Greater Toronto Area,Regional Municipality of Peel,Ontario,-54,-22,-30,-73,-62,27
+1215,Greater Toronto Area,Regional Municipality of Peel,Ontario,-54,-19,-34,-74,-62,27
+1216,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-25,-27,-73,-61,28
+1217,Greater Toronto Area,Regional Municipality of Peel,Ontario,-59,-27,4,-69,-44,16
+1218,Greater Toronto Area,Regional Municipality of Peel,Ontario,-63,-38,-46,-77,-44,14
+1219,Greater Toronto Area,Regional Municipality of Peel,Ontario,-53,-20,4,-72,-61,25
+1220,Greater Toronto Area,Regional Municipality of Peel,Ontario,-53,-18,-16,-71,-61,26
+1221,Greater Toronto Area,Regional Municipality of Peel,Ontario,-53,-23,-31,-74,-61,27
+1222,Greater Toronto Area,Regional Municipality of Peel,Ontario,-51,-17,-21,-74,-61,26
+1223,Greater Toronto Area,Regional Municipality of Peel,Ontario,-51,-19,5,-72,-60,27
+1224,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-26,-17,-72,-41,16
+1225,Greater Toronto Area,Regional Municipality of Peel,Ontario,-53,-26,46,-72,-37,11
+1226,Greater Toronto Area,Regional Municipality of Peel,Ontario,-49,-19,-12,-73,-59,25
+1227,Greater Toronto Area,Regional Municipality of Peel,Ontario,-48,-15,-9,-72,-58,25
+1228,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-15,9,-71,-59,25
+1229,Greater Toronto Area,Regional Municipality of Peel,Ontario,-50,-13,-15,-72,-59,25
+1230,Greater Toronto Area,Regional Municipality of Peel,Ontario,-51,-18,-27,-73,-58,27
+1231,Greater Toronto Area,Regional Municipality of Peel,Ontario,-53,-18,-35,-72,-37,16
+1232,Greater Toronto Area,Regional Municipality of Peel,Ontario,-48,-20,-20,-75,-34,11
+1233,Greater Toronto Area,Regional Municipality of Peel,Ontario,-51,-23,-26,-74,-58,25
+1234,Greater Toronto Area,Regional Municipality of Peel,Ontario,-48,-15,-16,-71,-57,24
+1235,Greater Toronto Area,Regional Municipality of Peel,Ontario,-44,-13,20,-70,-57,24
+1236,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-16,-27,-72,-58,25
+1237,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-15,-9,-72,-58,26
+1238,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-16,52,-66,-36,12
+1239,Greater Toronto Area,Regional Municipality of Peel,Ontario,-45,-17,4,-75,-35,10
+1240,Greater Toronto Area,Regional Municipality of Peel,Ontario,-70,-56,-48,-85,-85,35
+1241,Greater Toronto Area,Regional Municipality of Peel,Ontario,-38,1,2,-69,-55,22
+1242,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,0,42,-66,-55,22
+1243,Greater Toronto Area,Regional Municipality of Peel,Ontario,-37,0,42,-67,-55,22
+1244,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-9,35,-67,-53,23
+1245,Greater Toronto Area,Regional Municipality of Peel,Ontario,-41,-10,55,-63,-27,11
+1246,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-17,66,-67,-26,7
+1247,Greater Toronto Area,Regional Municipality of Peel,Ontario,-35,-8,31,-68,-55,21
+1248,Greater Toronto Area,Regional Municipality of Peel,Ontario,-35,-6,27,-66,-52,20
+1249,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-5,32,-67,-53,21
+1250,Greater Toronto Area,Regional Municipality of Peel,Ontario,-39,-9,-12,-68,-52,22
+1251,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-13,-3,-68,-51,23
+1252,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-12,37,-61,-18,10
+1253,Greater Toronto Area,Regional Municipality of Peel,Ontario,-39,-15,52,-67,-16,7
+1254,Greater Toronto Area,Regional Municipality of Peel,Ontario,-33,-5,54,-65,-50,20
+1255,Greater Toronto Area,Regional Municipality of Peel,Ontario,-35,-5,35,-64,-49,20
+1256,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-6,51,-65,-51,21
+1257,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,-3,57,-64,-50,20
+1258,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-12,29,-66,-50,21
+1259,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-11,88,-60,-18,9
+1260,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-15,105,-66,-16,6
+1261,Greater Toronto Area,Regional Municipality of Peel,Ontario,-31,-9,64,-65,-49,19
+1262,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,-7,55,-64,-48,19
+1263,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,-8,36,-66,-50,20
+1264,Greater Toronto Area,Regional Municipality of Peel,Ontario,-29,-3,71,-63,-48,19
+1265,Greater Toronto Area,Regional Municipality of Peel,Ontario,-31,-9,61,-63,-47,19
+1266,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,-11,102,-58,-12,8
+1267,Greater Toronto Area,Regional Municipality of Peel,Ontario,-31,-15,120,-64,-12,5
+1268,Greater Toronto Area,Regional Municipality of Peel,Ontario,-28,-7,79,-63,-48,18
+1269,Greater Toronto Area,Regional Municipality of Peel,Ontario,-28,-3,80,-60,-47,18
+1270,Greater Toronto Area,Regional Municipality of Peel,Ontario,-28,-6,85,-62,-48,18
+1271,Greater Toronto Area,Regional Municipality of Peel,Ontario,-27,0,87,-62,-47,18
+1272,Greater Toronto Area,Regional Municipality of Peel,Ontario,-30,-6,80,-62,-47,17
+1273,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,-7,98,-58,-10,6
+1274,Greater Toronto Area,Regional Municipality of Peel,Ontario,-31,-11,108,-64,-7,4
+1275,Greater Toronto Area,Regional Municipality of Peel,Ontario,-30,-9,60,-63,-49,18
+1276,Greater Toronto Area,Regional Municipality of Peel,Ontario,-31,-7,37,-62,-48,19
+1277,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-1,83,-61,-47,17
+1278,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,1,91,-60,-46,17
+1279,Greater Toronto Area,Regional Municipality of Peel,Ontario,-26,-5,93,-59,-46,16
+1280,Greater Toronto Area,Regional Municipality of Peel,Ontario,-29,-8,102,-54,-10,6
+1281,Greater Toronto Area,Regional Municipality of Peel,Ontario,-27,-11,141,-61,-4,3
+1282,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-1,87,-62,-47,16
+1283,Greater Toronto Area,Regional Municipality of Peel,Ontario,-9,24,99,-57,-46,14
+1284,Greater Toronto Area,Regional Municipality of Peel,Ontario,-48,-41,196,-69,-74,22
+1285,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,9,79,-61,-49,16
+1286,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,0,89,-62,-52,17
+1287,Greater Toronto Area,Regional Municipality of Peel,Ontario,-28,-10,119,-58,-12,5
+1288,Greater Toronto Area,Regional Municipality of Peel,Ontario,-26,-14,125,-61,-9,3
+1289,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-4,87,-62,-48,16
+1290,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,-2,82,-60,-46,16
+1291,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-3,75,-62,-47,16
+1292,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,0,75,-60,-46,16
+1293,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-7,61,-61,-45,16
+1294,Greater Toronto Area,Regional Municipality of Peel,Ontario,-27,-8,66,-58,-8,7
+1295,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-11,144,-61,-7,3
+1296,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-6,88,-62,-46,16
+1297,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-2,99,-61,-46,15
+1298,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-2,105,-62,-46,15
+1299,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,0,33,-62,-45,17
+1300,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,-2,95,-61,-44,15
+1301,Greater Toronto Area,Regional Municipality of Peel,Ontario,-26,-9,118,-56,-7,4
+1302,Greater Toronto Area,Regional Municipality of Peel,Ontario,-29,-14,78,-63,-10,4
+1303,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,0,106,-62,-45,15
+1304,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,1,101,-61,-44,15
+1305,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-5,33,-63,-46,17
+1306,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,4,101,-61,-44,15
+1307,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,-3,97,-60,-43,14
+1308,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,-8,131,-56,-7,4
+1309,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-10,128,-61,-7,2
+1310,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-3,71,-63,-47,16
+1311,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,3,95,-60,-44,15
+1312,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,3,93,-60,-46,15
+1313,Greater Toronto Area,Regional Municipality of Peel,Ontario,-15,11,97,-57,-45,14
+1314,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,3,109,-57,-46,13
+1315,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,-8,123,-52,-11,2
+1316,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-4,55,-60,-15,3
+1317,Greater Toronto Area,Regional Municipality of Peel,Ontario,-33,-20,85,-71,-77,22
+1318,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,2,23,-60,-46,16
+1319,Greater Toronto Area,Regional Municipality of Peel,Ontario,-14,5,115,-58,-46,14
+1320,Greater Toronto Area,Regional Municipality of Peel,Ontario,-15,5,109,-58,-45,14
+1321,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-4,103,-57,-44,13
+1322,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,-8,141,-51,-6,2
+1323,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-10,131,-56,-7,1
+1324,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,-3,93,-60,-46,14
+1325,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,3,92,-59,-44,14
+1326,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,1,109,-58,-45,14
+1327,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,3,103,-58,-44,14
+1328,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-4,101,-57,-44,13
+1329,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-8,139,-50,-8,1
+1330,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-8,104,-55,-8,2
+1331,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-5,67,-60,-46,14
+1332,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,0,92,-58,-43,13
+1333,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,-1,105,-58,-44,14
+1334,Greater Toronto Area,Regional Municipality of Peel,Ontario,-14,2,101,-57,-43,13
+1335,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-5,89,-57,-43,13
+1336,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-10,126,-52,-6,1
+1337,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-11,111,-56,-6,0
+1338,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,-6,87,-59,-45,14
+1339,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,0,98,-57,-43,13
+1340,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,-4,50,-59,-44,14
+1341,Greater Toronto Area,Regional Municipality of Peel,Ontario,-14,2,84,-56,-43,13
+1342,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,-6,71,-55,-43,13
+1343,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-5,100,-52,-5,2
+1344,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,-8,139,-53,-6,0
+1345,Greater Toronto Area,Regional Municipality of Peel,Ontario,-15,-2,96,-56,-45,13
+1346,Greater Toronto Area,Regional Municipality of Peel,Ontario,-15,1,85,-55,-43,13
+1347,Greater Toronto Area,Regional Municipality of Peel,Ontario,-15,-1,71,-57,-44,13
+1348,Greater Toronto Area,Regional Municipality of Peel,Ontario,-13,2,88,-54,-43,12
+1349,Greater Toronto Area,Regional Municipality of Peel,Ontario,-14,-1,81,-54,-44,12
+1350,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-6,90,-53,-10,1
+1351,Greater Toronto Area,Regional Municipality of Peel,Ontario,-10,-3,140,-55,-12,-2
+1352,Greater Toronto Area,Regional Municipality of Peel,Ontario,-43,-41,78,-71,-82,23
+1353,Greater Toronto Area,Regional Municipality of Peel,Ontario,-13,9,32,-55,-45,13
+1354,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,-2,45,-57,-44,13
+1355,Greater Toronto Area,Regional Municipality of Peel,Ontario,-15,2,56,-56,-43,13
+1356,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,-6,70,-55,-41,12
+1357,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,-4,120,-49,-2,3
+1358,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,-7,95,-55,-6,3
+1359,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,-6,65,-57,-41,14
+1360,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,-3,63,-56,-39,13
+1361,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,-4,77,-57,-41,13
+1362,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,-2,66,-55,-40,13
+1363,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,-8,46,-55,-39,13
+1364,Greater Toronto Area,Regional Municipality of Peel,Ontario,-17,-5,83,-52,-2,4
+1365,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,-7,99,-56,-4,2
+1366,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-8,56,-58,-42,14
+1367,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-4,55,-57,-40,13
+1368,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-4,68,-59,-40,14
+1369,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-3,42,-58,-40,14
+1370,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-8,57,-57,-39,13
+1371,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,-5,106,-53,1,3
+1372,Greater Toronto Area,Regional Municipality of Peel,Ontario,-16,-7,110,-57,-3,2
+1373,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-8,43,-59,-41,14
+1374,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-3,35,-58,-39,14
+1375,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-5,9,-59,-40,14
+1376,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,2,28,-57,-38,14
+1377,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-8,13,-57,-38,14
+1378,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-6,59,-53,-2,5
+1379,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,-10,-14,-60,-8,5
+1380,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-6,34,-59,-41,14
+1381,Greater Toronto Area,Regional Municipality of Peel,Ontario,-21,-2,39,-58,-39,14
+1382,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,-5,14,-61,-40,15
+1383,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,2,24,-57,-39,14
+1384,Greater Toronto Area,Regional Municipality of Peel,Ontario,-18,3,46,-55,-39,13
+1385,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-1,70,-53,-5,5
+1386,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,0,51,-60,-11,3
+1387,Greater Toronto Area,Regional Municipality of Peel,Ontario,-57,-47,65,-74,-82,27
+1388,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,1,46,-57,-40,14
+1389,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,-5,35,-59,-40,15
+1390,Greater Toronto Area,Regional Municipality of Peel,Ontario,-27,-8,-20,-60,-40,16
+1391,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-6,28,-57,-38,15
+1392,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-4,75,-53,-2,6
+1393,Greater Toronto Area,Regional Municipality of Peel,Ontario,-26,-9,27,-59,-9,6
+1394,Greater Toronto Area,Regional Municipality of Peel,Ontario,-28,-12,-12,-61,-42,16
+1395,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,-3,15,-59,-39,15
+1396,Greater Toronto Area,Regional Municipality of Peel,Ontario,-26,-6,11,-61,-40,16
+1397,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,-3,4,-58,-39,16
+1398,Greater Toronto Area,Regional Municipality of Peel,Ontario,-26,-9,60,-56,-38,15
+1399,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-4,30,-54,-3,7
+1400,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-8,20,-58,-9,5
+1401,Greater Toronto Area,Regional Municipality of Peel,Ontario,-27,-10,2,-60,-41,16
+1402,Greater Toronto Area,Regional Municipality of Peel,Ontario,-29,-9,-16,-60,-39,15
+1403,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-4,21,-58,-39,15
+1404,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-3,-10,-59,-39,15
+1405,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,-7,-11,-57,-38,15
+1406,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,-2,23,-52,-2,6
+1407,Greater Toronto Area,Regional Municipality of Peel,Ontario,-27,-9,-26,-59,-11,6
+1408,Greater Toronto Area,Regional Municipality of Peel,Ontario,-28,-11,-21,-60,-41,16
+1409,Greater Toronto Area,Regional Municipality of Peel,Ontario,-27,-6,-13,-60,-39,16
+1410,Greater Toronto Area,Regional Municipality of Peel,Ontario,-26,-8,31,-59,-39,15
+1411,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,-6,18,-58,-38,15
+1412,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,-9,39,-57,-38,15
+1413,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,-5,86,-51,-1,5
+1414,Greater Toronto Area,Regional Municipality of Peel,Ontario,-19,-8,97,-56,-6,4
+1415,Greater Toronto Area,Regional Municipality of Peel,Ontario,-26,-11,33,-60,-40,15
+1416,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-4,46,-58,-38,15
+1417,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-3,16,-61,-41,16
+1418,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-1,8,-60,-39,16
+1419,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-5,-9,-60,-40,17
+1420,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-1,22,-54,-7,8
+1421,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-21,-40,-65,-14,8
+1422,Greater Toronto Area,Regional Municipality of Peel,Ontario,-29,-13,-20,-63,-43,17
+1423,Greater Toronto Area,Regional Municipality of Peel,Ontario,-30,-11,-25,-62,-40,17
+1424,Greater Toronto Area,Regional Municipality of Peel,Ontario,-28,-11,-22,-64,-40,17
+1425,Greater Toronto Area,Regional Municipality of Peel,Ontario,-24,-5,-8,-61,-40,16
+1426,Greater Toronto Area,Regional Municipality of Peel,Ontario,-23,-5,22,-59,-39,16
+1427,Greater Toronto Area,Regional Municipality of Peel,Ontario,-20,0,0,-55,-2,7
+1428,Greater Toronto Area,Regional Municipality of Peel,Ontario,-35,-26,-39,-64,-13,8
+1429,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-21,-29,-66,-44,19
+1430,Greater Toronto Area,Regional Municipality of Peel,Ontario,-38,-15,-28,-65,-42,18
+1431,Greater Toronto Area,Regional Municipality of Peel,Ontario,-37,-18,-32,-66,-42,18
+1432,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,-8,-13,-64,-42,17
+1433,Greater Toronto Area,Regional Municipality of Peel,Ontario,-33,-14,-12,-62,-41,18
+1434,Greater Toronto Area,Regional Municipality of Peel,Ontario,-35,-13,13,-58,-8,9
+1435,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-17,28,-63,-15,7
+1436,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-19,-42,-66,-44,18
+1437,Greater Toronto Area,Regional Municipality of Peel,Ontario,-43,-24,-37,-65,-45,20
+1438,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-11,-20,-64,-42,18
+1439,Greater Toronto Area,Regional Municipality of Peel,Ontario,-33,-7,-21,-63,-41,18
+1440,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-17,-28,-63,-41,19
+1441,Greater Toronto Area,Regional Municipality of Peel,Ontario,-35,-12,-15,-58,-8,10
+1442,Greater Toronto Area,Regional Municipality of Peel,Ontario,-38,-17,-5,-64,-16,8
+1443,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-17,-24,-65,-44,18
+1444,Greater Toronto Area,Regional Municipality of Peel,Ontario,-35,-12,-22,-64,-41,17
+1445,Greater Toronto Area,Regional Municipality of Peel,Ontario,-37,-14,-29,-65,-42,18
+1446,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-8,-15,-64,-41,17
+1447,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-13,-3,-63,-41,18
+1448,Greater Toronto Area,Regional Municipality of Peel,Ontario,-39,-16,-33,-61,-9,11
+1449,Greater Toronto Area,Regional Municipality of Peel,Ontario,-37,-14,-11,-64,-16,8
+1450,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-15,-28,-66,-44,18
+1451,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-8,-26,-64,-42,17
+1452,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-14,-38,-67,-43,19
+1453,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,-4,-29,-63,-42,18
+1454,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,-9,-15,-62,-41,18
+1455,Greater Toronto Area,Regional Municipality of Peel,Ontario,-36,-10,-19,-56,-10,10
+1456,Greater Toronto Area,Regional Municipality of Peel,Ontario,-35,-12,-10,-61,-15,7
+1457,Greater Toronto Area,Regional Municipality of Peel,Ontario,-25,3,-9,-64,-49,18
+1458,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,16,-15,-63,-48,17
+1459,Greater Toronto Area,Regional Municipality of Peel,Ontario,-15,31,0,-63,-49,17
+1460,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,35,-18,-68,-64,23
+1461,Greater Toronto Area,Regional Municipality of Peel,Ontario,-80,-73,-19,-84,-88,35
+1462,Greater Toronto Area,Regional Municipality of Peel,Ontario,-59,-44,-18,-69,-44,16
+1463,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-28,3,-66,-26,10
+1464,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-12,-18,-74,-73,28
+1465,Greater Toronto Area,Regional Municipality of Peel,Ontario,-34,-1,-4,-68,-58,23
+1466,Greater Toronto Area,Regional Municipality of Peel,Ontario,-32,3,-33,-70,-59,24
+1467,Greater Toronto Area,Regional Municipality of Peel,Ontario,-22,26,5,-70,-65,24
+1468,Greater Toronto Area,Regional Municipality of Peel,Ontario,-74,-69,-21,-83,-87,36
+1469,Greater Toronto Area,Regional Municipality of Peel,Ontario,-48,-22,1,-62,-30,15
+1470,Greater Toronto Area,Regional Municipality of Peel,Ontario,-49,-28,-13,-64,-24,11
+1471,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-17,-22,-66,-49,21
+1472,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-15,-27,-66,-47,21
+1473,Greater Toronto Area,Regional Municipality of Peel,Ontario,-43,-17,-24,-68,-47,21
+1474,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-12,-18,-68,-47,21
+1475,Greater Toronto Area,Regional Municipality of Peel,Ontario,-43,-20,-25,-68,-46,22
+1476,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-14,17,-63,-15,12
+1477,Greater Toronto Area,Regional Municipality of Peel,Ontario,-45,-20,0,-66,-21,10
+1478,Greater Toronto Area,Regional Municipality of Peel,Ontario,-45,-21,-28,-70,-48,21
+1479,Greater Toronto Area,Regional Municipality of Peel,Ontario,-44,-15,-33,-69,-47,20
+1480,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-10,-26,-71,-48,20
+1481,Greater Toronto Area,Regional Municipality of Peel,Ontario,-52,-26,-33,-71,-51,22
+1482,Greater Toronto Area,Regional Municipality of Peel,Ontario,-52,-31,-38,-72,-50,24
+1483,Greater Toronto Area,Regional Municipality of Peel,Ontario,-50,-23,8,-67,-21,14
+1484,Greater Toronto Area,Regional Municipality of Peel,Ontario,-52,-29,-13,-71,-26,11
+1485,Greater Toronto Area,Regional Municipality of Peel,Ontario,-49,-28,-26,-72,-52,22
+1486,Greater Toronto Area,Regional Municipality of Peel,Ontario,-50,-25,-37,-72,-50,21
+1487,Greater Toronto Area,Regional Municipality of Peel,Ontario,-49,-26,-39,-73,-50,22
+1488,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-20,-28,-71,-50,22
+1489,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-24,-34,-71,-49,23
+1490,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-20,-15,-68,-19,13
+1491,Greater Toronto Area,Regional Municipality of Peel,Ontario,-50,-26,-16,-72,-25,11
+1492,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-24,-17,-72,-51,21
+1493,Greater Toronto Area,Regional Municipality of Peel,Ontario,-60,-44,-49,-73,-53,23
+1494,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-21,-27,-73,-50,22
+1495,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-21,-40,-72,-50,22
+1496,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-25,-38,-72,-48,23
+1497,Greater Toronto Area,Regional Municipality of Peel,Ontario,-44,-16,7,-69,-17,13
+1498,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-24,-22,-73,-23,10
+1499,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-25,-35,-73,-50,21
+1500,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-22,-36,-72,-49,21
+1501,Greater Toronto Area,Regional Municipality of Peel,Ontario,-45,-21,-19,-73,-49,21
+1502,Greater Toronto Area,Regional Municipality of Peel,Ontario,-43,-16,-8,-72,-48,21
+1503,Greater Toronto Area,Regional Municipality of Peel,Ontario,-48,-28,-43,-73,-49,23
+1504,Greater Toronto Area,Regional Municipality of Peel,Ontario,-45,-19,-26,-71,-17,13
+1505,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-24,-18,-75,-21,10
+1506,Greater Toronto Area,Regional Municipality of Peel,Ontario,-48,-27,-38,-74,-49,21
+1507,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-21,-30,-72,-48,21
+1508,Greater Toronto Area,Regional Municipality of Peel,Ontario,-45,-18,-34,-73,-48,21
+1509,Greater Toronto Area,Regional Municipality of Peel,Ontario,-41,-12,-30,-72,-48,21
+1510,Greater Toronto Area,Regional Municipality of Peel,Ontario,-43,-18,-35,-72,-48,22
+1511,Greater Toronto Area,Regional Municipality of Peel,Ontario,-43,-11,-29,-71,-19,13
+1512,Greater Toronto Area,Regional Municipality of Peel,Ontario,-33,-3,26,-73,-21,8
+1513,Greater Toronto Area,Regional Municipality of Peel,Ontario,-64,-48,-8,-82,-82,32
+1514,Greater Toronto Area,Regional Municipality of Peel,Ontario,-52,-27,-47,-73,-53,23
+1515,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-9,-24,-71,-44,19
+1516,Greater Toronto Area,Regional Municipality of Peel,Ontario,-46,-19,-37,-71,-46,20
+1517,Greater Toronto Area,Regional Municipality of Peel,Ontario,-44,-22,-29,-70,-45,21
+1518,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-9,10,-68,-13,11
+1519,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-16,19,-72,-18,9
+1520,Greater Toronto Area,Regional Municipality of Peel,Ontario,-47,-25,-38,-73,-47,21
+1521,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-13,-27,-71,-44,19
+1522,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-15,-20,-72,-44,19
+1523,Greater Toronto Area,Regional Municipality of Peel,Ontario,-40,-12,-15,-71,-44,19
+1524,Greater Toronto Area,Regional Municipality of Peel,Ontario,-39,-14,-8,-69,-43,19
+1525,Greater Toronto Area,Regional Municipality of Peel,Ontario,-39,-12,11,-69,-13,10
+1526,Greater Toronto Area,Regional Municipality of Peel,Ontario,-43,-20,-23,-73,-17,8
+1527,Greater Toronto Area,Regional Municipality of Peel,Ontario,-44,-23,-36,-72,-45,19
+1528,Greater Toronto Area,Regional Municipality of Peel,Ontario,-42,-16,-25,-70,-44,19
+1529,Greater Toronto Area,Regional Municipality of York,Ontario,2,11,39,11,1,-1
+1530,Greater Toronto Area,Regional Municipality of York,Ontario,12,16,37,1,-2,-3
+1531,Greater Toronto Area,Regional Municipality of York,Ontario,-1,-15,97,-49,-78,18
+1532,Greater Toronto Area,Regional Municipality of York,Ontario,-3,14,-9,-4,1,1
+1533,Greater Toronto Area,Regional Municipality of York,Ontario,3,9,-3,-7,1,1
+1534,Greater Toronto Area,Regional Municipality of York,Ontario,3,10,3,-5,2,0
+1535,Greater Toronto Area,Regional Municipality of York,Ontario,0,3,-3,-3,-6,2
+1536,Greater Toronto Area,Regional Municipality of York,Ontario,8,14,58,14,10,-2
+1537,Greater Toronto Area,Regional Municipality of York,Ontario,6,10,69,5,4,-1
+1538,Greater Toronto Area,Regional Municipality of York,Ontario,3,7,23,-3,4,0
+1539,Greater Toronto Area,Regional Municipality of York,Ontario,-1,13,3,-1,3,0
+1540,Greater Toronto Area,Regional Municipality of York,Ontario,-11,-3,-7,-10,-5,4
+1541,Greater Toronto Area,Regional Municipality of York,Ontario,-12,-3,-18,-12,-11,6
+1542,Greater Toronto Area,Regional Municipality of York,Ontario,-11,-3,-17,-5,-1,4
+1543,Greater Toronto Area,Regional Municipality of York,Ontario,4,20,28,6,10,0
+1544,Greater Toronto Area,Regional Municipality of York,Ontario,5,19,44,-1,4,0
+1545,Greater Toronto Area,Regional Municipality of York,Ontario,3,12,2,-4,5,0
+1546,Greater Toronto Area,Regional Municipality of York,Ontario,-3,8,-7,-6,5,1
+1547,Greater Toronto Area,Regional Municipality of York,Ontario,3,8,7,-6,2,1
+1548,Greater Toronto Area,Regional Municipality of York,Ontario,3,11,23,-6,1,1
+1549,Greater Toronto Area,Regional Municipality of York,Ontario,-4,-1,-3,-7,6,1
+1550,Greater Toronto Area,Regional Municipality of York,Ontario,5,14,75,4,10,-1
+1551,Greater Toronto Area,Regional Municipality of York,Ontario,4,11,135,-4,3,0
+1552,Greater Toronto Area,Regional Municipality of York,Ontario,3,6,63,-7,3,1
+1553,Greater Toronto Area,Regional Municipality of York,Ontario,-3,3,-3,-11,2,2
+1554,Greater Toronto Area,Regional Municipality of York,Ontario,2,11,7,-10,1,2
+1555,Greater Toronto Area,Regional Municipality of York,Ontario,2,39,18,-14,0,2
+1556,Greater Toronto Area,Regional Municipality of York,Ontario,-6,47,-13,-22,-3,5
+1557,Greater Toronto Area,Regional Municipality of York,Ontario,-18,31,18,-20,0,5
+1558,Greater Toronto Area,Regional Municipality of York,Ontario,-21,15,97,-29,-11,5
+1559,Greater Toronto Area,Regional Municipality of York,Ontario,-14,33,35,-45,-34,13
+1560,Greater Toronto Area,Regional Municipality of York,Ontario,-33,17,23,-52,-42,18
+1561,Greater Toronto Area,Regional Municipality of York,Ontario,-38,4,36,-57,-49,21
+1562,Greater Toronto Area,Regional Municipality of York,Ontario,-42,6,53,-59,-51,23
+1563,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-12,-1,-62,-53,25
+1564,Greater Toronto Area,Regional Municipality of York,Ontario,-57,-16,75,-54,-36,15
+1565,Greater Toronto Area,Regional Municipality of York,Ontario,-60,-26,51,-60,-43,14
+1566,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-12,-28,-69,-59,26
+1567,Greater Toronto Area,Regional Municipality of York,Ontario,-53,-13,27,-67,-61,27
+1568,Greater Toronto Area,Regional Municipality of York,Ontario,-59,-26,50,-70,-66,29
+1569,Greater Toronto Area,Regional Municipality of York,Ontario,-59,-24,12,-71,-66,30
+1570,Greater Toronto Area,Regional Municipality of York,Ontario,-60,-27,63,-69,-64,30
+1571,Greater Toronto Area,Regional Municipality of York,Ontario,-67,-32,9,-65,-50,19
+1572,Greater Toronto Area,Regional Municipality of York,Ontario,-68,-40,10,-69,-52,16
+1573,Greater Toronto Area,Regional Municipality of York,Ontario,-59,-31,-30,-75,-67,29
+1574,Greater Toronto Area,Regional Municipality of York,Ontario,-59,-25,-16,-73,-67,29
+1575,Greater Toronto Area,Regional Municipality of York,Ontario,-56,-26,53,-70,-67,29
+1576,Greater Toronto Area,Regional Municipality of York,Ontario,-57,-22,30,-70,-67,30
+1577,Greater Toronto Area,Regional Municipality of York,Ontario,-61,-27,-16,-69,-66,31
+1578,Greater Toronto Area,Regional Municipality of York,Ontario,-65,-30,17,-56,-50,19
+1579,Greater Toronto Area,Regional Municipality of York,Ontario,-68,-37,19,-62,-53,16
+1580,Greater Toronto Area,Regional Municipality of York,Ontario,-58,-25,30,-68,-67,28
+1581,Greater Toronto Area,Regional Municipality of York,Ontario,-59,-22,8,-70,-68,30
+1582,Greater Toronto Area,Regional Municipality of York,Ontario,-56,-19,22,-69,-69,30
+1583,Greater Toronto Area,Regional Municipality of York,Ontario,-51,0,-14,-69,-69,29
+1584,Greater Toronto Area,Regional Municipality of York,Ontario,-82,-69,-18,-84,-88,40
+1585,Greater Toronto Area,Regional Municipality of York,Ontario,-63,-19,18,-61,-54,19
+1586,Greater Toronto Area,Regional Municipality of York,Ontario,-81,-72,26,-67,-59,17
+1587,Greater Toronto Area,Regional Municipality of York,Ontario,-60,-27,-35,-76,-71,31
+1588,Greater Toronto Area,Regional Municipality of York,Ontario,-57,-19,-15,-71,-67,30
+1589,Greater Toronto Area,Regional Municipality of York,Ontario,-58,-24,-24,-71,-68,31
+1590,Greater Toronto Area,Regional Municipality of York,Ontario,-58,-22,-21,-71,-68,31
+1591,Greater Toronto Area,Regional Municipality of York,Ontario,-60,-26,-12,-69,-66,32
+1592,Greater Toronto Area,Regional Municipality of York,Ontario,-64,-28,47,-57,-46,18
+1593,Greater Toronto Area,Regional Municipality of York,Ontario,-68,-40,-14,-67,-48,16
+1594,Greater Toronto Area,Regional Municipality of York,Ontario,-56,-25,35,-69,-66,28
+1595,Greater Toronto Area,Regional Municipality of York,Ontario,-59,-29,-32,-72,-66,30
+1596,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-24,2,-70,-67,30
+1597,Greater Toronto Area,Regional Municipality of York,Ontario,-56,-21,9,-69,-66,30
+1598,Greater Toronto Area,Regional Municipality of York,Ontario,-59,-26,3,-68,-65,31
+1599,Greater Toronto Area,Regional Municipality of York,Ontario,-61,-26,127,-49,-45,17
+1600,Greater Toronto Area,Regional Municipality of York,Ontario,-66,-37,-14,-65,-46,16
+1601,Greater Toronto Area,Regional Municipality of York,Ontario,-53,-22,81,-65,-64,27
+1602,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-22,29,-67,-65,29
+1603,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-24,-10,-69,-66,30
+1604,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-16,16,-68,-65,30
+1605,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-19,45,-64,-63,29
+1606,Greater Toronto Area,Regional Municipality of York,Ontario,-60,-23,56,-50,-42,17
+1607,Greater Toronto Area,Regional Municipality of York,Ontario,-58,-26,152,-46,-39,12
+1608,Greater Toronto Area,Regional Municipality of York,Ontario,-51,-18,27,-66,-64,27
+1609,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-15,49,-64,-63,28
+1610,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-16,71,-62,-64,28
+1611,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-15,19,-65,-63,29
+1612,Greater Toronto Area,Regional Municipality of York,Ontario,-54,-18,-4,-64,-61,29
+1613,Greater Toronto Area,Regional Municipality of York,Ontario,-56,-15,-16,-53,-39,17
+1614,Greater Toronto Area,Regional Municipality of York,Ontario,-51,-18,-6,-55,-36,13
+1615,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-24,5,-67,-62,27
+1616,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-16,23,-63,-61,27
+1617,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-14,102,-60,-62,27
+1618,Greater Toronto Area,Regional Municipality of York,Ontario,-48,-15,8,-65,-62,28
+1619,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-16,10,-63,-60,29
+1620,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-13,211,-36,-35,13
+1621,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-18,77,-50,-34,12
+1622,Greater Toronto Area,Regional Municipality of York,Ontario,-66,-48,-4,-80,-86,34
+1623,Greater Toronto Area,Regional Municipality of York,Ontario,-42,-4,70,-60,-59,25
+1624,Greater Toronto Area,Regional Municipality of York,Ontario,-37,-4,135,-56,-60,25
+1625,Greater Toronto Area,Regional Municipality of York,Ontario,-38,-1,134,-57,-59,25
+1626,Greater Toronto Area,Regional Municipality of York,Ontario,-42,-8,111,-54,-56,25
+1627,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-9,204,-33,-27,12
+1628,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-17,149,-42,-28,10
+1629,Greater Toronto Area,Regional Municipality of York,Ontario,-35,-8,105,-56,-59,23
+1630,Greater Toronto Area,Regional Municipality of York,Ontario,-38,-7,86,-57,-57,24
+1631,Greater Toronto Area,Regional Municipality of York,Ontario,-35,-6,108,-55,-57,24
+1632,Greater Toronto Area,Regional Municipality of York,Ontario,-39,-8,30,-58,-57,25
+1633,Greater Toronto Area,Regional Municipality of York,Ontario,-43,-14,25,-57,-55,26
+1634,Greater Toronto Area,Regional Municipality of York,Ontario,-43,-10,135,-31,-18,12
+1635,Greater Toronto Area,Regional Municipality of York,Ontario,-42,-15,139,-36,-18,10
+1636,Greater Toronto Area,Regional Municipality of York,Ontario,-33,-7,140,-52,-55,22
+1637,Greater Toronto Area,Regional Municipality of York,Ontario,-38,-9,92,-55,-55,24
+1638,Greater Toronto Area,Regional Municipality of York,Ontario,-35,-8,120,-55,-56,24
+1639,Greater Toronto Area,Regional Municipality of York,Ontario,-34,-1,139,-54,-54,23
+1640,Greater Toronto Area,Regional Municipality of York,Ontario,-38,-9,93,-54,-52,23
+1641,Greater Toronto Area,Regional Municipality of York,Ontario,-39,-6,228,-31,-16,10
+1642,Greater Toronto Area,Regional Municipality of York,Ontario,-38,-12,213,-37,-18,8
+1643,Greater Toronto Area,Regional Municipality of York,Ontario,-30,-6,164,-54,-54,21
+1644,Greater Toronto Area,Regional Municipality of York,Ontario,-34,-6,125,-55,-54,22
+1645,Greater Toronto Area,Regional Municipality of York,Ontario,-33,-8,76,-57,-55,24
+1646,Greater Toronto Area,Regional Municipality of York,Ontario,-32,0,147,-52,-53,22
+1647,Greater Toronto Area,Regional Municipality of York,Ontario,-35,-4,129,-51,-51,22
+1648,Greater Toronto Area,Regional Municipality of York,Ontario,-37,-4,256,-25,-12,9
+1649,Greater Toronto Area,Regional Municipality of York,Ontario,-37,-11,238,-33,-13,7
+1650,Greater Toronto Area,Regional Municipality of York,Ontario,-28,-2,189,-50,-53,20
+1651,Greater Toronto Area,Regional Municipality of York,Ontario,-30,-1,176,-50,-53,21
+1652,Greater Toronto Area,Regional Municipality of York,Ontario,-29,-2,182,-50,-53,21
+1653,Greater Toronto Area,Regional Municipality of York,Ontario,-30,5,167,-50,-53,21
+1654,Greater Toronto Area,Regional Municipality of York,Ontario,-30,1,143,-45,-50,20
+1655,Greater Toronto Area,Regional Municipality of York,Ontario,-33,3,248,-18,-9,7
+1656,Greater Toronto Area,Regional Municipality of York,Ontario,-33,-6,172,-26,-8,5
+1657,Greater Toronto Area,Regional Municipality of York,Ontario,-26,-5,140,-49,-53,20
+1658,Greater Toronto Area,Regional Municipality of York,Ontario,-30,-4,89,-51,-53,22
+1659,Greater Toronto Area,Regional Municipality of York,Ontario,-24,0,151,-46,-52,20
+1660,Greater Toronto Area,Regional Municipality of York,Ontario,-25,6,188,-46,-51,20
+1661,Greater Toronto Area,Regional Municipality of York,Ontario,-29,-2,181,-41,-49,19
+1662,Greater Toronto Area,Regional Municipality of York,Ontario,-33,-2,233,-13,-10,8
+1663,Greater Toronto Area,Regional Municipality of York,Ontario,-32,-10,271,-16,-5,4
+1664,Greater Toronto Area,Regional Municipality of York,Ontario,-18,2,205,-48,-52,18
+1665,Greater Toronto Area,Regional Municipality of York,Ontario,-10,24,185,-48,-51,16
+1666,Greater Toronto Area,Regional Municipality of York,Ontario,-42,-32,392,-61,-76,23
+1667,Greater Toronto Area,Regional Municipality of York,Ontario,-18,8,171,-52,-53,19
+1668,Greater Toronto Area,Regional Municipality of York,Ontario,-25,2,176,-51,-55,19
+1669,Greater Toronto Area,Regional Municipality of York,Ontario,-32,-5,271,-29,-11,6
+1670,Greater Toronto Area,Regional Municipality of York,Ontario,-31,-12,236,-33,-12,4
+1671,Greater Toronto Area,Regional Municipality of York,Ontario,-19,-1,195,-51,-52,18
+1672,Greater Toronto Area,Regional Municipality of York,Ontario,-23,1,167,-52,-51,19
+1673,Greater Toronto Area,Regional Municipality of York,Ontario,-20,0,173,-52,-52,19
+1674,Greater Toronto Area,Regional Municipality of York,Ontario,-21,6,158,-51,-51,19
+1675,Greater Toronto Area,Regional Municipality of York,Ontario,-26,-3,139,-49,-49,18
+1676,Greater Toronto Area,Regional Municipality of York,Ontario,-30,-4,111,-33,-9,9
+1677,Greater Toronto Area,Regional Municipality of York,Ontario,-28,-8,253,-31,-9,4
+1678,Greater Toronto Area,Regional Municipality of York,Ontario,-19,-1,211,-51,-51,18
+1679,Greater Toronto Area,Regional Municipality of York,Ontario,-21,-1,204,-51,-50,18
+1680,Greater Toronto Area,Regional Municipality of York,Ontario,-18,-1,205,-52,-50,18
+1681,Greater Toronto Area,Regional Municipality of York,Ontario,-22,4,98,-54,-50,20
+1682,Greater Toronto Area,Regional Municipality of York,Ontario,-23,0,189,-49,-48,17
+1683,Greater Toronto Area,Regional Municipality of York,Ontario,-29,-3,280,-28,-7,5
+1684,Greater Toronto Area,Regional Municipality of York,Ontario,-34,-15,144,-40,-13,6
+1685,Greater Toronto Area,Regional Municipality of York,Ontario,-17,1,221,-51,-49,17
+1686,Greater Toronto Area,Regional Municipality of York,Ontario,-21,1,204,-52,-49,18
+1687,Greater Toronto Area,Regional Municipality of York,Ontario,-21,-3,105,-55,-50,20
+1688,Greater Toronto Area,Regional Municipality of York,Ontario,-18,6,211,-51,-49,17
+1689,Greater Toronto Area,Regional Municipality of York,Ontario,-22,0,198,-49,-47,16
+1690,Greater Toronto Area,Regional Municipality of York,Ontario,-26,-3,311,-25,-6,4
+1691,Greater Toronto Area,Regional Municipality of York,Ontario,-26,-8,250,-34,-9,3
+1692,Greater Toronto Area,Regional Municipality of York,Ontario,-17,-2,164,-53,-51,18
+1693,Greater Toronto Area,Regional Municipality of York,Ontario,-18,3,214,-51,-49,17
+1694,Greater Toronto Area,Regional Municipality of York,Ontario,-14,1,206,-53,-51,18
+1695,Greater Toronto Area,Regional Municipality of York,Ontario,-14,10,226,-49,-50,17
+1696,Greater Toronto Area,Regional Municipality of York,Ontario,-18,5,212,-47,-49,15
+1697,Greater Toronto Area,Regional Municipality of York,Ontario,-27,-4,321,-29,-12,2
+1698,Greater Toronto Area,Regional Municipality of York,Ontario,-27,-11,65,-49,-16,6
+1699,Greater Toronto Area,Regional Municipality of York,Ontario,-31,-23,220,-68,-79,22
+1700,Greater Toronto Area,Regional Municipality of York,Ontario,-19,1,76,-55,-51,18
+1701,Greater Toronto Area,Regional Municipality of York,Ontario,-12,4,255,-51,-50,17
+1702,Greater Toronto Area,Regional Municipality of York,Ontario,-13,6,251,-51,-49,16
+1703,Greater Toronto Area,Regional Municipality of York,Ontario,-20,-3,215,-49,-47,15
+1704,Greater Toronto Area,Regional Municipality of York,Ontario,-23,-5,349,-26,-6,3
+1705,Greater Toronto Area,Regional Municipality of York,Ontario,-23,-10,261,-34,-9,2
+1706,Greater Toronto Area,Regional Municipality of York,Ontario,-13,-3,217,-53,-50,16
+1707,Greater Toronto Area,Regional Municipality of York,Ontario,-16,1,208,-53,-49,17
+1708,Greater Toronto Area,Regional Municipality of York,Ontario,-12,0,248,-51,-50,16
+1709,Greater Toronto Area,Regional Municipality of York,Ontario,-14,4,235,-51,-49,16
+1710,Greater Toronto Area,Regional Municipality of York,Ontario,-19,0,214,-47,-47,15
+1711,Greater Toronto Area,Regional Municipality of York,Ontario,-23,-3,315,-25,-6,2
+1712,Greater Toronto Area,Regional Municipality of York,Ontario,-23,-7,166,-37,-11,3
+1713,Greater Toronto Area,Regional Municipality of York,Ontario,-15,-4,84,-52,-50,16
+1714,Greater Toronto Area,Regional Municipality of York,Ontario,-15,2,84,-52,-48,16
+1715,Greater Toronto Area,Regional Municipality of York,Ontario,-13,0,84,-51,-50,16
+1716,Greater Toronto Area,Regional Municipality of York,Ontario,-13,6,84,-49,-49,15
+1717,Greater Toronto Area,Regional Municipality of York,Ontario,-18,0,84,-47,-47,15
+1718,Greater Toronto Area,Regional Municipality of York,Ontario,-22,-4,84,-25,-6,3
+1719,Greater Toronto Area,Regional Municipality of York,Ontario,-22,-7,84,-30,-8,2
+1720,Greater Toronto Area,Regional Municipality of York,Ontario,-12,-1,84,-51,-49,15
+1721,Greater Toronto Area,Regional Municipality of York,Ontario,-14,4,84,-50,-49,15
+1722,Greater Toronto Area,Regional Municipality of York,Ontario,-13,-1,84,-51,-49,16
+1723,Greater Toronto Area,Regional Municipality of York,Ontario,-13,6,84,-50,-48,16
+1724,Greater Toronto Area,Regional Municipality of York,Ontario,-18,2,84,-48,-46,15
+1725,Greater Toronto Area,Regional Municipality of York,Ontario,-20,3,84,-26,-7,4
+1726,Greater Toronto Area,Regional Municipality of York,Ontario,-18,-3,84,-25,-6,1
+1727,Greater Toronto Area,Regional Municipality of York,Ontario,-11,2,84,-50,-49,14
+1728,Greater Toronto Area,Regional Municipality of York,Ontario,-14,4,84,-49,-49,15
+1729,Greater Toronto Area,Regional Municipality of York,Ontario,-11,4,84,-52,-50,16
+1730,Greater Toronto Area,Regional Municipality of York,Ontario,-11,7,84,-49,-48,15
+1731,Greater Toronto Area,Regional Municipality of York,Ontario,-13,6,84,-45,-47,13
+1732,Greater Toronto Area,Regional Municipality of York,Ontario,-20,0,84,-24,-11,2
+1733,Greater Toronto Area,Regional Municipality of York,Ontario,-14,-1,84,-30,-9,0
+1734,Greater Toronto Area,Regional Municipality of York,Ontario,-30,-21,84,-69,-83,23
+1735,Greater Toronto Area,Regional Municipality of York,Ontario,-14,9,84,-52,-50,16
+1736,Greater Toronto Area,Regional Municipality of York,Ontario,-13,4,84,-53,-49,16
+1737,Greater Toronto Area,Regional Municipality of York,Ontario,-13,5,84,-50,-48,16
+1738,Greater Toronto Area,Regional Municipality of York,Ontario,-16,2,163,-46,-45,15
+1739,Greater Toronto Area,Regional Municipality of York,Ontario,-16,3,281,-21,-3,4
+1740,Greater Toronto Area,Regional Municipality of York,Ontario,-18,-1,194,-31,-4,5
+1741,Greater Toronto Area,Regional Municipality of York,Ontario,-13,1,178,-52,-45,15
+1742,Greater Toronto Area,Regional Municipality of York,Ontario,-15,3,151,-51,-45,16
+1743,Greater Toronto Area,Regional Municipality of York,Ontario,-14,0,175,-49,-46,16
+1744,Greater Toronto Area,Regional Municipality of York,Ontario,-16,5,157,-50,-45,16
+1745,Greater Toronto Area,Regional Municipality of York,Ontario,-18,1,119,-48,-43,15
+1746,Greater Toronto Area,Regional Municipality of York,Ontario,-18,4,230,-27,-3,5
+1747,Greater Toronto Area,Regional Municipality of York,Ontario,-18,-1,242,-31,-3,4
+1748,Greater Toronto Area,Regional Municipality of York,Ontario,-16,0,169,-51,-46,16
+1749,Greater Toronto Area,Regional Municipality of York,Ontario,-19,3,153,-51,-46,16
+1750,Greater Toronto Area,Regional Municipality of York,Ontario,-17,3,159,-51,-45,16
+1751,Greater Toronto Area,Regional Municipality of York,Ontario,-19,4,126,-52,-44,16
+1752,Greater Toronto Area,Regional Municipality of York,Ontario,-20,2,139,-49,-41,15
+1753,Greater Toronto Area,Regional Municipality of York,Ontario,-19,5,268,-27,0,4
+1754,Greater Toronto Area,Regional Municipality of York,Ontario,-19,1,239,-34,-1,3
+1755,Greater Toronto Area,Regional Municipality of York,Ontario,-21,-1,157,-54,-46,16
+1756,Greater Toronto Area,Regional Municipality of York,Ontario,-20,6,107,-53,-44,16
+1757,Greater Toronto Area,Regional Municipality of York,Ontario,-19,3,45,-56,-45,17
+1758,Greater Toronto Area,Regional Municipality of York,Ontario,-17,11,110,-53,-42,16
+1759,Greater Toronto Area,Regional Municipality of York,Ontario,-22,1,83,-50,-41,17
+1760,Greater Toronto Area,Regional Municipality of York,Ontario,-21,2,211,-30,-3,6
+1761,Greater Toronto Area,Regional Municipality of York,Ontario,-26,-4,24,-45,-9,7
+1762,Greater Toronto Area,Regional Municipality of York,Ontario,-19,0,141,-53,-44,16
+1763,Greater Toronto Area,Regional Municipality of York,Ontario,-21,5,115,-54,-45,17
+1764,Greater Toronto Area,Regional Municipality of York,Ontario,-20,2,59,-57,-45,18
+1765,Greater Toronto Area,Regional Municipality of York,Ontario,-19,9,85,-54,-43,17
+1766,Greater Toronto Area,Regional Municipality of York,Ontario,-19,13,122,-50,-42,15
+1767,Greater Toronto Area,Regional Municipality of York,Ontario,-23,9,213,-33,-5,6
+1768,Greater Toronto Area,Regional Municipality of York,Ontario,-23,6,204,-40,-7,4
+1769,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-35,201,-73,-83,26
+1770,Greater Toronto Area,Regional Municipality of York,Ontario,-21,8,140,-55,-45,17
+1771,Greater Toronto Area,Regional Municipality of York,Ontario,-18,5,128,-55,-44,18
+1772,Greater Toronto Area,Regional Municipality of York,Ontario,-23,-1,13,-59,-44,19
+1773,Greater Toronto Area,Regional Municipality of York,Ontario,-19,4,97,-52,-40,17
+1774,Greater Toronto Area,Regional Municipality of York,Ontario,-17,8,253,-33,-1,6
+1775,Greater Toronto Area,Regional Municipality of York,Ontario,-20,-1,104,-47,-5,7
+1776,Greater Toronto Area,Regional Municipality of York,Ontario,-27,-4,47,-58,-45,18
+1777,Greater Toronto Area,Regional Municipality of York,Ontario,-26,3,91,-57,-45,18
+1778,Greater Toronto Area,Regional Municipality of York,Ontario,-26,0,72,-59,-45,19
+1779,Greater Toronto Area,Regional Municipality of York,Ontario,-26,2,59,-57,-43,19
+1780,Greater Toronto Area,Regional Municipality of York,Ontario,-27,0,160,-51,-41,17
+1781,Greater Toronto Area,Regional Municipality of York,Ontario,-27,5,142,-38,-5,8
+1782,Greater Toronto Area,Regional Municipality of York,Ontario,-29,-1,127,-45,-8,7
+1783,Greater Toronto Area,Regional Municipality of York,Ontario,-26,-2,62,-58,-44,18
+1784,Greater Toronto Area,Regional Municipality of York,Ontario,-30,-2,15,-58,-44,19
+1785,Greater Toronto Area,Regional Municipality of York,Ontario,-23,4,92,-56,-44,18
+1786,Greater Toronto Area,Regional Municipality of York,Ontario,-25,4,34,-58,-43,19
+1787,Greater Toronto Area,Regional Municipality of York,Ontario,-27,3,22,-55,-41,18
+1788,Greater Toronto Area,Regional Municipality of York,Ontario,-26,9,138,-33,-5,7
+1789,Greater Toronto Area,Regional Municipality of York,Ontario,-32,-3,-2,-52,-12,9
+1790,Greater Toronto Area,Regional Municipality of York,Ontario,-28,-6,13,-60,-44,19
+1791,Greater Toronto Area,Regional Municipality of York,Ontario,-29,0,31,-59,-45,19
+1792,Greater Toronto Area,Regional Municipality of York,Ontario,-25,0,107,-56,-44,18
+1793,Greater Toronto Area,Regional Municipality of York,Ontario,-26,1,88,-57,-42,18
+1794,Greater Toronto Area,Regional Municipality of York,Ontario,-27,0,114,-55,-40,18
+1795,Greater Toronto Area,Regional Municipality of York,Ontario,-20,3,265,-35,-2,6
+1796,Greater Toronto Area,Regional Municipality of York,Ontario,-21,0,268,-41,-5,5
+1797,Greater Toronto Area,Regional Municipality of York,Ontario,-21,-2,140,-56,-43,17
+1798,Greater Toronto Area,Regional Municipality of York,Ontario,-22,2,143,-56,-43,17
+1799,Greater Toronto Area,Regional Municipality of York,Ontario,-17,4,88,-58,-45,18
+1800,Greater Toronto Area,Regional Municipality of York,Ontario,-22,4,70,-58,-42,18
+1801,Greater Toronto Area,Regional Municipality of York,Ontario,-23,0,38,-57,-43,19
+1802,Greater Toronto Area,Regional Municipality of York,Ontario,-22,4,140,-41,-3,8
+1803,Greater Toronto Area,Regional Municipality of York,Ontario,-33,-13,-20,-57,-12,10
+1804,Greater Toronto Area,Regional Municipality of York,Ontario,-25,-5,18,-62,-44,19
+1805,Greater Toronto Area,Regional Municipality of York,Ontario,-28,-4,13,-62,-44,20
+1806,Greater Toronto Area,Regional Municipality of York,Ontario,-26,-3,10,-61,-45,20
+1807,Greater Toronto Area,Regional Municipality of York,Ontario,-23,2,49,-60,-42,19
+1808,Greater Toronto Area,Regional Municipality of York,Ontario,-22,2,89,-56,-41,18
+1809,Greater Toronto Area,Regional Municipality of York,Ontario,-22,7,66,-42,-4,9
+1810,Greater Toronto Area,Regional Municipality of York,Ontario,-39,-21,2,-57,-16,11
+1811,Greater Toronto Area,Regional Municipality of York,Ontario,-24,-5,21,-62,-46,20
+1812,Greater Toronto Area,Regional Municipality of York,Ontario,-24,-1,7,-63,-45,20
+1813,Greater Toronto Area,Regional Municipality of York,Ontario,-22,-2,1,-62,-45,21
+1814,Greater Toronto Area,Regional Municipality of York,Ontario,-19,6,26,-60,-43,20
+1815,Greater Toronto Area,Regional Municipality of York,Ontario,-20,3,24,-58,-42,19
+1816,Greater Toronto Area,Regional Municipality of York,Ontario,-20,9,116,-40,-5,9
+1817,Greater Toronto Area,Regional Municipality of York,Ontario,-22,1,134,-47,-11,8
+1818,Greater Toronto Area,Regional Municipality of York,Ontario,-22,-4,-12,-63,-45,20
+1819,Greater Toronto Area,Regional Municipality of York,Ontario,-34,-12,1,-64,-48,22
+1820,Greater Toronto Area,Regional Municipality of York,Ontario,-20,4,20,-60,-45,20
+1821,Greater Toronto Area,Regional Municipality of York,Ontario,-21,7,25,-60,-43,20
+1822,Greater Toronto Area,Regional Municipality of York,Ontario,-25,-2,0,-60,-42,21
+1823,Greater Toronto Area,Regional Municipality of York,Ontario,-21,8,50,-42,-7,10
+1824,Greater Toronto Area,Regional Municipality of York,Ontario,-23,2,59,-52,-13,9
+1825,Greater Toronto Area,Regional Municipality of York,Ontario,-20,-2,19,-61,-45,19
+1826,Greater Toronto Area,Regional Municipality of York,Ontario,-23,2,18,-61,-44,20
+1827,Greater Toronto Area,Regional Municipality of York,Ontario,-25,-5,10,-60,-46,21
+1828,Greater Toronto Area,Regional Municipality of York,Ontario,-19,7,19,-59,-43,20
+1829,Greater Toronto Area,Regional Municipality of York,Ontario,-19,10,27,-57,-41,19
+1830,Greater Toronto Area,Regional Municipality of York,Ontario,-19,10,5,-42,-7,11
+1831,Greater Toronto Area,Regional Municipality of York,Ontario,-16,9,39,-47,-9,9
+1832,Greater Toronto Area,Regional Municipality of York,Ontario,-36,-5,17,-64,-46,20
+1833,Greater Toronto Area,Regional Municipality of York,Ontario,-36,-2,8,-63,-47,21
+1834,Greater Toronto Area,Regional Municipality of York,Ontario,-36,-5,-15,-65,-47,22
+1835,Greater Toronto Area,Regional Municipality of York,Ontario,-33,6,9,-63,-45,21
+1836,Greater Toronto Area,Regional Municipality of York,Ontario,-35,1,9,-61,-44,21
+1837,Greater Toronto Area,Regional Municipality of York,Ontario,-42,-3,41,-49,-15,12
+1838,Greater Toronto Area,Regional Municipality of York,Ontario,-42,-6,32,-57,-19,11
+1839,Greater Toronto Area,Regional Municipality of York,Ontario,-24,14,36,-64,-53,20
+1840,Greater Toronto Area,Regional Municipality of York,Ontario,-24,26,25,-64,-54,21
+1841,Greater Toronto Area,Regional Municipality of York,Ontario,-15,45,36,-62,-55,21
+1842,Greater Toronto Area,Regional Municipality of York,Ontario,-30,36,-1,-70,-68,26
+1843,Greater Toronto Area,Regional Municipality of York,Ontario,-83,-76,49,-83,-89,35
+1844,Greater Toronto Area,Regional Municipality of York,Ontario,-64,-42,84,-66,-48,17
+1845,Greater Toronto Area,Regional Municipality of York,Ontario,-51,-21,85,-63,-27,12
+1846,Greater Toronto Area,Regional Municipality of York,Ontario,-41,-3,35,-77,-76,29
+1847,Greater Toronto Area,Regional Municipality of York,Ontario,-37,6,48,-71,-65,26
+1848,Greater Toronto Area,Regional Municipality of York,Ontario,-35,15,0,-72,-65,27
+1849,Greater Toronto Area,Regional Municipality of York,Ontario,-32,26,35,-73,-69,27
+1850,Greater Toronto Area,Regional Municipality of York,Ontario,-77,-70,44,-86,-88,37
+1851,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-20,102,-62,-35,16
+1852,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-23,62,-66,-28,13
+1853,Greater Toronto Area,Regional Municipality of York,Ontario,-44,-11,17,-69,-53,23
+1854,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-11,11,-67,-53,24
+1855,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-13,8,-68,-53,25
+1856,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-9,25,-67,-52,25
+1857,Greater Toronto Area,Regional Municipality of York,Ontario,-48,-16,9,-67,-50,25
+1858,Greater Toronto Area,Regional Municipality of York,Ontario,-48,-9,114,-55,-18,14
+1859,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-19,71,-64,-23,12
+1860,Greater Toronto Area,Regional Municipality of York,Ontario,-47,-19,12,-69,-52,24
+1861,Greater Toronto Area,Regional Municipality of York,Ontario,-47,-12,0,-69,-53,24
+1862,Greater Toronto Area,Regional Municipality of York,Ontario,-44,-8,8,-68,-53,24
+1863,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-24,7,-70,-55,26
+1864,Greater Toronto Area,Regional Municipality of York,Ontario,-54,-26,-14,-71,-54,27
+1865,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-18,105,-62,-24,15
+1866,Greater Toronto Area,Regional Municipality of York,Ontario,-57,-27,45,-69,-29,14
+1867,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-24,13,-71,-56,24
+1868,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-21,-3,-71,-56,25
+1869,Greater Toronto Area,Regional Municipality of York,Ontario,-51,-23,-12,-71,-56,26
+1870,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-17,2,-70,-54,26
+1871,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-21,-16,-70,-53,26
+1872,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-15,50,-60,-22,15
+1873,Greater Toronto Area,Regional Municipality of York,Ontario,-56,-22,44,-67,-27,13
+1874,Greater Toronto Area,Regional Municipality of York,Ontario,-49,-19,29,-70,-55,24
+1875,Greater Toronto Area,Regional Municipality of York,Ontario,-60,-37,-18,-72,-58,27
+1876,Greater Toronto Area,Regional Municipality of York,Ontario,-48,-16,9,-70,-55,25
+1877,Greater Toronto Area,Regional Municipality of York,Ontario,-49,-18,-17,-71,-54,26
+1878,Greater Toronto Area,Regional Municipality of York,Ontario,-51,-21,-21,-70,-52,26
+1879,Greater Toronto Area,Regional Municipality of York,Ontario,-49,-12,102,-61,-20,14
+1880,Greater Toronto Area,Regional Municipality of York,Ontario,-53,-20,50,-68,-26,13
+1881,Greater Toronto Area,Regional Municipality of York,Ontario,-46,-18,17,-71,-55,24
+1882,Greater Toronto Area,Regional Municipality of York,Ontario,-49,-17,-2,-71,-55,25
+1883,Greater Toronto Area,Regional Municipality of York,Ontario,-47,-17,13,-72,-55,25
+1884,Greater Toronto Area,Regional Municipality of York,Ontario,-47,-12,45,-70,-54,25
+1885,Greater Toronto Area,Regional Municipality of York,Ontario,-51,-23,-24,-71,-52,26
+1886,Greater Toronto Area,Regional Municipality of York,Ontario,-50,-11,28,-63,-20,15
+1887,Greater Toronto Area,Regional Municipality of York,Ontario,-52,-18,52,-68,-23,12
+1888,Greater Toronto Area,Regional Municipality of York,Ontario,-48,-19,2,-72,-54,24
+1889,Greater Toronto Area,Regional Municipality of York,Ontario,-47,-13,3,-71,-54,25
+1890,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-10,0,-71,-54,25
+1891,Greater Toronto Area,Regional Municipality of York,Ontario,-42,-3,6,-71,-53,24
+1892,Greater Toronto Area,Regional Municipality of York,Ontario,-47,-8,-14,-70,-53,26
+1893,Greater Toronto Area,Regional Municipality of York,Ontario,-49,-1,17,-63,-22,14
+1894,Greater Toronto Area,Regional Municipality of York,Ontario,-41,4,130,-63,-21,11
+1895,Greater Toronto Area,Regional Municipality of York,Ontario,-60,-33,95,-83,-84,32
+1896,Greater Toronto Area,Regional Municipality of York,Ontario,-55,-23,-26,-73,-58,27
+1897,Greater Toronto Area,Regional Municipality of York,Ontario,-42,-2,12,-68,-50,23
+1898,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-7,-2,-68,-49,24
+1899,Greater Toronto Area,Regional Municipality of York,Ontario,-48,-15,-1,-67,-46,24
+1900,Greater Toronto Area,Regional Municipality of York,Ontario,-45,-1,119,-56,-14,13
+1901,Greater Toronto Area,Regional Municipality of York,Ontario,-48,-7,133,-61,-18,11
+1902,Greater Toronto Area,Regional Municipality of York,Ontario,-34,-16,-1,-67,-49,22
+1903,Greater Toronto Area,Regional Municipality of York,Ontario,-30,-2,2,-66,-48,22
+1904,Greater Toronto Area,Regional Municipality of York,Ontario,-28,-3,12,-66,-48,22
+1905,Greater Toronto Area,Regional Municipality of York,Ontario,-27,1,25,-64,-47,21
+1906,Greater Toronto Area,Regional Municipality of York,Ontario,-28,1,32,-61,-44,21
+1907,Greater Toronto Area,Regional Municipality of York,Ontario,-25,6,91,-46,-10,11
+1908,Greater Toronto Area,Regional Municipality of York,Ontario,-29,-3,29,-55,-13,10
+1909,Greater Toronto Area,Regional Municipality of York,Ontario,-31,-11,-3,-65,-47,21
+1910,Greater Toronto Area,Regional Municipality of York,Ontario,-30,-3,4,-65,-48,21
+1911,Greater Toronto Area,Toronto Division,Ontario,0,2,15,1,0,-1
+1912,Greater Toronto Area,Toronto Division,Ontario,11,10,35,8,-4,-3
+1913,Greater Toronto Area,Toronto Division,Ontario,-26,-45,49,-50,-76,17
+1914,Greater Toronto Area,Toronto Division,Ontario,-3,11,-2,1,-1,0
+1915,Greater Toronto Area,Toronto Division,Ontario,-1,3,-3,-2,0,1
+1916,Greater Toronto Area,Toronto Division,Ontario,2,5,2,-1,2,0
+1917,Greater Toronto Area,Toronto Division,Ontario,1,-1,20,2,-6,2
+1918,Greater Toronto Area,Toronto Division,Ontario,8,8,56,13,7,-1
+1919,Greater Toronto Area,Toronto Division,Ontario,9,7,64,13,3,-2
+1920,Greater Toronto Area,Toronto Division,Ontario,1,2,22,-2,1,0
+1921,Greater Toronto Area,Toronto Division,Ontario,1,5,5,2,1,0
+1922,Greater Toronto Area,Toronto Division,Ontario,-10,-7,-13,-7,-4,3
+1923,Greater Toronto Area,Toronto Division,Ontario,-8,-6,-13,-3,-3,3
+1924,Greater Toronto Area,Toronto Division,Ontario,-5,-1,-8,-1,0,1
+1925,Greater Toronto Area,Toronto Division,Ontario,3,8,16,3,7,-1
+1926,Greater Toronto Area,Toronto Division,Ontario,5,12,28,4,4,-1
+1927,Greater Toronto Area,Toronto Division,Ontario,0,6,2,0,3,0
+1928,Greater Toronto Area,Toronto Division,Ontario,-2,3,-4,1,3,0
+1929,Greater Toronto Area,Toronto Division,Ontario,3,5,3,0,2,0
+1930,Greater Toronto Area,Toronto Division,Ontario,4,10,24,2,-1,1
+1931,Greater Toronto Area,Toronto Division,Ontario,-4,-1,-4,-3,2,1
+1932,Greater Toronto Area,Toronto Division,Ontario,7,8,50,8,7,-1
+1933,Greater Toronto Area,Toronto Division,Ontario,8,9,102,8,3,-1
+1934,Greater Toronto Area,Toronto Division,Ontario,1,5,48,-3,1,1
+1935,Greater Toronto Area,Toronto Division,Ontario,-2,2,0,-5,0,1
+1936,Greater Toronto Area,Toronto Division,Ontario,-2,5,-2,-6,-1,2
+1937,Greater Toronto Area,Toronto Division,Ontario,-1,30,4,-8,-1,2
+1938,Greater Toronto Area,Toronto Division,Ontario,-9,40,-13,-18,-9,5
+1939,Greater Toronto Area,Toronto Division,Ontario,-17,23,1,-23,-3,4
+1940,Greater Toronto Area,Toronto Division,Ontario,-20,11,38,-25,-10,4
+1941,Greater Toronto Area,Toronto Division,Ontario,-23,19,-4,-45,-37,13
+1942,Greater Toronto Area,Toronto Division,Ontario,-39,7,-4,-54,-46,17
+1943,Greater Toronto Area,Toronto Division,Ontario,-45,-5,-12,-58,-52,21
+1944,Greater Toronto Area,Toronto Division,Ontario,-48,-4,-3,-61,-54,22
+1945,Greater Toronto Area,Toronto Division,Ontario,-53,-12,-17,-62,-57,24
+1946,Greater Toronto Area,Toronto Division,Ontario,-56,-16,16,-56,-39,14
+1947,Greater Toronto Area,Toronto Division,Ontario,-60,-27,-10,-60,-43,12
+1948,Greater Toronto Area,Toronto Division,Ontario,-56,-22,-52,-69,-62,25
+1949,Greater Toronto Area,Toronto Division,Ontario,-56,-18,-11,-69,-63,25
+1950,Greater Toronto Area,Toronto Division,Ontario,-62,-29,-5,-72,-67,28
+1951,Greater Toronto Area,Toronto Division,Ontario,-63,-28,-20,-72,-67,29
+1952,Greater Toronto Area,Toronto Division,Ontario,-62,-27,1,-70,-67,29
+1953,Greater Toronto Area,Toronto Division,Ontario,-67,-34,-43,-68,-51,18
+1954,Greater Toronto Area,Toronto Division,Ontario,-66,-38,-10,-66,-51,14
+1955,Greater Toronto Area,Toronto Division,Ontario,-64,-35,-46,-74,-69,28
+1956,Greater Toronto Area,Toronto Division,Ontario,-61,-27,-41,-72,-69,27
+1957,Greater Toronto Area,Toronto Division,Ontario,-60,-28,-9,-72,-69,28
+1958,Greater Toronto Area,Toronto Division,Ontario,-61,-27,-11,-73,-68,29
+1959,Greater Toronto Area,Toronto Division,Ontario,-64,-30,-40,-73,-68,30
+1960,Greater Toronto Area,Toronto Division,Ontario,-65,-32,-29,-67,-51,18
+1961,Greater Toronto Area,Toronto Division,Ontario,-67,-36,-11,-67,-52,14
+1962,Greater Toronto Area,Toronto Division,Ontario,-63,-31,-15,-74,-69,27
+1963,Greater Toronto Area,Toronto Division,Ontario,-64,-29,-29,-74,-69,28
+1964,Greater Toronto Area,Toronto Division,Ontario,-62,-25,-14,-73,-70,28
+1965,Greater Toronto Area,Toronto Division,Ontario,-56,-10,-39,-72,-70,28
+1966,Greater Toronto Area,Toronto Division,Ontario,-84,-71,-38,-84,-88,39
+1967,Greater Toronto Area,Toronto Division,Ontario,-64,-23,-27,-65,-53,18
+1968,Greater Toronto Area,Toronto Division,Ontario,-82,-69,-21,-72,-58,16
+1969,Greater Toronto Area,Toronto Division,Ontario,-67,-34,-55,-78,-73,30
+1970,Greater Toronto Area,Toronto Division,Ontario,-62,-25,-39,-74,-69,28
+1971,Greater Toronto Area,Toronto Division,Ontario,-63,-30,-44,-75,-70,29
+1972,Greater Toronto Area,Toronto Division,Ontario,-64,-28,-42,-75,-69,30
+1973,Greater Toronto Area,Toronto Division,Ontario,-65,-30,-42,-73,-69,31
+1974,Greater Toronto Area,Toronto Division,Ontario,-65,-29,-13,-64,-48,17
+1975,Greater Toronto Area,Toronto Division,Ontario,-69,-41,-38,-68,-49,15
+1976,Greater Toronto Area,Toronto Division,Ontario,-62,-30,-16,-73,-68,27
+1977,Greater Toronto Area,Toronto Division,Ontario,-65,-33,-51,-75,-69,28
+1978,Greater Toronto Area,Toronto Division,Ontario,-62,-28,-30,-74,-68,29
+1979,Greater Toronto Area,Toronto Division,Ontario,-63,-26,-36,-74,-68,29
+1980,Greater Toronto Area,Toronto Division,Ontario,-64,-29,-29,-72,-67,30
+1981,Greater Toronto Area,Toronto Division,Ontario,-63,-27,24,-61,-47,16
+1982,Greater Toronto Area,Toronto Division,Ontario,-68,-40,-50,-69,-49,15
+1983,Greater Toronto Area,Toronto Division,Ontario,-61,-26,12,-71,-67,26
+1984,Greater Toronto Area,Toronto Division,Ontario,-61,-27,-17,-72,-68,27
+1985,Greater Toronto Area,Toronto Division,Ontario,-62,-30,-40,-73,-68,29
+1986,Greater Toronto Area,Toronto Division,Ontario,-61,-24,-28,-72,-68,29
+1987,Greater Toronto Area,Toronto Division,Ontario,-60,-21,3,-68,-66,28
+1988,Greater Toronto Area,Toronto Division,Ontario,-63,-27,-13,-60,-45,16
+1989,Greater Toronto Area,Toronto Division,Ontario,-58,-25,76,-53,-40,11
+1990,Greater Toronto Area,Toronto Division,Ontario,-60,-25,-12,-71,-66,26
+1991,Greater Toronto Area,Toronto Division,Ontario,-58,-21,-4,-69,-66,26
+1992,Greater Toronto Area,Toronto Division,Ontario,-58,-22,7,-69,-66,27
+1993,Greater Toronto Area,Toronto Division,Ontario,-59,-21,-16,-70,-66,28
+1994,Greater Toronto Area,Toronto Division,Ontario,-60,-22,-33,-69,-65,29
+1995,Greater Toronto Area,Toronto Division,Ontario,-60,-23,-41,-63,-42,17
+1996,Greater Toronto Area,Toronto Division,Ontario,-57,-24,-22,-59,-38,12
+1997,Greater Toronto Area,Toronto Division,Ontario,-60,-29,-30,-71,-65,27
+1998,Greater Toronto Area,Toronto Division,Ontario,-57,-22,-14,-69,-64,26
+1999,Greater Toronto Area,Toronto Division,Ontario,-54,-19,25,-67,-64,26
+2000,Greater Toronto Area,Toronto Division,Ontario,-57,-23,-33,-70,-64,28
+2001,Greater Toronto Area,Toronto Division,Ontario,-56,-20,-21,-68,-64,28
+2002,Greater Toronto Area,Toronto Division,Ontario,-53,-16,91,-49,-38,12
+2003,Greater Toronto Area,Toronto Division,Ontario,-54,-20,14,-57,-38,11
+2004,Greater Toronto Area,Toronto Division,Ontario,-76,-62,-44,-82,-85,33
+2005,Greater Toronto Area,Toronto Division,Ontario,-50,-11,5,-66,-63,24
+2006,Greater Toronto Area,Toronto Division,Ontario,-47,-10,63,-63,-62,24
+2007,Greater Toronto Area,Toronto Division,Ontario,-48,-9,68,-64,-62,24
+2008,Greater Toronto Area,Toronto Division,Ontario,-50,-14,64,-61,-60,24
+2009,Greater Toronto Area,Toronto Division,Ontario,-48,-14,127,-45,-31,11
+2010,Greater Toronto Area,Toronto Division,Ontario,-49,-21,102,-48,-31,9
+2011,Greater Toronto Area,Toronto Division,Ontario,-47,-16,69,-63,-62,22
+2012,Greater Toronto Area,Toronto Division,Ontario,-46,-14,68,-63,-60,22
+2013,Greater Toronto Area,Toronto Division,Ontario,-46,-14,60,-63,-60,23
+2014,Greater Toronto Area,Toronto Division,Ontario,-50,-18,-12,-66,-60,25
+2015,Greater Toronto Area,Toronto Division,Ontario,-50,-17,-6,-63,-59,25
+2016,Greater Toronto Area,Toronto Division,Ontario,-47,-13,68,-44,-24,11
+2017,Greater Toronto Area,Toronto Division,Ontario,-46,-17,79,-46,-22,8
+2018,Greater Toronto Area,Toronto Division,Ontario,-44,-12,78,-61,-58,21
+2019,Greater Toronto Area,Toronto Division,Ontario,-46,-15,48,-62,-59,22
+2020,Greater Toronto Area,Toronto Division,Ontario,-46,-15,51,-62,-59,23
+2021,Greater Toronto Area,Toronto Division,Ontario,-45,-9,85,-61,-58,22
+2022,Greater Toronto Area,Toronto Division,Ontario,-47,-14,46,-60,-57,23
+2023,Greater Toronto Area,Toronto Division,Ontario,-44,-12,129,-44,-22,9
+2024,Greater Toronto Area,Toronto Division,Ontario,-43,-16,135,-45,-22,7
+2025,Greater Toronto Area,Toronto Division,Ontario,-42,-12,89,-60,-57,20
+2026,Greater Toronto Area,Toronto Division,Ontario,-43,-12,95,-61,-57,20
+2027,Greater Toronto Area,Toronto Division,Ontario,-43,-14,49,-62,-57,22
+2028,Greater Toronto Area,Toronto Division,Ontario,-42,-8,85,-60,-56,22
+2029,Greater Toronto Area,Toronto Division,Ontario,-43,-11,75,-58,-55,21
+2030,Greater Toronto Area,Toronto Division,Ontario,-42,-11,131,-42,-17,8
+2031,Greater Toronto Area,Toronto Division,Ontario,-41,-15,134,-43,-17,6
+2032,Greater Toronto Area,Toronto Division,Ontario,-41,-12,91,-59,-56,20
+2033,Greater Toronto Area,Toronto Division,Ontario,-40,-10,104,-59,-55,20
+2034,Greater Toronto Area,Toronto Division,Ontario,-41,-11,97,-59,-56,21
+2035,Greater Toronto Area,Toronto Division,Ontario,-40,-6,105,-59,-55,20
+2036,Greater Toronto Area,Toronto Division,Ontario,-43,-9,96,-56,-54,19
+2037,Greater Toronto Area,Toronto Division,Ontario,-42,-10,138,-40,-15,6
+2038,Greater Toronto Area,Toronto Division,Ontario,-42,-17,113,-43,-12,4
+2039,Greater Toronto Area,Toronto Division,Ontario,-43,-16,64,-61,-57,20
+2040,Greater Toronto Area,Toronto Division,Ontario,-44,-15,28,-61,-57,21
+2041,Greater Toronto Area,Toronto Division,Ontario,-37,-9,71,-57,-55,20
+2042,Greater Toronto Area,Toronto Division,Ontario,-36,-5,96,-56,-54,19
+2043,Greater Toronto Area,Toronto Division,Ontario,-38,-9,105,-53,-53,18
+2044,Greater Toronto Area,Toronto Division,Ontario,-38,-11,113,-38,-15,7
+2045,Greater Toronto Area,Toronto Division,Ontario,-36,-14,154,-35,-10,3
+2046,Greater Toronto Area,Toronto Division,Ontario,-33,-7,101,-57,-55,17
+2047,Greater Toronto Area,Toronto Division,Ontario,-24,14,109,-54,-54,15
+2048,Greater Toronto Area,Toronto Division,Ontario,-56,-46,220,-66,-76,21
+2049,Greater Toronto Area,Toronto Division,Ontario,-31,3,82,-57,-56,18
+2050,Greater Toronto Area,Toronto Division,Ontario,-35,-4,92,-55,-57,18
+2051,Greater Toronto Area,Toronto Division,Ontario,-36,-10,141,-39,-15,5
+2052,Greater Toronto Area,Toronto Division,Ontario,-35,-14,129,-40,-13,3
+2053,Greater Toronto Area,Toronto Division,Ontario,-33,-6,100,-57,-55,17
+2054,Greater Toronto Area,Toronto Division,Ontario,-34,-6,95,-56,-55,17
+2055,Greater Toronto Area,Toronto Division,Ontario,-34,-9,68,-57,-55,18
+2056,Greater Toronto Area,Toronto Division,Ontario,-33,-2,87,-56,-54,18
+2057,Greater Toronto Area,Toronto Division,Ontario,-36,-7,79,-55,-53,18
+2058,Greater Toronto Area,Toronto Division,Ontario,-38,-11,30,-44,-15,8
+2059,Greater Toronto Area,Toronto Division,Ontario,-32,-10,131,-37,-11,3
+2060,Greater Toronto Area,Toronto Division,Ontario,-34,-8,86,-57,-54,17
+2061,Greater Toronto Area,Toronto Division,Ontario,-33,-6,109,-56,-54,17
+2062,Greater Toronto Area,Toronto Division,Ontario,-32,-8,101,-56,-53,17
+2063,Greater Toronto Area,Toronto Division,Ontario,-36,-6,22,-59,-53,19
+2064,Greater Toronto Area,Toronto Division,Ontario,-34,-5,109,-52,-52,16
+2065,Greater Toronto Area,Toronto Division,Ontario,-34,-9,147,-35,-11,4
+2066,Greater Toronto Area,Toronto Division,Ontario,-38,-16,66,-45,-15,4
+2067,Greater Toronto Area,Toronto Division,Ontario,-31,-6,109,-56,-53,16
+2068,Greater Toronto Area,Toronto Division,Ontario,-32,-5,110,-56,-52,16
+2069,Greater Toronto Area,Toronto Division,Ontario,-36,-12,24,-59,-54,19
+2070,Greater Toronto Area,Toronto Division,Ontario,-31,-2,105,-55,-52,17
+2071,Greater Toronto Area,Toronto Division,Ontario,-34,-7,106,-53,-51,16
+2072,Greater Toronto Area,Toronto Division,Ontario,-33,-9,156,-35,-12,3
+2073,Greater Toronto Area,Toronto Division,Ontario,-33,-13,130,-37,-12,2
+2074,Greater Toronto Area,Toronto Division,Ontario,-35,-10,60,-58,-54,17
+2075,Greater Toronto Area,Toronto Division,Ontario,-32,-5,104,-55,-53,16
+2076,Greater Toronto Area,Toronto Division,Ontario,-30,-7,85,-56,-54,17
+2077,Greater Toronto Area,Toronto Division,Ontario,-28,-1,101,-54,-53,16
+2078,Greater Toronto Area,Toronto Division,Ontario,-29,-4,105,-51,-52,14
+2079,Greater Toronto Area,Toronto Division,Ontario,-32,-12,135,-34,-14,2
+2080,Greater Toronto Area,Toronto Division,Ontario,-33,-16,23,-45,-18,4
+2081,Greater Toronto Area,Toronto Division,Ontario,-43,-31,85,-69,-77,20
+2082,Greater Toronto Area,Toronto Division,Ontario,-32,-7,13,-57,-55,17
+2083,Greater Toronto Area,Toronto Division,Ontario,-26,-5,103,-53,-53,16
+2084,Greater Toronto Area,Toronto Division,Ontario,-26,-3,111,-53,-52,16
+2085,Greater Toronto Area,Toronto Division,Ontario,-30,-9,104,-51,-51,15
+2086,Greater Toronto Area,Toronto Division,Ontario,-28,-11,162,-32,-10,2
+2087,Greater Toronto Area,Toronto Division,Ontario,-28,-15,128,-35,-11,1
+2088,Greater Toronto Area,Toronto Division,Ontario,-29,-11,91,-56,-53,15
+2089,Greater Toronto Area,Toronto Division,Ontario,-29,-9,89,-55,-53,16
+2090,Greater Toronto Area,Toronto Division,Ontario,-27,-10,102,-54,-53,16
+2091,Greater Toronto Area,Toronto Division,Ontario,-27,-7,104,-53,-52,16
+2092,Greater Toronto Area,Toronto Division,Ontario,-29,-10,100,-50,-51,14
+2093,Greater Toronto Area,Toronto Division,Ontario,-27,-12,155,-31,-11,1
+2094,Greater Toronto Area,Toronto Division,Ontario,-27,-15,79,-38,-13,2
+2095,Greater Toronto Area,Toronto Division,Ontario,-31,-15,49,-56,-54,16
+2096,Greater Toronto Area,Toronto Division,Ontario,-27,-9,93,-53,-52,15
+2097,Greater Toronto Area,Toronto Division,Ontario,-27,-11,92,-53,-52,15
+2098,Greater Toronto Area,Toronto Division,Ontario,-25,-4,106,-52,-51,15
+2099,Greater Toronto Area,Toronto Division,Ontario,-29,-8,87,-50,-50,14
+2100,Greater Toronto Area,Toronto Division,Ontario,-27,-11,141,-30,-9,2
+2101,Greater Toronto Area,Toronto Division,Ontario,-26,-14,122,-33,-10,0
+2102,Greater Toronto Area,Toronto Division,Ontario,-28,-10,86,-54,-52,15
+2103,Greater Toronto Area,Toronto Division,Ontario,-26,-7,103,-52,-52,14
+2104,Greater Toronto Area,Toronto Division,Ontario,-28,-12,49,-54,-51,16
+2105,Greater Toronto Area,Toronto Division,Ontario,-26,-5,80,-52,-50,15
+2106,Greater Toronto Area,Toronto Division,Ontario,-28,-8,79,-49,-50,14
+2107,Greater Toronto Area,Toronto Division,Ontario,-26,-8,103,-32,-10,3
+2108,Greater Toronto Area,Toronto Division,Ontario,-22,-11,142,-28,-9,0
+2109,Greater Toronto Area,Toronto Division,Ontario,-24,-7,92,-51,-52,13
+2110,Greater Toronto Area,Toronto Division,Ontario,-25,-6,95,-50,-52,14
+2111,Greater Toronto Area,Toronto Division,Ontario,-25,-8,62,-53,-52,15
+2112,Greater Toronto Area,Toronto Division,Ontario,-23,-4,92,-50,-50,14
+2113,Greater Toronto Area,Toronto Division,Ontario,-24,-5,82,-48,-50,13
+2114,Greater Toronto Area,Toronto Division,Ontario,-26,-11,100,-33,-12,2
+2115,Greater Toronto Area,Toronto Division,Ontario,-19,-9,138,-28,-12,-1
+2116,Greater Toronto Area,Toronto Division,Ontario,-53,-48,67,-71,-81,21
+2117,Greater Toronto Area,Toronto Division,Ontario,-25,1,33,-53,-52,14
+2118,Greater Toronto Area,Toronto Division,Ontario,-27,-7,43,-53,-51,15
+2119,Greater Toronto Area,Toronto Division,Ontario,-25,-3,60,-51,-49,15
+2120,Greater Toronto Area,Toronto Division,Ontario,-26,-7,68,-48,-48,14
+2121,Greater Toronto Area,Toronto Division,Ontario,-22,-6,125,-30,-6,3
+2122,Greater Toronto Area,Toronto Division,Ontario,-23,-10,85,-34,-10,3
+2123,Greater Toronto Area,Toronto Division,Ontario,-26,-7,57,-53,-48,15
+2124,Greater Toronto Area,Toronto Division,Ontario,-25,-6,63,-52,-48,15
+2125,Greater Toronto Area,Toronto Division,Ontario,-26,-10,74,-51,-49,15
+2126,Greater Toronto Area,Toronto Division,Ontario,-27,-5,60,-51,-48,15
+2127,Greater Toronto Area,Toronto Division,Ontario,-28,-9,46,-49,-47,14
+2128,Greater Toronto Area,Toronto Division,Ontario,-24,-7,92,-33,-7,4
+2129,Greater Toronto Area,Toronto Division,Ontario,-23,-9,99,-34,-9,3
+2130,Greater Toronto Area,Toronto Division,Ontario,-29,-9,55,-53,-49,15
+2131,Greater Toronto Area,Toronto Division,Ontario,-29,-7,59,-52,-49,15
+2132,Greater Toronto Area,Toronto Division,Ontario,-29,-9,68,-52,-48,15
+2133,Greater Toronto Area,Toronto Division,Ontario,-30,-6,37,-52,-47,16
+2134,Greater Toronto Area,Toronto Division,Ontario,-30,-7,61,-49,-46,14
+2135,Greater Toronto Area,Toronto Division,Ontario,-25,-6,115,-32,-4,3
+2136,Greater Toronto Area,Toronto Division,Ontario,-25,-8,108,-34,-7,2
+2137,Greater Toronto Area,Toronto Division,Ontario,-32,-8,50,-54,-48,15
+2138,Greater Toronto Area,Toronto Division,Ontario,-31,-6,33,-53,-48,15
+2139,Greater Toronto Area,Toronto Division,Ontario,-32,-9,0,-54,-48,17
+2140,Greater Toronto Area,Toronto Division,Ontario,-29,-1,32,-53,-45,16
+2141,Greater Toronto Area,Toronto Division,Ontario,-33,-8,14,-51,-45,16
+2142,Greater Toronto Area,Toronto Division,Ontario,-28,-7,66,-36,-7,6
+2143,Greater Toronto Area,Toronto Division,Ontario,-33,-12,-12,-43,-14,6
+2144,Greater Toronto Area,Toronto Division,Ontario,-32,-5,36,-54,-47,16
+2145,Greater Toronto Area,Toronto Division,Ontario,-33,-6,39,-53,-47,15
+2146,Greater Toronto Area,Toronto Division,Ontario,-34,-9,12,-55,-47,17
+2147,Greater Toronto Area,Toronto Division,Ontario,-33,-3,14,-53,-46,17
+2148,Greater Toronto Area,Toronto Division,Ontario,-31,1,40,-50,-45,15
+2149,Greater Toronto Area,Toronto Division,Ontario,-35,-4,68,-39,-9,5
+2150,Greater Toronto Area,Toronto Division,Ontario,-34,-5,48,-40,-12,3
+2151,Greater Toronto Area,Toronto Division,Ontario,-66,-54,52,-75,-82,24
+2152,Greater Toronto Area,Toronto Division,Ontario,-36,-2,51,-53,-49,16
+2153,Greater Toronto Area,Toronto Division,Ontario,-36,-8,36,-54,-47,17
+2154,Greater Toronto Area,Toronto Division,Ontario,-41,-13,-30,-56,-48,20
+2155,Greater Toronto Area,Toronto Division,Ontario,-36,-5,32,-51,-45,17
+2156,Greater Toronto Area,Toronto Division,Ontario,-31,-5,91,-37,-8,6
+2157,Greater Toronto Area,Toronto Division,Ontario,-35,-12,39,-42,-15,7
+2158,Greater Toronto Area,Toronto Division,Ontario,-40,-13,-18,-57,-49,18
+2159,Greater Toronto Area,Toronto Division,Ontario,-36,-7,25,-54,-48,17
+2160,Greater Toronto Area,Toronto Division,Ontario,-38,-12,12,-55,-48,19
+2161,Greater Toronto Area,Toronto Division,Ontario,-38,-7,5,-54,-46,19
+2162,Greater Toronto Area,Toronto Division,Ontario,-35,-8,69,-50,-45,16
+2163,Greater Toronto Area,Toronto Division,Ontario,-33,-5,49,-38,-9,7
+2164,Greater Toronto Area,Toronto Division,Ontario,-34,-11,30,-41,-15,6
+2165,Greater Toronto Area,Toronto Division,Ontario,-39,-11,0,-56,-48,17
+2166,Greater Toronto Area,Toronto Division,Ontario,-41,-14,-18,-56,-48,18
+2167,Greater Toronto Area,Toronto Division,Ontario,-34,-6,25,-54,-46,17
+2168,Greater Toronto Area,Toronto Division,Ontario,-37,-7,-8,-55,-46,18
+2169,Greater Toronto Area,Toronto Division,Ontario,-37,-6,-10,-53,-45,17
+2170,Greater Toronto Area,Toronto Division,Ontario,-31,-2,47,-36,-8,6
+2171,Greater Toronto Area,Toronto Division,Ontario,-38,-12,-23,-45,-17,7
+2172,Greater Toronto Area,Toronto Division,Ontario,-39,-13,-23,-57,-48,18
+2173,Greater Toronto Area,Toronto Division,Ontario,-39,-10,-8,-55,-47,17
+2174,Greater Toronto Area,Toronto Division,Ontario,-36,-11,34,-54,-47,18
+2175,Greater Toronto Area,Toronto Division,Ontario,-36,-8,25,-54,-45,18
+2176,Greater Toronto Area,Toronto Division,Ontario,-35,-8,46,-51,-44,17
+2177,Greater Toronto Area,Toronto Division,Ontario,-29,-6,112,-33,-7,6
+2178,Greater Toronto Area,Toronto Division,Ontario,-28,-8,115,-36,-11,4
+2179,Greater Toronto Area,Toronto Division,Ontario,-36,-10,45,-55,-47,17
+2180,Greater Toronto Area,Toronto Division,Ontario,-34,-7,63,-53,-46,16
+2181,Greater Toronto Area,Toronto Division,Ontario,-35,-9,25,-56,-48,18
+2182,Greater Toronto Area,Toronto Division,Ontario,-37,-6,11,-55,-45,18
+2183,Greater Toronto Area,Toronto Division,Ontario,-38,-8,-4,-53,-45,18
+2184,Greater Toronto Area,Toronto Division,Ontario,-33,-5,43,-41,-10,8
+2185,Greater Toronto Area,Toronto Division,Ontario,-44,-22,-40,-51,-19,9
+2186,Greater Toronto Area,Toronto Division,Ontario,-40,-14,-23,-59,-48,18
+2187,Greater Toronto Area,Toronto Division,Ontario,-41,-13,-22,-58,-48,18
+2188,Greater Toronto Area,Toronto Division,Ontario,-41,-15,-23,-59,-48,19
+2189,Greater Toronto Area,Toronto Division,Ontario,-37,-8,3,-57,-46,19
+2190,Greater Toronto Area,Toronto Division,Ontario,-34,-5,33,-54,-47,18
+2191,Greater Toronto Area,Toronto Division,Ontario,-30,-2,11,-41,-8,8
+2192,Greater Toronto Area,Toronto Division,Ontario,-42,-23,-34,-49,-17,9
+2193,Greater Toronto Area,Toronto Division,Ontario,-51,-21,-28,-62,-50,20
+2194,Greater Toronto Area,Toronto Division,Ontario,-49,-18,-25,-62,-50,20
+2195,Greater Toronto Area,Toronto Division,Ontario,-49,-21,-30,-62,-49,21
+2196,Greater Toronto Area,Toronto Division,Ontario,-44,-10,-9,-60,-48,20
+2197,Greater Toronto Area,Toronto Division,Ontario,-45,-14,-8,-59,-47,20
+2198,Greater Toronto Area,Toronto Division,Ontario,-43,-11,34,-49,-14,10
+2199,Greater Toronto Area,Toronto Division,Ontario,-43,-15,42,-50,-19,8
+2200,Greater Toronto Area,Toronto Division,Ontario,-48,-24,-49,-63,-50,20
+2201,Greater Toronto Area,Toronto Division,Ontario,-51,-20,-28,-61,-51,21
+2202,Greater Toronto Area,Toronto Division,Ontario,-46,-13,-16,-60,-49,20
+2203,Greater Toronto Area,Toronto Division,Ontario,-45,-10,-13,-59,-48,20
+2204,Greater Toronto Area,Toronto Division,Ontario,-49,-18,-30,-60,-48,21
+2205,Greater Toronto Area,Toronto Division,Ontario,-45,-10,4,-49,-15,10
+2206,Greater Toronto Area,Toronto Division,Ontario,-47,-16,9,-52,-21,8
+2207,Greater Toronto Area,Toronto Division,Ontario,-48,-17,-23,-62,-49,19
+2208,Greater Toronto Area,Toronto Division,Ontario,-47,-15,-14,-61,-49,19
+2209,Greater Toronto Area,Toronto Division,Ontario,-50,-21,-29,-62,-50,21
+2210,Greater Toronto Area,Toronto Division,Ontario,-46,-10,-13,-60,-48,20
+2211,Greater Toronto Area,Toronto Division,Ontario,-45,-11,4,-58,-47,20
+2212,Greater Toronto Area,Toronto Division,Ontario,-50,-18,-33,-55,-18,12
+2213,Greater Toronto Area,Toronto Division,Ontario,-46,-14,2,-52,-20,8
+2214,Greater Toronto Area,Toronto Division,Ontario,-47,-14,-23,-62,-50,19
+2215,Greater Toronto Area,Toronto Division,Ontario,-46,-12,-22,-61,-50,19
+2216,Greater Toronto Area,Toronto Division,Ontario,-49,-20,-42,-64,-50,21
+2217,Greater Toronto Area,Toronto Division,Ontario,-45,-8,-21,-60,-49,21
+2218,Greater Toronto Area,Toronto Division,Ontario,-45,-10,-12,-59,-48,20
+2219,Greater Toronto Area,Toronto Division,Ontario,-46,-10,-6,-51,-16,11
+2220,Greater Toronto Area,Toronto Division,Ontario,-45,-14,-5,-52,-20,9
+2221,Greater Toronto Area,Toronto Division,Ontario,-39,-1,-4,-62,-54,19
+2222,Greater Toronto Area,Toronto Division,Ontario,-37,7,-6,-61,-55,18
+2223,Greater Toronto Area,Toronto Division,Ontario,-32,19,1,-60,-55,18
+2224,Greater Toronto Area,Toronto Division,Ontario,-40,16,-30,-67,-67,23
+2225,Greater Toronto Area,Toronto Division,Ontario,-84,-74,-2,-84,-86,32
+2226,Greater Toronto Area,Toronto Division,Ontario,-68,-44,-1,-67,-43,15
+2227,Greater Toronto Area,Toronto Division,Ontario,-56,-29,12,-60,-27,10
+2228,Greater Toronto Area,Toronto Division,Ontario,-52,-16,-15,-75,-74,27
+2229,Greater Toronto Area,Toronto Division,Ontario,-47,-8,5,-68,-64,23
+2230,Greater Toronto Area,Toronto Division,Ontario,-47,-6,-33,-69,-64,25
+2231,Greater Toronto Area,Toronto Division,Ontario,-41,11,5,-68,-67,25
+2232,Greater Toronto Area,Toronto Division,Ontario,-80,-71,-4,-84,-86,34
+2233,Greater Toronto Area,Toronto Division,Ontario,-58,-23,14,-62,-32,15
+2234,Greater Toronto Area,Toronto Division,Ontario,-58,-27,-9,-61,-27,12
+2235,Greater Toronto Area,Toronto Division,Ontario,-53,-18,-22,-66,-55,22
+2236,Greater Toronto Area,Toronto Division,Ontario,-53,-17,-21,-66,-55,22
+2237,Greater Toronto Area,Toronto Division,Ontario,-54,-21,-23,-67,-55,23
+2238,Greater Toronto Area,Toronto Division,Ontario,-53,-15,-12,-66,-54,24
+2239,Greater Toronto Area,Toronto Division,Ontario,-55,-20,-19,-66,-53,24
+2240,Greater Toronto Area,Toronto Division,Ontario,-51,-14,28,-57,-20,13
+2241,Greater Toronto Area,Toronto Division,Ontario,-54,-21,6,-60,-25,11
+2242,Greater Toronto Area,Toronto Division,Ontario,-55,-22,-25,-68,-55,22
+2243,Greater Toronto Area,Toronto Division,Ontario,-55,-20,-27,-68,-55,22
+2244,Greater Toronto Area,Toronto Division,Ontario,-53,-18,-23,-68,-55,22
+2245,Greater Toronto Area,Toronto Division,Ontario,-61,-27,-25,-70,-57,25
+2246,Greater Toronto Area,Toronto Division,Ontario,-60,-29,-32,-70,-57,25
+2247,Greater Toronto Area,Toronto Division,Ontario,-57,-21,22,-63,-26,14
+2248,Greater Toronto Area,Toronto Division,Ontario,-59,-28,0,-64,-30,12
+2249,Greater Toronto Area,Toronto Division,Ontario,-59,-28,-22,-70,-58,23
+2250,Greater Toronto Area,Toronto Division,Ontario,-59,-27,-27,-70,-58,23
+2251,Greater Toronto Area,Toronto Division,Ontario,-59,-30,-34,-71,-58,25
+2252,Greater Toronto Area,Toronto Division,Ontario,-57,-22,-21,-70,-56,24
+2253,Greater Toronto Area,Toronto Division,Ontario,-58,-25,-33,-69,-56,25
+2254,Greater Toronto Area,Toronto Division,Ontario,-55,-19,-2,-62,-25,14
+2255,Greater Toronto Area,Toronto Division,Ontario,-58,-26,-6,-64,-29,11
+2256,Greater Toronto Area,Toronto Division,Ontario,-57,-24,-12,-70,-57,23
+2257,Greater Toronto Area,Toronto Division,Ontario,-66,-41,-37,-71,-59,25
+2258,Greater Toronto Area,Toronto Division,Ontario,-57,-24,-22,-69,-57,24
+2259,Greater Toronto Area,Toronto Division,Ontario,-58,-25,-38,-70,-56,25
+2260,Greater Toronto Area,Toronto Division,Ontario,-57,-24,-38,-69,-56,25
+2261,Greater Toronto Area,Toronto Division,Ontario,-53,-15,20,-61,-23,13
+2262,Greater Toronto Area,Toronto Division,Ontario,-57,-25,-17,-64,-28,11
+2263,Greater Toronto Area,Toronto Division,Ontario,-57,-25,-32,-70,-57,23
+2264,Greater Toronto Area,Toronto Division,Ontario,-57,-24,-29,-70,-57,23
+2265,Greater Toronto Area,Toronto Division,Ontario,-56,-24,-17,-70,-56,23
+2266,Greater Toronto Area,Toronto Division,Ontario,-54,-17,-2,-69,-55,23
+2267,Greater Toronto Area,Toronto Division,Ontario,-58,-27,-42,-70,-55,25
+2268,Greater Toronto Area,Toronto Division,Ontario,-55,-19,-22,-63,-23,14
+2269,Greater Toronto Area,Toronto Division,Ontario,-56,-25,-10,-63,-27,11
+2270,Greater Toronto Area,Toronto Division,Ontario,-58,-27,-34,-70,-57,23
+2271,Greater Toronto Area,Toronto Division,Ontario,-56,-23,-24,-69,-56,23
+2272,Greater Toronto Area,Toronto Division,Ontario,-56,-23,-30,-70,-56,24
+2273,Greater Toronto Area,Toronto Division,Ontario,-53,-16,-25,-69,-55,23
+2274,Greater Toronto Area,Toronto Division,Ontario,-55,-20,-36,-69,-55,24
+2275,Greater Toronto Area,Toronto Division,Ontario,-54,-14,-28,-63,-24,13
+2276,Greater Toronto Area,Toronto Division,Ontario,-45,-8,32,-58,-23,9
+2277,Greater Toronto Area,Toronto Division,Ontario,-71,-53,3,-82,-82,30
+2278,Greater Toronto Area,Toronto Division,Ontario,-60,-24,-38,-68,-57,23
+2279,Greater Toronto Area,Toronto Division,Ontario,-53,-16,-24,-66,-52,22
+2280,Greater Toronto Area,Toronto Division,Ontario,-57,-21,-35,-67,-52,23
+2281,Greater Toronto Area,Toronto Division,Ontario,-56,-22,-26,-65,-51,23
+2282,Greater Toronto Area,Toronto Division,Ontario,-51,-13,21,-59,-19,12
+2283,Greater Toronto Area,Toronto Division,Ontario,-51,-17,30,-60,-22,10
+2284,Greater Toronto Area,Toronto Division,Ontario,-58,-28,-37,-67,-54,22
+2285,Greater Toronto Area,Toronto Division,Ontario,-53,-18,-24,-66,-52,21
+2286,Greater Toronto Area,Toronto Division,Ontario,-53,-20,-20,-66,-52,22
+2287,Greater Toronto Area,Toronto Division,Ontario,-52,-15,-11,-65,-51,22
+2288,Greater Toronto Area,Toronto Division,Ontario,-50,-14,-6,-63,-49,21
+2289,Greater Toronto Area,Toronto Division,Ontario,-49,-13,21,-56,-17,11
+2290,Greater Toronto Area,Toronto Division,Ontario,-53,-22,-19,-59,-22,9
+2291,Greater Toronto Area,Toronto Division,Ontario,-54,-24,-39,-67,-52,21
+2292,Greater Toronto Area,Toronto Division,Ontario,-53,-19,-23,-66,-52,20

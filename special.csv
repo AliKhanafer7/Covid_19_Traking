@@ -1,0 +1,12 @@
+special_measures_key,title,description,keyword1,keyword2,start_date,end_date
+1,Ontario Moving Additional Region to Modified Stage 2,Action Being Taken to Stop the Spread and Contain the Second Wave in Communities,Red-Control,Regional,10/16/2020,11/07/2020
+2,Ontario Moves Public Health Unit Regions into COVID-19 Response Framework to Keep Ontario Safe and Open,New approach introduces preventative measures earlier to limit transmission of COVID-19 and avoid broader closures,Orange-Restrict,Regional,11/07/2020,11/14/2020
+3,Ontario Moving Regions to New Levels in COVID-19 Response Framework,Framework Introduces Preventative Measures Earlier to Limit Transmission of COVID-19,Orange-Restrict,Regional,11/14/2020,12/07/2020
+4,Ontario Moving Three Regions to New Levels in COVID-19 Response Framework,Framework Introduces Preventative Measures Earlier to Limit Transmission of COVID-19,Orange-Restrict,Regional,12/07/2020,12/14/2020
+5,Ontario Moving Regions to New Levels with Stronger Public Health Measures,Action is being taken to stop the spread of COVID-19 and protect vulnerable people,Grey-Lockdown,Regional,12/14/2020,12/15/2021
+6,Ontario Expands COVID-19 Vaccine Locations,Province prepared to administer additional vaccines in the coming weeks,Vaccine,Regional,12/15/2020,12/15/2020
+7,Ontario Taking Further Action to Limit Spread of COVID-19,Peel and Toronto Regions to Remain in Grey-Lockdown,Grey-Lockdown,Regional,12/16/2020,01/14/2021
+8,Ontario Confirms First Cases of COVID-19 UK Variant in Ontario,To Help Stop the Spread Ontario Entered Provincewide Shutdown Beginning Today,Variant,Regional,12/26/2020,12/26/2021
+9,Ontario Accelerates COVID-19 Vaccinations for Long-Term Care Homes in Priority Regions,All residents and workers to be vaccinated by third week of January,Vaccine,Regional,12/27/2020,12/27/2020
+10,Ontario Declares Second Provincial Emergency,Province Issues Stay-at-Home Order and Introduces Enhanced Enforcement Measures to Reduce Mobility,Grey-Lockdown,Provincewide,01/14/2021,02/14/2021
+11,Ontario Returning 27 Public Health Regions to Strengthened COVID-19 Response Framework,Province Extending Shutdown and Stay-at-Home Order in Regions at Highest Risk,Orange-Restrict,Regional,02/14/2021,02/22/2021
